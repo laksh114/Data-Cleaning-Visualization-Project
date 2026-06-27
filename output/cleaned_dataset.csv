@@ -1,0 +1,805 @@
+transaction_id,customer_id,customer_name,product_category,sale_price,quantity,order_date,store_location,customer_rating
+10136.0,C-1192,Sophia Davis,Electronics,250.44,1,2023-04-18,Chicago,4.2
+10628.0,C-1044,Emily Anderson,Electrnics,131.84,4,2023-12-05,Los Angeles,4.3
+10184.0,C-1129,Alice Smith,Electrnics,411.95,2,2023-02-01,Los Angeles,4.7
+10031.0,C-1057,Bob Johnson,Books,376.96,5,2023-02-01,New York,3.2
+10677.0,C-1013,Emma Watson,Electronics,403.12,7,2023-02-01,New York,2.6
+10289.0,C-1109,David Miller,Clothing,257.85,8,2023-03-09,Chicago,2.5
+10327.0,C-1125,Olivia Wilson,Clothing,290.94,3,2023-03-09,New York,3.6
+10491.0,C-1054,David Miller,Electronics,399.99,7,2023-03-09,Chicago,3.3
+10394.0,C-1068,Michael Brown,Electronics,250.44,8,2023-03-09,Houston,3.6
+10666.0,C-1002,Michael Brown,Clothing,175.54,3,2023-03-09,Houston,4.6
+10545.0,C-1008,sophia davis,Home & Kitchen,252.46,7,2023-03-09,New York,1.5
+10869.0,C-1011,Olivia Wilson,Electrnics,87.15,7,2023-03-09,New York,2.4
+10256.0,C-1151,Alice Smith,Electronics,372.25,1,2023-01-12,Houston,2.0
+10076.0,C-1060,Michael Brown,Books,441.29,1,2023-01-10,Houston,2.0
+10773.0,C-1186,James Taylor,Electronics,49.77,5,2023-01-10,Los Angeles,3.0
+10850.0,C-1148,james taylor,Books,201.04,8,2023-01-10,Los Angeles,3.5
+10331.0,C-1016,Emily Anderson,Clothing,392.64,8,2023-01-10,Chicago,4.7
+10629.0,C-1169,Emily Anderson,Home & Kitchen,287.39,3,2023-01-10,New York,2.8
+10811.0,C-1090,David Miller,Clothing,303.63,2,2023-10-28,New York,3.0
+10377.0,C-1149,Sophia Davis,Clothing,209.15,5,2023-10-28,Chicago,1.6
+10722.0,C-1021,James Taylor,Electronics,449.83,9,2023-10-28,Chicago,2.4
+10429.0,C-1171,David Miller,Books,129.23,2,2023-10-28,Houston,2.8
+10916.0,C-1087,James Taylor,Electronics,225.69,3,2023-03-06,Chicago,2.0
+10086.0,C-1054,Emma Watson,Books,108.81,2,2023-03-06,New York,4.5
+10318.0,C-1013,Sophia Davis,Clothing,207.38,5,2023-03-06,Chicago,4.9
+10174.0,C-1088,Alice Smith,Books,228.31,5,2023-03-06,Los Angeles,1.7
+10208.0,C-1093,David Miller,Home & Kitchen,129.09,6,2023-03-06,New York,2.9
+10519.0,C-1098,Sophia Davis,Books,0.0,5,2023-03-06,Houston,2.7
+10970.0,C-1070,sophia davis,Home & Kitchen,250.44,10,2023-03-06,Los Angeles,4.3
+10113.0,C-1009,Michael Brown,Clothing,344.15,2,2023-03-06,New York,1.7
+10439.0,C-1142,Olivia Wilson,Books,304.76,3,2023-03-06,New York,2.3
+10554.0,C-1112,Sophia Davis,Books,15.57,7,2023-03-06,New York,1.5
+10539.0,C-1165,JAMES TAYLOR,Electronics,250.44,1,2023-03-06,New York,3.2
+10059.0,C-1097,Michael Brown,Clothing,64.77,7,2023-03-06,Los Angeles,3.7
+10548.0,C-1046,David Miller,Clothing,250.44,4,2023-10-17,Chicago,4.0
+10694.0,C-1110,Michael Brown,Home & Kitchen,490.0,4,2023-10-17,Houston,2.1
+10689.0,C-1194,Emily Anderson,Electronics,37.97,2,2023-10-17,New York,2.2
+10199.0,C-1139,James Taylor,Clothing,426.47,4,2023-10-17,Los Angeles,4.7
+10778.0,C-1137,Sophia Davis,Books,448.83,4,2023-10-17,Chicago,1.1
+10734.0,C-1085,Bob Johnson,Electronics,98.03,5,2023-10-17,Los Angeles,4.4
+10442.0,C-1073,Alice Smith,Books,165.92,7,2023-10-17,Chicago,2.2
+10516.0,C-1041,Olivia Wilson,Clothing,251.71,9,2023-02-10,New York,1.4
+10947.0,C-1115,Michael Brown,Clothing,370.99,8,2023-02-10,New York,3.4
+10321.0,C-1004,David Miller,Clothing,270.37,2,2023-09-08,Los Angeles,5.0
+10049.0,C-1025,EMILY ANDERSON,Clothing,301.98,9,2023-09-08,Houston,2.3
+10887.0,C-1182,David Miller,Books,106.57,2,2023-09-08,Houston,3.4
+10109.0,C-1197,John Doe,Electronics,257.91,10,2023-09-08,Chicago,3.3
+10899.0,C-1120,Alice Smith,Clothing,268.48,6,2023-03-02,Chicago,4.5
+10678.0,C-1143,James Taylor,Books,238.24,7,2023-03-02,Los Angeles,4.3
+10961.0,C-1136,John Doe,Electronics,309.71,9,2023-03-02,Chicago,3.1
+10010.0,C-1174,bob johnson,Electronics,243.92,2,2023-03-02,Chicago,3.5
+10501.0,C-1192,Olivia Wilson,Clothing,268.31,10,2023-03-02,Los Angeles,3.7
+10523.0,C-1052,Bob Johnson,Clothing,128.79,6,2023-03-02,Houston,2.4
+10661.0,C-1103,John Doe,Electronics,124.95,6,2023-03-02,New York,1.6
+10070.0,C-1012,EMILY ANDERSON,Electrnics,294.63,5,2023-03-02,Los Angeles,1.4
+10849.0,C-1080,Alice Smith,Home & Kitchen,99.99,8,2023-03-02,Houston,4.8
+10261.0,C-1162,David Miller,Clothing,486.47,2,2023-03-02,Los Angeles,3.1
+10361.0,C-1129,Alice Smith,Home & Kitchen,481.71,5,2023-03-02,New York,4.7
+10398.0,C-1166,Alice Smith,Books,289.39,5,2023-03-02,Los Angeles,3.1
+10436.0,C-1030,Sophia Davis,Home & Kitchen,280.96,5,2023-11-22,Los Angeles,3.2
+10530.0,C-1169,emily anderson,Electronics,108.18,2,2023-11-22,Los Angeles,1.9
+10332.0,C-1043,Sophia Davis,Home & Kitchen,54.64,8,2023-09-22,Los Angeles,2.3
+10139.0,C-1150,Bob Johnson,Electronics,83.89,1,2023-09-22,New York,1.4
+10881.0,C-1126,Olivia Wilson,Clothing,81.27,6,2023-09-22,Houston,2.3
+10759.0,C-1140,Olivia Wilson,Clothing,353.54,6,2023-09-22,Houston,3.2
+10312.0,C-1119,Olivia Wilson,Electronics,46.49,5,2023-11-26,Chicago,4.3
+10924.0,C-1067,SOPHIA DAVIS,Home & Kitchen,323.99,4,2023-08-08,Los Angeles,4.3
+10141.0,C-1093,David Miller,Books,442.28,9,2023-08-08,New York,1.1
+10809.0,C-1139,Alice Smith,Electrnics,99.99,5,2023-08-08,New York,3.3
+10717.0,C-1061,Bob Johnson,Electronics,304.66,1,2023-08-08,Chicago,3.1
+10088.0,C-1069,Michael Brown,Clothing,70.67,6,2023-11-14,Los Angeles,4.4
+10842.0,C-1030,Olivia Wilson,Books,210.24,3,2023-11-14,Houston,4.9
+10305.0,C-1049,bob johnson,Clothing,350.33,9,2023-11-14,New York,3.4
+10310.0,C-1047,michael brown,Books,215.62,10,2023-11-14,Chicago,2.6
+10859.0,C-1161,Bob Johnson,Home & Kitchen,408.01,10,2023-11-14,New York,4.8
+10451.0,C-1130,Olivia Wilson,Home & Kitchen,160.17,2,2023-11-14,Chicago,4.1
+10096.0,C-1137,Michael Brown,Clothing,214.08,3,2023-03-24,Chicago,3.8
+10814.0,C-1018,Emily Anderson,Home & Kitchen,84.86,2,2023-03-24,New York,3.2
+10792.0,C-1067,Olivia Wilson,Home & Kitchen,76.58,7,2023-03-07,New York,3.2
+10030.0,C-1108,john doe,Books,250.44,5,2023-03-07,New York,2.6
+10158.0,C-1098,David Miller,Clothing,0.0,4,2023-03-07,New York,2.5
+10688.0,C-1082,Sophia Davis,Books,235.16,3,2023-03-16,Los Angeles,2.9
+10054.0,C-1012,John Doe,Home & Kitchen,276.11,8,2023-03-16,Houston,4.5
+10739.0,C-1053,Emily Anderson,Home & Kitchen,119.3,8,2023-03-16,Los Angeles,5.0
+10644.0,C-1038,MICHAEL BROWN,Books,317.94,7,2023-02-14,Houston,2.2
+10633.0,C-1170,Bob Johnson,Books,450.02,6,2023-02-14,New York,2.3
+10601.0,C-1171,Emily Anderson,Clothing,338.87,2,2023-02-14,Los Angeles,1.5
+10178.0,C-1041,Bob Johnson,Clothing,36.3,4,2023-02-14,Chicago,1.8
+10003.0,C-1190,James Taylor,Home & Kitchen,230.99,2,2023-02-14,Chicago,3.2
+10277.0,C-1147,Alice Smith,Home & Kitchen,71.69,6,2023-02-14,Chicago,3.4
+10298.0,C-1016,Alice Smith,Home & Kitchen,301.91,1,2023-04-17,New York,4.4
+10816.0,C-1167,Sophia Davis,Electronics,288.28,2,2023-02-20,Houston,4.5
+10873.0,C-1170,Emma Watson,Home & Kitchen,356.37,5,2023-02-20,Chicago,4.7
+10231.0,C-1109,EMILY ANDERSON,Clothing,291.56,4,2023-02-20,Chicago,2.5
+10210.0,C-1062,JAMES TAYLOR,Electrnics,181.78,2,2023-02-20,Houston,1.4
+10923.0,C-1091,John Doe,Books,0.0,7,2023-02-20,Chicago,2.1
+10405.0,C-1118,emily anderson,Home & Kitchen,430.9,3,2023-09-15,Houston,1.2
+10063.0,C-1161,BOB JOHNSON,Electronics,250.44,7,2023-09-15,Los Angeles,3.9
+10468.0,C-1114,Sophia Davis,Books,197.97,5,2023-09-15,Chicago,2.2
+10440.0,C-1040,emma watson,Clothing,326.68,5,2023-08-16,Houston,2.9
+10100.0,C-1119,michael brown,Clothing,250.44,5,2023-03-13,Houston,3.7
+10336.0,C-1068,JOHN DOE,Clothing,319.76,5,2023-04-07,New York,4.2
+10450.0,C-1068,alice smith,Books,250.44,2,2023-04-07,Chicago,1.6
+10408.0,C-1026,Olivia Wilson,Home & Kitchen,161.25,6,2023-02-23,Houston,3.6
+10107.0,C-1176,Alice Smith,Home & Kitchen,283.13,7,2023-02-23,Los Angeles,1.0
+10168.0,C-1175,MICHAEL BROWN,Electronics,16.76,4,2023-04-26,New York,1.8
+10039.0,C-1109,David Miller,Clothing,373.89,3,2023-04-26,Houston,4.2
+10237.0,C-1052,Olivia Wilson,Clothing,296.85,4,2023-04-26,Houston,3.5
+10575.0,C-1189,john doe,Home & Kitchen,26.67,2,2023-04-26,New York,1.2
+10192.0,C-1130,James Taylor,Clothing,10.52,4,2023-10-14,New York,2.6
+10704.0,C-1164,David Miller,Electronics,180.91,8,2023-12-04,Los Angeles,4.9
+10723.0,C-1036,Emma Watson,Home & Kitchen,217.88,5,2023-12-04,Houston,4.6
+10066.0,C-1148,Bob Johnson,Home & Kitchen,231.41,9,2023-12-04,Chicago,1.7
+10067.0,C-1050,John Doe,Electronics,254.58,3,2023-12-04,Los Angeles,1.0
+10920.0,C-1047,alice smith,Home & Kitchen,383.39,8,2023-06-25,Houston,4.5
+10497.0,C-1200,SOPHIA DAVIS,Books,44.21,6,2023-06-25,Los Angeles,4.4
+10213.0,C-1146,Michael Brown,Books,245.5,7,2023-06-25,Los Angeles,3.3
+10830.0,C-1145,bob johnson,Home & Kitchen,304.37,2,2023-06-25,Chicago,3.3
+10834.0,C-1066,James Taylor,Books,463.92,5,2023-06-25,Los Angeles,1.4
+10649.0,C-1157,David Miller,Home & Kitchen,498.7,5,2023-06-25,New York,1.8
+10350.0,C-1015,EMILY ANDERSON,Clothing,309.52,5,2023-06-25,Los Angeles,1.1
+10861.0,C-1027,BOB JOHNSON,Books,284.65,5,2023-06-25,New York,2.2
+10602.0,C-1098,MICHAEL BROWN,Electrnics,216.4,1,2023-06-25,New York,2.5
+10558.0,C-1112,Alice Smith,Home & Kitchen,247.6,7,2023-06-25,Chicago,4.9
+10877.0,C-1166,Olivia Wilson,Books,91.63,6,2023-06-25,Los Angeles,3.7
+10787.0,C-1110,Alice Smith,Electronics,307.98,2,2023-06-25,Chicago,4.6
+10973.0,C-1060,DAVID MILLER,Home & Kitchen,489.45,10,2023-06-25,Houston,1.3
+10745.0,C-1006,sophia davis,Clothing,239.55,5,2023-06-25,New York,2.3
+10308.0,C-1036,MICHAEL BROWN,Books,403.29,9,2023-04-30,New York,4.8
+10706.0,C-1197,Emma Watson,Electronics,141.56,8,2023-04-30,Houston,2.1
+10002.0,C-1007,John Doe,Clothing,61.35,6,2023-04-22,Los Angeles,2.9
+10544.0,C-1085,David Miller,Electronics,386.54,6,2023-06-07,Houston,1.9
+10770.0,C-1172,DAVID MILLER,Books,150.74,8,2023-06-07,New York,2.8
+10344.0,C-1184,Michael Brown,Clothing,33.44,2,2023-06-23,Chicago,4.5
+10979.0,C-1191,James Taylor,Home & Kitchen,90.84,4,2023-06-23,New York,5.0
+10784.0,C-1007,OLIVIA WILSON,Electrnics,318.87,8,2023-06-30,Houston,4.0
+10483.0,C-1038,EMMA WATSON,Books,0.0,10,2023-06-30,Los Angeles,4.7
+10357.0,C-1015,JOHN DOE,Electrnics,459.99,6,2023-06-30,Los Angeles,2.0
+10557.0,C-1081,Alice Smith,Electronics,281.72,6,2023-06-30,New York,2.3
+10585.0,C-1170,olivia wilson,Clothing,329.6,1,2023-06-30,Houston,2.1
+10964.0,C-1191,Emma Watson,Electronics,341.38,9,2023-05-22,Chicago,2.6
+10880.0,C-1108,emily anderson,Electrnics,400.52,7,2023-11-26,Houston,3.2
+10218.0,C-1018,Bob Johnson,Home & Kitchen,393.9,8,2023-11-26,New York,3.4
+10753.0,C-1193,Emily Anderson,Books,434.05,5,2023-11-26,Los Angeles,4.2
+10547.0,C-1067,David Miller,Home & Kitchen,380.98,1,2023-11-26,New York,2.5
+10247.0,C-1031,Alice Smith,Books,25.01,4,2023-11-26,New York,3.9
+10767.0,C-1008,Emily Anderson,Electrnics,98.98,5,2023-11-26,New York,4.3
+10306.0,C-1138,Emma Watson,Books,469.52,7,2023-11-26,New York,2.5
+10106.0,C-1057,Olivia Wilson,Books,309.97,1,2023-11-26,Los Angeles,4.0
+10987.0,C-1124,JOHN DOE,Home & Kitchen,330.67,8,2023-11-26,New York,1.6
+10055.0,C-1187,emily anderson,Books,57.63,6,2023-11-26,New York,4.8
+10120.0,C-1184,michael brown,Home & Kitchen,102.25,6,2023-12-10,New York,1.8
+10025.0,C-1051,alice smith,Electronics,333.54,10,2023-05-18,Chicago,3.2
+10072.0,C-1059,Michael Brown,Electronics,347.45,2,2023-06-12,New York,3.4
+10044.0,C-1196,James Taylor,Home & Kitchen,445.6,6,2023-01-10,New York,1.6
+10314.0,C-1020,James Taylor,Home & Kitchen,7.71,1,2023-01-10,Chicago,2.2
+10866.0,C-1154,David Miller,Books,250.44,7,2023-01-10,Houston,4.7
+10653.0,C-1107,Olivia Wilson,Electronics,171.4,6,2023-01-10,Houston,1.6
+10328.0,C-1124,Alice Smith,Clothing,202.07,9,2023-09-20,Houston,4.5
+10925.0,C-1088,alice smith,Books,237.92,9,2023-09-20,Houston,3.4
+10351.0,C-1149,Michael Brown,Books,183.07,2,2023-09-20,Los Angeles,3.9
+10956.0,C-1170,Alice Smith,Home & Kitchen,35.43,9,2023-05-10,Chicago,2.2
+10635.0,C-1159,john doe,Home & Kitchen,0.0,7,2023-05-10,Los Angeles,2.9
+10714.0,C-1020,SOPHIA DAVIS,Books,436.99,4,2023-05-10,Houston,1.4
+10370.0,C-1018,james taylor,Electronics,244.4,3,2023-05-10,Chicago,1.6
+10810.0,C-1014,james taylor,Clothing,250.44,2,2023-05-10,Los Angeles,3.9
+10538.0,C-1090,Alice Smith,Home & Kitchen,219.91,5,2023-05-10,New York,4.4
+10614.0,C-1054,Alice Smith,Books,228.94,2,2023-05-10,Los Angeles,3.7
+10464.0,C-1164,Emma Watson,Home & Kitchen,250.44,1,2023-08-23,Los Angeles,2.4
+10998.0,C-1059,Sophia Davis,Electronics,138.28,3,2023-08-23,Houston,4.5
+10362.0,C-1136,Michael Brown,Home & Kitchen,204.96,9,2023-08-23,Houston,1.8
+10543.0,C-1138,Emma Watson,Home & Kitchen,345.76,5,2023-08-23,New York,2.1
+10060.0,C-1021,alice smith,Books,111.72,5,2023-01-31,Los Angeles,2.7
+10092.0,C-1019,Bob Johnson,Home & Kitchen,283.33,5,2023-05-09,Los Angeles,4.9
+10634.0,C-1163,Emily Anderson,Clothing,410.66,2,2023-05-09,New York,2.0
+10381.0,C-1021,Bob Johnson,Home & Kitchen,174.29,7,2023-05-09,Houston,2.0
+10693.0,C-1130,DAVID MILLER,Home & Kitchen,442.28,2,2023-05-09,Houston,4.6
+10874.0,C-1095,James Taylor,Electrnics,47.96,4,2023-05-09,New York,4.6
+10853.0,C-1102,John Doe,Books,461.53,10,2023-05-09,Chicago,3.4
+10972.0,C-1065,Emily Anderson,Books,250.44,4,2023-10-07,Houston,3.5
+10631.0,C-1073,John Doe,Electronics,250.44,5,2023-10-07,New York,1.5
+10244.0,C-1113,James Taylor,Books,285.35,5,2023-01-04,Houston,2.1
+10352.0,C-1189,Bob Johnson,Home & Kitchen,487.94,8,2023-11-05,New York,2.6
+10275.0,C-1034,alice smith,Clothing,125.62,9,2023-11-05,Houston,1.3
+10265.0,C-1009,david miller,Books,250.44,10,2023-11-05,New York,4.0
+10918.0,C-1127,Emma Watson,Home & Kitchen,380.41,7,2023-11-05,New York,3.3
+10528.0,C-1058,Sophia Davis,Electronics,368.98,3,2023-09-04,Houston,1.1
+10514.0,C-1064,Alice Smith,Electronics,250.44,10,2023-09-04,Chicago,4.1
+10110.0,C-1199,david miller,Clothing,349.58,5,2023-09-04,New York,3.3
+10736.0,C-1120,Bob Johnson,Electrnics,250.44,6,2023-11-02,Los Angeles,4.9
+10534.0,C-1072,James Taylor,Electronics,65.46,3,2023-11-02,Chicago,4.5
+10695.0,C-1141,alice smith,Clothing,356.3,5,2023-11-02,Houston,2.5
+10533.0,C-1085,Olivia Wilson,Electronics,373.64,8,2023-11-02,Houston,3.3
+10448.0,C-1176,MICHAEL BROWN,Home & Kitchen,308.09,9,2023-11-02,New York,1.4
+10294.0,C-1173,EMILY ANDERSON,Electronics,250.44,2,2023-11-02,Los Angeles,1.1
+10824.0,C-1040,Emily Anderson,Books,65.4,3,2023-11-08,Chicago,2.0
+10758.0,C-1189,Michael Brown,Electronics,270.4,8,2023-11-08,Houston,3.2
+10995.0,C-1026,emma watson,Books,215.26,7,2023-11-08,New York,2.6
+10749.0,C-1123,OLIVIA WILSON,Clothing,337.31,3,2023-11-08,Los Angeles,3.6
+10570.0,C-1134,sophia davis,Home & Kitchen,410.43,7,2023-11-08,Los Angeles,3.6
+10290.0,C-1106,bob johnson,Electronics,344.37,2,2023-11-08,Chicago,2.3
+10774.0,C-1043,John Doe,Home & Kitchen,93.99,1,2023-11-08,Chicago,4.9
+10137.0,C-1150,Sophia Davis,Home & Kitchen,265.07,5,2023-11-08,New York,3.8
+10409.0,C-1019,Michael Brown,Electrnics,250.44,5,2023-11-08,Houston,3.8
+10420.0,C-1041,JAMES TAYLOR,Home & Kitchen,408.02,6,2023-06-17,Houston,3.5
+10741.0,C-1100,Olivia Wilson,Clothing,250.44,4,2023-06-17,New York,4.1
+10796.0,C-1117,Emily Anderson,Home & Kitchen,449.78,8,2023-07-24,Chicago,4.2
+10286.0,C-1169,Michael Brown,Clothing,113.59,9,2023-07-24,New York,4.9
+10591.0,C-1171,Alice Smith,Electronics,266.87,1,2023-07-24,Houston,3.4
+10847.0,C-1149,ALICE SMITH,Electronics,250.44,1,2023-07-24,Chicago,1.1
+10029.0,C-1140,Emily Anderson,Clothing,255.26,10,2023-07-24,Chicago,2.2
+10260.0,C-1182,emily anderson,Clothing,250.44,1,2023-02-26,Chicago,2.0
+10078.0,C-1098,Alice Smith,Home & Kitchen,127.88,2,2023-02-26,New York,4.5
+10215.0,C-1022,emily anderson,Home & Kitchen,80.44,8,2023-02-26,Los Angeles,4.8
+10788.0,C-1035,James Taylor,Clothing,277.42,9,2023-04-07,New York,2.3
+10785.0,C-1022,alice smith,Clothing,0.0,5,2023-11-20,New York,4.9
+10521.0,C-1121,Bob Johnson,Home & Kitchen,199.25,1,2023-11-20,Chicago,4.0
+10911.0,C-1119,Sophia Davis,Clothing,99.99,3,2023-11-20,Houston,4.3
+10334.0,C-1001,Michael Brown,Clothing,308.94,5,2023-11-20,Houston,2.8
+10597.0,C-1142,Emily Anderson,Home & Kitchen,330.15,7,2023-11-20,Los Angeles,3.1
+10926.0,C-1072,Sophia Davis,Home & Kitchen,76.14,4,2023-11-20,Los Angeles,2.6
+10365.0,C-1131,bob johnson,Books,254.07,7,2023-11-20,New York,3.0
+10254.0,C-1142,David Miller,Books,56.1,3,2023-11-20,Los Angeles,4.0
+10708.0,C-1134,Emily Anderson,Books,196.65,6,2023-06-28,Houston,3.0
+10819.0,C-1008,BOB JOHNSON,Electrnics,250.44,5,2023-06-28,New York,1.0
+10221.0,C-1197,Olivia Wilson,Books,169.12,5,2023-06-28,New York,3.1
+10235.0,C-1187,john doe,Books,328.68,8,2023-06-28,New York,1.7
+10522.0,C-1057,Alice Smith,Books,94.89,2,2023-06-28,Chicago,1.3
+10296.0,C-1166,Bob Johnson,Home & Kitchen,414.12,3,2023-07-13,New York,1.9
+10580.0,C-1018,alice smith,Home & Kitchen,197.36,5,2023-07-23,Los Angeles,4.0
+10958.0,C-1095,Olivia Wilson,Electronics,378.72,5,2023-07-23,New York,1.8
+10599.0,C-1050,James Taylor,Home & Kitchen,281.28,5,2023-07-23,Houston,3.5
+10447.0,C-1053,David Miller,Home & Kitchen,464.64,2,2023-07-23,Los Angeles,2.3
+10033.0,C-1151,Emily Anderson,Books,255.93,10,2023-07-23,Los Angeles,3.9
+10204.0,C-1083,James Taylor,Electronics,250.44,1,2023-02-25,New York,2.5
+10798.0,C-1087,SOPHIA DAVIS,Clothing,11.04,9,2023-02-25,New York,3.6
+10355.0,C-1192,michael brown,Clothing,205.7,6,2023-02-25,New York,3.6
+10077.0,C-1026,OLIVIA WILSON,Electrnics,306.45,4,2023-02-25,Houston,4.9
+10333.0,C-1098,Emily Anderson,Books,394.11,3,2023-03-28,Los Angeles,4.6
+10433.0,C-1027,David Miller,Electrnics,420.29,3,2023-03-28,New York,3.1
+10657.0,C-1184,Emma Watson,Electronics,382.21,7,2023-03-28,Los Angeles,2.5
+10457.0,C-1109,Sophia Davis,Home & Kitchen,427.83,5,2023-03-28,Houston,2.9
+10513.0,C-1189,David Miller,Home & Kitchen,0.0,6,2023-03-28,New York,3.3
+10613.0,C-1074,David Miller,Books,373.57,1,2023-03-28,New York,2.3
+10478.0,C-1140,Alice Smith,Books,230.99,8,2023-03-28,Chicago,3.8
+10323.0,C-1193,Olivia Wilson,Clothing,201.74,3,2023-03-28,Chicago,2.3
+10005.0,C-1063,michael brown,Books,213.76,9,2023-03-28,New York,2.2
+10462.0,C-1198,ALICE SMITH,Electrnics,0.0,10,2023-03-28,Los Angeles,2.7
+10104.0,C-1177,James Taylor,Home & Kitchen,105.98,1,2023-06-25,Chicago,2.1
+10097.0,C-1187,Olivia Wilson,Clothing,250.44,2,2023-06-25,New York,3.3
+10309.0,C-1109,Olivia Wilson,Home & Kitchen,419.41,8,2023-06-25,New York,2.3
+10424.0,C-1078,Sophia Davis,Home & Kitchen,239.13,4,2023-08-13,New York,2.9
+10939.0,C-1143,Michael Brown,Electronics,233.18,1,2023-08-13,Los Angeles,3.2
+10281.0,C-1122,Michael Brown,Books,484.78,4,2023-08-13,New York,2.4
+10266.0,C-1085,SOPHIA DAVIS,Electronics,222.75,4,2023-08-13,Houston,2.1
+10929.0,C-1071,John Doe,Books,168.51,9,2023-08-13,Houston,1.5
+10848.0,C-1007,Michael Brown,Books,277.25,2,2023-02-17,Chicago,3.3
+10118.0,C-1055,Emily Anderson,Home & Kitchen,356.22,5,2023-02-17,New York,2.0
+10712.0,C-1071,David Miller,Home & Kitchen,72.94,2,2023-10-08,New York,2.0
+10250.0,C-1017,james taylor,Clothing,261.35,3,2023-10-08,Los Angeles,1.6
+10668.0,C-1198,Sophia Davis,Books,178.11,5,2023-04-25,New York,1.0
+10552.0,C-1028,Sophia Davis,Home & Kitchen,324.1,1,2023-07-08,Houston,1.4
+10380.0,C-1159,alice smith,Electronics,202.47,3,2023-09-15,New York,2.2
+10371.0,C-1173,JAMES TAYLOR,Home & Kitchen,173.13,8,2023-09-15,New York,1.9
+10196.0,C-1096,OLIVIA WILSON,Clothing,47.14,3,2023-11-03,Los Angeles,4.1
+10643.0,C-1051,David Miller,Clothing,464.68,4,2023-11-03,Los Angeles,2.2
+10432.0,C-1170,Emily Anderson,Clothing,111.66,5,2023-08-14,Houston,1.7
+10527.0,C-1059,James Taylor,Electronics,497.3,3,2023-08-14,Houston,1.0
+10211.0,C-1015,Michael Brown,Clothing,121.09,2,2023-08-14,New York,4.2
+10762.0,C-1125,John Doe,Home & Kitchen,439.49,10,2023-08-14,Los Angeles,4.5
+10413.0,C-1068,JOHN DOE,Home & Kitchen,135.11,9,2023-08-14,Houston,4.3
+10227.0,C-1043,Olivia Wilson,Books,102.23,4,2023-08-14,Houston,4.3
+10909.0,C-1063,Emma Watson,Clothing,272.59,3,2023-08-14,Los Angeles,4.7
+10425.0,C-1157,james taylor,Electrnics,250.44,9,2023-08-14,Chicago,3.3
+10844.0,C-1042,Emma Watson,Electronics,403.99,9,2023-02-14,Los Angeles,1.7
+10177.0,C-1112,Emma Watson,Clothing,250.44,8,2023-02-14,Chicago,1.3
+10992.0,C-1135,Sophia Davis,Books,313.51,10,2023-09-18,Los Angeles,2.7
+10449.0,C-1163,Emma Watson,Home & Kitchen,454.0,8,2023-09-18,Houston,3.4
+10525.0,C-1090,EMILY ANDERSON,Clothing,358.77,1,2023-09-18,New York,2.7
+10536.0,C-1198,David Miller,Books,30.78,10,2023-11-07,Chicago,1.8
+10423.0,C-1181,Olivia Wilson,Clothing,401.02,2,2023-11-07,Chicago,3.2
+10155.0,C-1153,john doe,Clothing,256.82,2,2023-11-07,Houston,2.8
+10576.0,C-1172,Michael Brown,Books,93.43,9,2023-02-15,Los Angeles,4.5
+10884.0,C-1093,David Miller,Books,385.89,2,2023-11-12,Los Angeles,1.3
+10531.0,C-1050,James Taylor,Home & Kitchen,480.8,8,2023-11-12,Los Angeles,2.3
+10822.0,C-1006,David Miller,Books,422.44,8,2023-11-12,New York,3.5
+10825.0,C-1062,alice smith,Clothing,167.96,2,2023-11-12,New York,4.0
+10615.0,C-1111,bob johnson,Clothing,5.1,5,2023-09-30,Houston,3.3
+10991.0,C-1195,John Doe,Books,349.22,7,2023-09-30,Los Angeles,4.8
+10604.0,C-1192,Bob Johnson,Home & Kitchen,277.23,9,2023-09-30,New York,4.0
+10752.0,C-1077,Michael Brown,Home & Kitchen,310.44,3,2023-09-05,New York,3.8
+10163.0,C-1142,Emily Anderson,Electronics,344.28,10,2023-04-08,Los Angeles,4.1
+10228.0,C-1068,Sophia Davis,Books,315.18,10,2023-06-24,Los Angeles,2.8
+10864.0,C-1078,Olivia Wilson,Books,169.2,8,2023-01-22,Los Angeles,3.4
+10978.0,C-1031,Alice Smith,Clothing,220.42,7,2023-01-22,New York,3.5
+10079.0,C-1072,Emma Watson,Books,174.72,2,2023-03-12,Los Angeles,5.0
+10148.0,C-1013,Alice Smith,Electrnics,459.71,5,2023-05-21,Houston,3.5
+10302.0,C-1028,Emma Watson,Home & Kitchen,5.59,1,2023-05-21,New York,4.1
+10388.0,C-1067,John Doe,Books,118.46,5,2023-01-21,Houston,1.7
+10518.0,C-1028,ALICE SMITH,Books,250.44,8,2023-01-21,Houston,4.0
+10541.0,C-1103,David Miller,Books,125.33,6,2023-01-21,New York,1.9
+10889.0,C-1112,EMMA WATSON,Clothing,433.08,4,2023-01-21,Chicago,4.1
+10390.0,C-1172,james taylor,Clothing,390.57,5,2023-01-21,Chicago,1.1
+10133.0,C-1144,OLIVIA WILSON,Books,314.56,2,2023-01-21,Los Angeles,2.5
+10715.0,C-1183,emma watson,Clothing,211.58,6,2023-01-21,Los Angeles,3.8
+10311.0,C-1072,John Doe,Books,384.1,5,2023-01-21,New York,3.0
+10999.0,C-1093,Bob Johnson,Home & Kitchen,290.29,9,2023-01-21,Houston,3.5
+10696.0,C-1115,David Miller,Electronics,244.91,8,2023-07-12,Los Angeles,1.5
+10836.0,C-1095,John Doe,Clothing,251.38,7,2023-07-09,Houston,3.0
+10000.0,C-1164,BOB JOHNSON,Electronics,137.81,5,2023-03-02,Chicago,1.2
+10493.0,C-1064,Alice Smith,Electronics,98.34,2,2023-03-02,Houston,2.2
+10382.0,C-1108,Emma Watson,Electrnics,93.35,8,2023-03-02,New York,4.0
+10316.0,C-1141,Alice Smith,Books,262.28,3,2023-03-02,Houston,1.7
+10765.0,C-1112,alice smith,Clothing,250.44,5,2023-03-02,Houston,4.7
+10583.0,C-1160,Emma Watson,Clothing,360.33,10,2023-03-02,Houston,3.0
+10865.0,C-1176,john doe,Books,398.91,1,2023-03-02,Houston,4.7
+10990.0,C-1151,michael brown,Books,430.78,9,2023-03-02,Chicago,4.4
+10428.0,C-1003,Bob Johnson,Home & Kitchen,161.28,2,2023-05-31,Los Angeles,4.2
+10172.0,C-1197,Olivia Wilson,Clothing,250.44,5,2023-11-17,New York,2.2
+10453.0,C-1065,Emma Watson,Clothing,200.75,2,2023-11-17,New York,1.6
+10482.0,C-1142,Sophia Davis,Electronics,117.43,7,2023-11-17,New York,2.1
+10090.0,C-1175,alice smith,Electronics,273.53,1,2023-04-06,New York,1.2
+10996.0,C-1050,Alice Smith,Home & Kitchen,250.44,3,2023-04-22,Chicago,1.8
+10181.0,C-1185,John Doe,Books,148.47,3,2023-04-22,Houston,2.5
+10274.0,C-1139,Emma Watson,Home & Kitchen,325.39,9,2023-04-22,New York,1.1
+10291.0,C-1120,Emma Watson,Books,300.28,8,2023-04-22,New York,1.1
+10131.0,C-1064,Olivia Wilson,Clothing,250.44,5,2023-04-22,Los Angeles,4.3
+10300.0,C-1187,david miller,Electronics,51.13,8,2023-09-23,Los Angeles,5.0
+10507.0,C-1007,Michael Brown,Home & Kitchen,248.54,8,2023-09-23,Chicago,4.7
+10326.0,C-1105,David Miller,Home & Kitchen,244.46,6,2023-09-23,Los Angeles,4.0
+10849.0,C-1080,Alice Smith,Home & Kitchen,61.35,8,2023-02-03,Houston,4.8
+10135.0,C-1068,david miller,Books,277.33,8,2023-02-03,Chicago,2.4
+10467.0,C-1190,Emma Watson,Clothing,46.73,9,2023-02-03,Houston,1.8
+10164.0,C-1003,Olivia Wilson,Home & Kitchen,106.76,2,2023-09-30,Houston,2.6
+10028.0,C-1180,ALICE SMITH,Electronics,10.76,5,2023-07-29,Chicago,4.5
+10445.0,C-1184,sophia davis,Clothing,234.56,7,2023-07-29,Los Angeles,4.1
+10584.0,C-1081,Bob Johnson,Home & Kitchen,250.44,9,2023-07-29,Los Angeles,3.5
+10169.0,C-1138,James Taylor,Electrnics,23.75,1,2023-07-29,Houston,4.0
+10535.0,C-1018,emily anderson,Electrnics,152.91,7,2023-07-29,Houston,1.6
+10140.0,C-1103,SOPHIA DAVIS,Books,204.69,4,2023-09-10,Chicago,2.0
+10173.0,C-1165,Olivia Wilson,Home & Kitchen,455.94,1,2023-09-10,Chicago,4.2
+10006.0,C-1058,John Doe,Home & Kitchen,87.56,5,2023-09-10,Los Angeles,3.7
+10682.0,C-1035,David Miller,Home & Kitchen,496.19,2,2023-09-10,Los Angeles,4.8
+10529.0,C-1007,David Miller,Books,0.0,7,2023-09-10,Chicago,2.7
+10898.0,C-1124,James Taylor,Clothing,104.27,5,2023-03-05,Los Angeles,1.2
+10238.0,C-1183,DAVID MILLER,Electronics,71.27,7,2023-03-05,Los Angeles,2.4
+10145.0,C-1127,james taylor,Home & Kitchen,377.31,5,2023-03-05,Houston,2.5
+10905.0,C-1063,james taylor,Books,276.94,2,2023-03-05,New York,1.3
+10234.0,C-1194,David Miller,Clothing,447.52,4,2023-03-05,Los Angeles,4.3
+10220.0,C-1137,james taylor,Books,182.95,4,2023-07-08,Houston,2.9
+10214.0,C-1021,Michael Brown,Home & Kitchen,331.41,2,2023-07-08,Los Angeles,2.8
+10962.0,C-1089,James Taylor,Home & Kitchen,106.8,4,2023-07-08,Los Angeles,1.6
+10564.0,C-1049,Bob Johnson,Clothing,99.99,5,2023-01-07,Los Angeles,4.3
+10616.0,C-1149,JOHN DOE,Clothing,250.44,7,2023-11-09,Chicago,4.0
+10845.0,C-1080,bob johnson,Home & Kitchen,322.11,5,2023-11-09,Houston,3.1
+10185.0,C-1196,emma watson,Electronics,250.44,5,2023-11-09,Los Angeles,4.3
+10041.0,C-1072,Emily Anderson,Books,22.74,7,2023-11-09,Los Angeles,1.7
+10650.0,C-1197,alice smith,Home & Kitchen,377.66,5,2023-11-09,Houston,1.9
+10108.0,C-1084,Emily Anderson,Books,325.32,6,2023-08-24,New York,2.4
+10716.0,C-1074,Sophia Davis,Electronics,216.1,10,2023-12-30,Chicago,4.3
+10056.0,C-1118,ALICE SMITH,Clothing,248.75,1,2023-05-27,Houston,4.3
+10660.0,C-1127,john doe,Home & Kitchen,498.55,5,2023-02-16,New York,4.4
+10993.0,C-1153,Alice Smith,Books,214.94,7,2023-02-16,Los Angeles,2.8
+10913.0,C-1157,David Miller,Electronics,47.63,8,2023-02-16,Chicago,4.3
+10435.0,C-1068,john doe,Clothing,133.59,6,2023-02-16,Houston,2.0
+10479.0,C-1010,John Doe,Electronics,439.26,5,2023-08-24,Houston,2.9
+10582.0,C-1085,James Taylor,Home & Kitchen,29.3,7,2023-08-24,Los Angeles,1.4
+10626.0,C-1122,Michael Brown,Clothing,82.27,10,2023-08-24,Chicago,3.3
+10983.0,C-1048,James Taylor,Electronics,437.0,3,2023-08-24,New York,1.7
+10051.0,C-1089,Michael Brown,Clothing,53.23,3,2023-08-24,Houston,2.5
+10383.0,C-1169,David Miller,Home & Kitchen,113.19,5,2023-08-24,Chicago,2.6
+10549.0,C-1149,Alice Smith,Clothing,81.19,5,2023-08-24,Houston,2.5
+10938.0,C-1126,JOHN DOE,Clothing,40.11,3,2023-08-24,Chicago,4.5
+10673.0,C-1046,Bob Johnson,Electrnics,47.48,6,2023-08-24,New York,1.6
+10981.0,C-1196,James Taylor,Clothing,422.45,4,2023-08-24,Chicago,3.1
+10264.0,C-1018,James Taylor,Home & Kitchen,444.15,5,2023-09-27,Chicago,4.0
+10572.0,C-1176,David Miller,Home & Kitchen,81.3,2,2023-09-14,Houston,3.3
+10755.0,C-1108,sophia davis,Clothing,305.93,1,2023-09-14,New York,2.3
+10950.0,C-1076,alice smith,Books,166.06,6,2023-09-14,Houston,1.8
+10395.0,C-1102,emily anderson,Clothing,479.21,2,2023-07-11,Chicago,2.8
+10551.0,C-1010,David Miller,Clothing,161.79,2,2023-07-11,New York,2.5
+10176.0,C-1076,Emily Anderson,Books,63.56,7,2023-05-09,Houston,4.5
+10018.0,C-1024,Olivia Wilson,Books,11.12,5,2023-05-09,Los Angeles,1.6
+10760.0,C-1155,olivia wilson,Home & Kitchen,250.44,5,2023-10-02,Chicago,3.8
+10532.0,C-1103,MICHAEL BROWN,Home & Kitchen,83.51,9,2023-03-20,Houston,3.7
+10605.0,C-1045,michael brown,Electronics,330.48,7,2023-03-20,New York,1.8
+10367.0,C-1048,Bob Johnson,Books,132.56,7,2023-03-20,New York,2.8
+10061.0,C-1142,Bob Johnson,Clothing,99.34,5,2023-03-20,Los Angeles,1.1
+10499.0,C-1105,Emily Anderson,Home & Kitchen,308.54,7,2023-03-20,New York,1.7
+10285.0,C-1025,john doe,Clothing,238.35,8,2023-11-22,Chicago,1.1
+10360.0,C-1123,bob johnson,Electronics,408.68,5,2023-02-17,Houston,2.7
+10354.0,C-1016,John Doe,Clothing,202.72,7,2023-02-17,Houston,3.9
+10278.0,C-1148,Alice Smith,Books,445.94,2,2023-02-17,Houston,2.3
+10012.0,C-1140,Alice Smith,Home & Kitchen,390.69,5,2023-10-29,Los Angeles,2.9
+10182.0,C-1185,JAMES TAYLOR,Clothing,305.25,1,2023-10-29,Houston,2.4
+10368.0,C-1018,James Taylor,Electronics,397.73,7,2023-10-29,Chicago,3.8
+10636.0,C-1086,Alice Smith,Home & Kitchen,23.5,4,2023-02-11,Chicago,3.7
+10655.0,C-1148,michael brown,Electronics,134.97,5,2023-02-11,Chicago,2.5
+10223.0,C-1033,Sophia Davis,Clothing,246.05,5,2023-02-11,Chicago,3.1
+10743.0,C-1150,Emily Anderson,Clothing,237.04,8,2023-08-26,Chicago,2.4
+10720.0,C-1082,alice smith,Home & Kitchen,105.14,7,2023-03-16,Los Angeles,4.8
+10581.0,C-1171,EMILY ANDERSON,Books,313.87,9,2023-03-16,Houston,1.7
+10486.0,C-1011,John Doe,Home & Kitchen,380.36,7,2023-03-16,New York,2.3
+10542.0,C-1174,Olivia Wilson,Home & Kitchen,292.63,10,2023-03-16,Houston,2.2
+10465.0,C-1068,emily anderson,Home & Kitchen,264.37,4,2023-03-16,New York,4.9
+10621.0,C-1114,David Miller,Electrnics,386.9,10,2023-03-16,Los Angeles,2.5
+10495.0,C-1027,olivia wilson,Electronics,358.89,3,2023-03-16,New York,1.3
+10820.0,C-1064,sophia davis,Books,164.8,5,2023-06-06,Los Angeles,3.8
+10667.0,C-1193,Michael Brown,Electrnics,385.99,5,2023-06-06,New York,1.5
+10393.0,C-1062,Sophia Davis,Clothing,248.87,5,2023-06-06,Houston,4.1
+10675.0,C-1133,david miller,Clothing,78.1,10,2023-06-06,Los Angeles,4.8
+10713.0,C-1113,Michael Brown,Home & Kitchen,262.76,1,2023-06-06,Houston,3.4
+10375.0,C-1146,olivia wilson,Home & Kitchen,395.38,2,2023-06-06,New York,2.8
+10934.0,C-1022,Olivia Wilson,Books,177.56,2,2023-06-06,Los Angeles,3.1
+10500.0,C-1159,alice smith,Books,139.57,5,2023-05-28,New York,2.8
+10596.0,C-1076,James Taylor,Home & Kitchen,195.74,2,2023-11-16,New York,4.9
+10114.0,C-1081,John Doe,Clothing,31.63,1,2023-11-16,Chicago,4.9
+10976.0,C-1050,James Taylor,Home & Kitchen,297.13,5,2023-11-16,Los Angeles,3.5
+10919.0,C-1084,David Miller,Home & Kitchen,43.88,1,2023-11-16,New York,3.5
+10731.0,C-1017,Emma Watson,Clothing,155.16,5,2023-11-16,Houston,1.1
+10011.0,C-1190,Olivia Wilson,Clothing,221.89,9,2023-11-16,New York,3.1
+10396.0,C-1034,David Miller,Clothing,188.74,6,2023-12-04,New York,4.6
+10568.0,C-1112,James Taylor,Clothing,312.0,5,2023-02-11,Chicago,2.6
+10042.0,C-1040,EMILY ANDERSON,Electronics,413.82,4,2023-02-11,Houston,5.0
+10167.0,C-1030,Emma Watson,Clothing,40.7,9,2023-02-11,New York,4.9
+10803.0,C-1108,Sophia Davis,Home & Kitchen,302.6,3,2023-07-24,Chicago,4.8
+10426.0,C-1168,David Miller,Clothing,71.56,9,2023-07-24,Chicago,1.4
+10935.0,C-1062,emily anderson,Electrnics,256.44,7,2023-07-24,New York,3.3
+10728.0,C-1040,ALICE SMITH,Home & Kitchen,420.56,7,2023-08-31,New York,4.3
+10652.0,C-1117,Emily Anderson,Home & Kitchen,394.25,3,2023-02-24,Los Angeles,2.4
+10257.0,C-1057,Olivia Wilson,Home & Kitchen,287.23,8,2023-02-24,Houston,4.5
+10335.0,C-1100,michael brown,Books,30.77,9,2023-02-24,New York,3.4
+10684.0,C-1171,David Miller,Home & Kitchen,453.49,3,2023-06-11,Los Angeles,4.0
+10324.0,C-1061,Michael Brown,Books,278.29,6,2023-05-25,Houston,3.3
+10173.0,C-1165,Olivia Wilson,Home & Kitchen,99.99,1,2023-05-25,Chicago,4.2
+10222.0,C-1033,Sophia Davis,Books,225.45,3,2023-05-25,Houston,4.1
+10099.0,C-1042,Olivia Wilson,Home & Kitchen,31.27,2,2023-05-25,Los Angeles,2.6
+10022.0,C-1155,Michael Brown,Home & Kitchen,261.95,8,2023-05-25,Chicago,2.3
+10356.0,C-1081,Olivia Wilson,Home & Kitchen,12.61,9,2023-05-25,New York,1.5
+10750.0,C-1002,olivia wilson,Books,106.26,2,2023-05-25,New York,3.0
+10914.0,C-1172,John Doe,Electrnics,353.82,2,2023-05-25,New York,4.4
+10340.0,C-1179,emily anderson,Books,188.56,8,2023-05-25,Los Angeles,1.6
+10431.0,C-1077,Olivia Wilson,Clothing,0.0,1,2023-05-25,Chicago,3.4
+10587.0,C-1185,Alice Smith,Books,321.26,10,2023-05-25,Houston,4.6
+10203.0,C-1154,EMILY ANDERSON,Books,285.81,9,2023-05-25,Los Angeles,2.7
+10093.0,C-1156,Michael Brown,Books,471.62,5,2023-05-31,New York,3.5
+10594.0,C-1104,Emma Watson,Electrnics,262.15,5,2023-05-31,Houston,1.4
+10068.0,C-1181,David Miller,Home & Kitchen,7.15,1,2023-11-02,Los Angeles,3.1
+10662.0,C-1063,Emma Watson,Home & Kitchen,217.88,9,2023-11-02,New York,3.4
+10284.0,C-1025,Sophia Davis,Electronics,112.21,2,2023-11-27,Los Angeles,3.7
+10852.0,C-1097,James Taylor,Electronics,101.04,4,2023-01-06,Chicago,4.5
+10153.0,C-1175,David Miller,Clothing,250.44,3,2023-01-06,New York,1.7
+10446.0,C-1088,John Doe,Clothing,434.79,5,2023-01-06,New York,1.9
+10271.0,C-1172,Alice Smith,Books,168.46,2,2023-08-15,Los Angeles,1.5
+10236.0,C-1177,Sophia Davis,Books,199.29,7,2023-01-22,New York,1.1
+10559.0,C-1156,Alice Smith,Books,274.09,2,2023-01-22,Houston,2.4
+10867.0,C-1031,Sophia Davis,Electronics,421.17,9,2023-01-22,Los Angeles,2.6
+10589.0,C-1130,James Taylor,Electronics,411.9,9,2023-01-22,New York,4.7
+10630.0,C-1022,ALICE SMITH,Home & Kitchen,112.63,5,2023-01-22,New York,3.5
+10126.0,C-1165,OLIVIA WILSON,Clothing,250.44,2,2023-01-22,Chicago,1.7
+10116.0,C-1069,Emma Watson,Home & Kitchen,430.92,9,2023-07-21,Houston,2.5
+10473.0,C-1003,Bob Johnson,Books,458.06,6,2023-07-21,New York,1.4
+10737.0,C-1107,Olivia Wilson,Electronics,310.39,8,2023-07-21,Chicago,2.8
+10718.0,C-1070,Alice Smith,Clothing,70.23,5,2023-07-21,New York,2.5
+10369.0,C-1153,Sophia Davis,Home & Kitchen,224.17,10,2023-07-21,Chicago,3.4
+10268.0,C-1132,James Taylor,Electronics,79.37,6,2023-03-08,Los Angeles,3.7
+10046.0,C-1027,Olivia Wilson,Clothing,173.72,2,2023-03-08,Los Angeles,4.6
+10349.0,C-1056,Emma Watson,Books,257.72,10,2023-03-08,Houston,3.6
+10195.0,C-1040,olivia wilson,Clothing,200.07,8,2023-03-08,New York,1.9
+10789.0,C-1119,Bob Johnson,Books,250.44,8,2023-03-08,New York,4.8
+10783.0,C-1170,John Doe,Clothing,50.14,3,2023-03-08,Los Angeles,4.6
+10263.0,C-1059,Sophia Davis,Home & Kitchen,175.79,5,2023-03-08,Los Angeles,2.5
+10443.0,C-1155,Sophia Davis,Clothing,388.5,2,2023-03-08,Houston,2.8
+10945.0,C-1183,DAVID MILLER,Books,174.39,9,2023-03-08,Houston,2.0
+10304.0,C-1050,Emily Anderson,Books,213.24,5,2023-08-28,Chicago,4.0
+10341.0,C-1188,John Doe,Books,363.62,2,2023-08-28,Chicago,4.8
+10638.0,C-1193,Olivia Wilson,Home & Kitchen,461.33,6,2023-08-28,Los Angeles,1.3
+10313.0,C-1064,Michael Brown,Home & Kitchen,274.15,6,2023-08-28,New York,4.7
+10149.0,C-1029,Sophia Davis,Home & Kitchen,24.74,3,2023-08-28,Los Angeles,1.0
+10124.0,C-1128,Olivia Wilson,Electronics,368.86,7,2023-12-23,Los Angeles,2.3
+10872.0,C-1110,Olivia Wilson,Clothing,157.6,7,2023-12-14,Chicago,2.4
+10050.0,C-1092,david miller,Clothing,184.83,7,2023-12-14,Los Angeles,1.5
+10353.0,C-1139,Alice Smith,Home & Kitchen,0.0,2,2023-12-14,Los Angeles,4.1
+10470.0,C-1181,emily anderson,Home & Kitchen,67.57,8,2023-03-27,Los Angeles,2.3
+10399.0,C-1077,EMMA WATSON,Home & Kitchen,95.52,8,2023-03-27,New York,1.8
+10665.0,C-1177,BOB JOHNSON,Books,185.81,3,2023-03-27,Chicago,4.6
+10320.0,C-1139,michael brown,Books,294.76,3,2023-04-08,Chicago,1.6
+10837.0,C-1043,Sophia Davis,Books,442.41,2,2023-04-08,New York,2.6
+10537.0,C-1072,Alice Smith,Electronics,486.77,10,2023-04-20,New York,1.1
+10038.0,C-1179,James Taylor,Clothing,161.45,6,2023-04-20,New York,3.4
+10245.0,C-1133,EMILY ANDERSON,Clothing,436.74,8,2023-04-20,Chicago,3.8
+10879.0,C-1004,Sophia Davis,Electrnics,50.84,5,2023-04-20,Chicago,3.1
+10911.0,C-1119,Sophia Davis,Clothing,250.44,3,2023-04-20,Houston,4.3
+10287.0,C-1111,SOPHIA DAVIS,Electronics,75.64,8,2023-04-20,New York,3.2
+10625.0,C-1131,sophia davis,Clothing,0.0,6,2023-04-20,New York,1.6
+10888.0,C-1040,Bob Johnson,Home & Kitchen,250.44,8,2023-01-05,Los Angeles,5.0
+10569.0,C-1001,James Taylor,Books,36.35,5,2023-01-05,Houston,4.8
+10127.0,C-1118,Michael Brown,Books,135.8,6,2023-01-05,Los Angeles,3.8
+10322.0,C-1024,MICHAEL BROWN,Clothing,307.88,5,2023-01-05,New York,3.9
+10255.0,C-1059,bob johnson,Clothing,318.62,10,2023-01-05,New York,1.1
+10700.0,C-1116,EMILY ANDERSON,Books,250.44,4,2023-04-26,Chicago,1.4
+10190.0,C-1077,olivia wilson,Books,482.86,9,2023-04-26,Los Angeles,4.6
+10115.0,C-1103,alice smith,Home & Kitchen,105.53,8,2023-04-26,New York,4.2
+10656.0,C-1050,John Doe,Electronics,220.07,8,2023-05-12,Houston,4.8
+10606.0,C-1158,Michael Brown,Books,301.96,1,2023-05-12,New York,1.5
+10180.0,C-1001,james taylor,Home & Kitchen,182.06,7,2023-05-02,Houston,3.7
+10301.0,C-1087,EMILY ANDERSON,Electronics,451.48,8,2023-05-02,Los Angeles,1.7
+10806.0,C-1121,Sophia Davis,Books,410.96,10,2023-05-02,New York,4.5
+10757.0,C-1192,Alice Smith,Electronics,469.87,2,2023-05-02,New York,4.6
+10822.0,C-1006,David Miller,Books,99.99,8,2023-05-02,New York,3.5
+10781.0,C-1152,James Taylor,Electrnics,326.05,3,2023-05-02,Houston,2.6
+10705.0,C-1071,alice smith,Home & Kitchen,498.02,6,2023-05-02,Los Angeles,3.6
+10517.0,C-1180,Alice Smith,Books,349.98,8,2023-05-02,Houston,3.4
+10372.0,C-1061,Michael Brown,Books,342.39,9,2023-02-26,New York,2.5
+10963.0,C-1109,Emily Anderson,Clothing,153.37,5,2023-02-26,Los Angeles,1.2
+10157.0,C-1099,Olivia Wilson,Electrnics,163.55,10,2023-02-26,Chicago,4.3
+10940.0,C-1195,emma watson,Electronics,123.09,9,2023-01-27,New York,1.5
+10171.0,C-1069,Michael Brown,Electronics,129.69,3,2023-01-27,Los Angeles,4.8
+10016.0,C-1009,Olivia Wilson,Clothing,444.36,10,2023-01-27,New York,4.3
+10048.0,C-1098,Michael Brown,Electronics,169.33,8,2023-10-01,Los Angeles,2.8
+10191.0,C-1164,Michael Brown,Home & Kitchen,325.73,8,2023-10-01,Houston,3.9
+10892.0,C-1134,Michael Brown,Electronics,436.58,3,2023-09-07,Houston,2.2
+10515.0,C-1069,olivia wilson,Electronics,213.02,2,2023-09-07,Chicago,4.2
+10946.0,C-1126,Alice Smith,Electronics,90.68,3,2023-09-07,Houston,2.8
+10730.0,C-1055,michael brown,Books,486.58,3,2023-09-07,Chicago,1.1
+10480.0,C-1095,bob johnson,Books,321.69,1,2023-06-21,New York,3.4
+10283.0,C-1049,John Doe,Books,411.55,7,2023-06-21,Houston,1.8
+10225.0,C-1122,james taylor,Electronics,45.58,8,2023-06-21,New York,2.3
+10026.0,C-1184,David Miller,Clothing,78.58,5,2023-06-21,Los Angeles,3.5
+10437.0,C-1028,Emma Watson,Electrnics,175.35,5,2023-06-21,Los Angeles,2.8
+10364.0,C-1015,DAVID MILLER,Electronics,255.59,8,2023-04-06,Los Angeles,1.3
+10669.0,C-1028,Alice Smith,Books,402.38,2,2023-04-06,Chicago,3.2
+10374.0,C-1031,Michael Brown,Books,132.62,10,2023-04-06,New York,3.5
+10687.0,C-1153,Alice Smith,Clothing,349.78,2,2023-04-06,Houston,1.4
+10982.0,C-1177,James Taylor,Books,211.53,6,2023-04-06,Houston,1.6
+10912.0,C-1146,John Doe,Electronics,29.98,8,2023-06-16,Houston,4.9
+10194.0,C-1051,David Miller,Clothing,250.44,2,2023-06-16,Los Angeles,4.0
+10907.0,C-1072,David Miller,Books,289.17,2,2023-06-16,Chicago,1.1
+10917.0,C-1008,SOPHIA DAVIS,Home & Kitchen,169.5,4,2023-06-16,Chicago,4.5
+10503.0,C-1061,Emma Watson,Books,250.44,10,2023-06-16,Houston,1.1
+10882.0,C-1028,OLIVIA WILSON,Home & Kitchen,244.32,3,2023-06-16,Los Angeles,1.8
+10579.0,C-1111,Sophia Davis,Books,20.75,5,2023-06-16,Chicago,4.7
+10160.0,C-1120,emma watson,Clothing,387.79,10,2023-09-11,Los Angeles,4.9
+10680.0,C-1032,sophia davis,Electronics,275.48,1,2023-03-06,Chicago,2.1
+10162.0,C-1065,Sophia Davis,Clothing,316.61,4,2023-03-06,Chicago,3.0
+10746.0,C-1196,Bob Johnson,Books,117.01,9,2023-03-06,Los Angeles,4.0
+10152.0,C-1041,Alice Smith,Home & Kitchen,363.37,2,2023-05-10,Chicago,2.2
+10893.0,C-1167,John Doe,Clothing,445.15,9,2023-05-10,New York,4.6
+10826.0,C-1033,MICHAEL BROWN,Books,108.87,10,2023-05-10,New York,1.7
+10802.0,C-1193,David Miller,Electronics,229.6,8,2023-05-10,Houston,3.0
+10111.0,C-1015,Sophia Davis,Clothing,28.26,8,2023-05-10,New York,1.5
+10226.0,C-1141,David Miller,Electronics,414.09,3,2023-05-10,New York,3.4
+10732.0,C-1107,Bob Johnson,Books,411.74,7,2023-03-18,Los Angeles,1.4
+10103.0,C-1164,James Taylor,Electronics,35.71,5,2023-03-18,Chicago,1.3
+10421.0,C-1113,Bob Johnson,Home & Kitchen,403.02,7,2023-03-18,Los Angeles,1.5
+10419.0,C-1073,Emma Watson,Electronics,489.74,5,2023-03-18,Houston,4.1
+10997.0,C-1076,Emily Anderson,Electronics,366.8,8,2023-03-18,Chicago,1.8
+10586.0,C-1032,Emma Watson,Electrnics,416.88,9,2023-03-18,New York,4.1
+10827.0,C-1122,James Taylor,Home & Kitchen,33.8,2,2023-03-18,New York,3.0
+10119.0,C-1146,JOHN DOE,Electronics,296.25,2,2023-03-01,Los Angeles,3.6
+10053.0,C-1068,Emily Anderson,Books,318.66,5,2023-03-01,Los Angeles,3.1
+10151.0,C-1161,Sophia Davis,Home & Kitchen,61.12,5,2023-03-01,Chicago,1.4
+10403.0,C-1019,James Taylor,Electronics,214.47,10,2023-03-01,Houston,3.1
+10207.0,C-1029,Michael Brown,Home & Kitchen,250.44,8,2023-03-01,Chicago,3.7
+10809.0,C-1139,Alice Smith,Electrnics,76.96,5,2023-07-06,New York,3.3
+10008.0,C-1189,James Taylor,Electronics,490.88,10,2023-03-02,New York,3.6
+10928.0,C-1180,Bob Johnson,Books,95.76,7,2023-12-25,Houston,1.9
+10036.0,C-1195,Emma Watson,Books,288.65,4,2023-11-27,Chicago,3.3
+10452.0,C-1126,Alice Smith,Books,356.66,1,2023-12-07,Los Angeles,4.4
+10253.0,C-1151,Bob Johnson,Books,250.44,5,2023-12-07,Los Angeles,1.3
+10303.0,C-1064,Olivia Wilson,Electronics,340.89,2,2023-12-07,Los Angeles,2.6
+10571.0,C-1138,Alice Smith,Books,343.2,10,2023-12-07,New York,1.6
+10623.0,C-1173,SOPHIA DAVIS,Clothing,258.08,2,2023-12-07,Houston,1.7
+10754.0,C-1100,John Doe,Electronics,216.64,10,2023-12-07,Los Angeles,4.0
+10764.0,C-1070,Michael Brown,Clothing,492.0,3,2023-11-30,New York,3.1
+10262.0,C-1016,Alice Smith,Clothing,205.89,6,2023-11-30,Houston,2.0
+10610.0,C-1141,bob johnson,Home & Kitchen,413.95,3,2023-11-30,New York,4.5
+10297.0,C-1026,Bob Johnson,Books,92.82,4,2023-11-30,Los Angeles,1.5
+10150.0,C-1040,michael brown,Clothing,193.78,5,2023-11-30,Chicago,2.3
+10835.0,C-1197,sophia davis,Clothing,250.72,10,2023-11-30,Los Angeles,3.8
+10640.0,C-1173,olivia wilson,Home & Kitchen,465.47,10,2023-04-10,New York,1.5
+10943.0,C-1122,Emily Anderson,Clothing,348.56,6,2023-04-10,Los Angeles,4.3
+10550.0,C-1068,sophia davis,Home & Kitchen,58.16,2,2023-04-10,Los Angeles,2.6
+10488.0,C-1094,Michael Brown,Electronics,269.87,8,2023-08-08,Houston,1.6
+10710.0,C-1161,james taylor,Electronics,474.81,7,2023-08-08,Chicago,1.3
+10146.0,C-1024,John Doe,Books,61.79,1,2023-08-08,Chicago,3.4
+10965.0,C-1141,bob johnson,Home & Kitchen,468.65,2,2023-08-08,New York,3.5
+10988.0,C-1071,David Miller,Home & Kitchen,72.21,2,2023-12-22,New York,3.8
+10786.0,C-1165,Sophia Davis,Books,364.8,10,2023-12-22,New York,2.1
+10659.0,C-1099,Emily Anderson,Home & Kitchen,287.81,2,2023-12-22,Chicago,3.5
+10348.0,C-1076,Emma Watson,Clothing,101.4,10,2023-06-16,New York,1.5
+10325.0,C-1043,emma watson,Home & Kitchen,93.47,9,2023-06-16,New York,1.4
+10186.0,C-1046,Alice Smith,Home & Kitchen,113.83,1,2023-06-16,Houston,4.1
+10123.0,C-1168,Bob Johnson,Books,250.44,3,2023-06-16,Houston,1.7
+10906.0,C-1023,Bob Johnson,Electronics,471.92,10,2023-06-16,New York,1.8
+10751.0,C-1091,Michael Brown,Books,477.58,5,2023-07-12,Houston,2.5
+10197.0,C-1196,Emma Watson,Books,372.01,1,2023-07-12,Chicago,2.4
+10279.0,C-1122,Olivia Wilson,Clothing,87.34,10,2023-07-12,Houston,4.7
+10293.0,C-1014,David Miller,Home & Kitchen,70.45,3,2023-07-12,Chicago,2.7
+10883.0,C-1111,Michael Brown,Home & Kitchen,158.63,5,2023-07-12,Houston,2.7
+10400.0,C-1118,olivia wilson,Books,258.01,2,2023-03-22,Los Angeles,2.6
+10183.0,C-1068,David Miller,Books,463.71,8,2023-03-22,Chicago,3.7
+10438.0,C-1191,Olivia Wilson,Electronics,178.79,4,2023-03-22,Chicago,4.8
+10246.0,C-1116,Sophia Davis,Electronics,367.34,2,2023-03-22,Houston,4.3
+10415.0,C-1090,michael brown,Books,96.04,5,2023-03-22,New York,3.1
+10823.0,C-1160,Bob Johnson,Clothing,250.44,5,2023-03-22,New York,3.9
+10930.0,C-1143,michael brown,Electronics,165.76,6,2023-03-22,New York,3.0
+10960.0,C-1142,james taylor,Clothing,229.22,5,2023-03-08,Houston,1.3
+10954.0,C-1063,Emily Anderson,Clothing,300.22,7,2023-03-08,Chicago,1.8
+10941.0,C-1062,Bob Johnson,Home & Kitchen,83.72,7,2023-03-08,New York,2.9
+10129.0,C-1068,Emily Anderson,Electronics,250.44,3,2023-03-08,New York,2.4
+10637.0,C-1024,MICHAEL BROWN,Clothing,193.87,3,2023-03-08,Chicago,2.4
+10817.0,C-1011,Alice Smith,Home & Kitchen,483.32,3,2023-03-08,Los Angeles,1.6
+10967.0,C-1091,David Miller,Home & Kitchen,293.45,9,2023-03-08,Los Angeles,1.6
+10219.0,C-1195,Olivia Wilson,Home & Kitchen,322.22,6,2023-03-08,Los Angeles,2.8
+10969.0,C-1117,Emily Anderson,Books,426.99,2,2023-03-08,Houston,2.5
+10799.0,C-1195,Sophia Davis,Clothing,251.83,9,2023-03-08,Chicago,4.9
+10854.0,C-1184,SOPHIA DAVIS,Books,239.88,7,2023-03-08,New York,4.6
+10624.0,C-1055,Bob Johnson,Home & Kitchen,287.95,2,2023-12-25,Chicago,1.1
+10807.0,C-1005,Alice Smith,Clothing,96.5,5,2023-12-25,New York,3.7
+10386.0,C-1134,Alice Smith,Electronics,369.87,4,2023-12-25,Houston,2.3
+10509.0,C-1189,John Doe,Electronics,15.95,5,2023-12-25,Los Angeles,1.1
+10267.0,C-1019,Olivia Wilson,Electrnics,259.7,2,2023-12-25,Los Angeles,3.4
+10441.0,C-1070,SOPHIA DAVIS,Home & Kitchen,489.79,3,2023-12-25,New York,1.3
+10691.0,C-1157,Emily Anderson,Books,183.31,8,2023-11-08,Chicago,2.8
+10922.0,C-1055,Emma Watson,Books,350.81,5,2023-10-17,Los Angeles,2.7
+10607.0,C-1146,Sophia Davis,Home & Kitchen,451.73,5,2023-10-17,Houston,1.9
+10671.0,C-1109,Olivia Wilson,Electrnics,120.58,3,2023-10-17,Los Angeles,4.8
+10373.0,C-1104,Bob Johnson,Books,431.7,2,2023-10-17,Los Angeles,4.8
+10663.0,C-1038,Michael Brown,Electronics,290.13,8,2023-10-17,New York,2.1
+10233.0,C-1139,Emma Watson,Electronics,250.44,8,2023-10-17,New York,2.3
+10832.0,C-1120,Alice Smith,Clothing,424.66,7,2023-03-21,Houston,3.8
+10676.0,C-1119,James Taylor,Clothing,147.4,5,2023-10-30,Chicago,4.1
+10317.0,C-1026,Olivia Wilson,Books,106.68,3,2023-10-30,Los Angeles,2.5
+10648.0,C-1122,Sophia Davis,Clothing,80.83,7,2023-09-04,Houston,4.8
+10410.0,C-1138,david miller,Clothing,192.82,2,2023-09-04,New York,1.2
+10952.0,C-1104,EMMA WATSON,Electronics,157.48,5,2023-09-04,Los Angeles,2.4
+10709.0,C-1125,David Miller,Clothing,495.23,7,2023-09-04,Houston,4.3
+10358.0,C-1013,Emily Anderson,Home & Kitchen,364.44,7,2023-09-04,Chicago,4.0
+10258.0,C-1002,Michael Brown,Electronics,192.37,7,2023-09-04,Houston,2.7
+10744.0,C-1179,Sophia Davis,Electronics,96.07,8,2023-09-04,New York,4.4
+10627.0,C-1189,Sophia Davis,Books,445.36,4,2023-09-04,New York,2.4
+10632.0,C-1132,Bob Johnson,Clothing,243.85,1,2023-01-24,Houston,4.1
+10282.0,C-1105,John Doe,Clothing,439.86,5,2023-01-24,Chicago,2.8
+10376.0,C-1064,Michael Brown,Clothing,352.08,5,2023-04-16,Houston,4.0
+10384.0,C-1150,James Taylor,Books,95.48,10,2023-04-16,Chicago,1.7
+10472.0,C-1144,Michael Brown,Electronics,250.44,2,2023-10-19,Chicago,3.0
+10347.0,C-1049,Sophia Davis,Electronics,465.73,2,2023-10-19,Houston,2.0
+10639.0,C-1061,David Miller,Books,440.5,1,2023-10-19,New York,3.6
+10587.0,C-1185,Alice Smith,Books,99.99,10,2023-10-19,Houston,4.6
+10797.0,C-1084,Bob Johnson,Clothing,6.75,3,2023-10-19,Houston,3.9
+10959.0,C-1122,EMILY ANDERSON,Home & Kitchen,379.75,3,2023-10-19,Los Angeles,2.8
+10619.0,C-1083,Emma Watson,Books,8.25,10,2023-10-19,Los Angeles,4.7
+10908.0,C-1116,Alice Smith,Books,159.13,1,2023-09-03,Houston,1.8
+10851.0,C-1174,James Taylor,Clothing,480.26,5,2023-09-03,New York,1.9
+10645.0,C-1007,emma watson,Books,250.44,6,2023-09-03,New York,4.9
+10556.0,C-1187,Olivia Wilson,Clothing,24.55,8,2023-07-05,Houston,3.4
+10577.0,C-1051,Emily Anderson,Electrnics,250.44,4,2023-07-05,Chicago,2.5
+10085.0,C-1091,james taylor,Clothing,279.02,8,2023-07-05,New York,1.6
+10698.0,C-1191,Sophia Davis,Electronics,483.56,10,2023-07-05,Los Angeles,3.8
+10927.0,C-1153,Bob Johnson,Home & Kitchen,132.74,7,2023-07-05,Chicago,2.8
+10159.0,C-1153,John Doe,Home & Kitchen,0.0,7,2023-07-05,New York,3.7
+10524.0,C-1118,Michael Brown,Home & Kitchen,11.24,8,2023-07-04,Chicago,3.8
+10540.0,C-1131,emma watson,Books,294.42,3,2023-07-04,New York,2.3
+10654.0,C-1162,James Taylor,Electronics,373.93,7,2023-07-04,Houston,3.1
+10944.0,C-1166,James Taylor,Home & Kitchen,490.2,1,2023-09-03,New York,4.1
+10900.0,C-1112,michael brown,Clothing,337.21,9,2023-08-13,New York,3.1
+10733.0,C-1105,Emily Anderson,Home & Kitchen,370.48,5,2023-08-13,Chicago,4.2
+10095.0,C-1044,emily anderson,Electrnics,269.28,4,2023-08-13,New York,4.4
+10563.0,C-1148,Sophia Davis,Books,227.45,6,2023-08-13,Chicago,2.4
+10240.0,C-1103,bob johnson,Books,10.24,10,2023-09-04,Houston,2.0
+10742.0,C-1198,EMILY ANDERSON,Books,71.37,8,2023-09-04,New York,2.3
+10863.0,C-1198,Bob Johnson,Books,250.44,10,2023-09-04,New York,4.6
+10460.0,C-1001,emily anderson,Clothing,376.12,9,2023-02-24,Houston,4.0
+10553.0,C-1153,MICHAEL BROWN,Home & Kitchen,446.44,1,2023-02-24,New York,4.7
+10857.0,C-1152,Emily Anderson,Home & Kitchen,233.01,7,2023-02-24,Los Angeles,1.1
+10392.0,C-1081,OLIVIA WILSON,Electronics,250.44,4,2023-07-20,New York,1.9
+10794.0,C-1084,James Taylor,Books,366.43,7,2023-07-20,Chicago,4.1
+10870.0,C-1089,emily anderson,Electronics,97.75,2,2023-07-20,Chicago,2.0
+10397.0,C-1172,Sophia Davis,Books,449.57,10,2023-07-20,New York,4.4
+10901.0,C-1188,Alice Smith,Books,82.96,3,2023-07-20,Houston,2.5
+10217.0,C-1125,OLIVIA WILSON,Clothing,88.48,4,2023-07-20,Los Angeles,2.0
+10004.0,C-1071,Bob Johnson,Books,346.5,2,2023-03-02,Chicago,2.2
+10768.0,C-1100,Emily Anderson,Electronics,442.78,1,2023-01-03,Chicago,2.2
+10951.0,C-1057,John Doe,Books,0.0,7,2023-01-03,Los Angeles,3.3
+10612.0,C-1078,Emily Anderson,Clothing,190.66,8,2023-07-09,Houston,1.7
+10546.0,C-1030,OLIVIA WILSON,Clothing,172.52,6,2023-07-09,Houston,2.8
+10725.0,C-1060,sophia davis,Books,284.6,6,2023-07-09,Chicago,2.4
+10971.0,C-1079,Emma Watson,Books,484.11,8,2023-07-09,New York,1.5
+10683.0,C-1119,John Doe,Home & Kitchen,335.79,4,2023-07-09,New York,2.8
+10804.0,C-1065,Emily Anderson,Books,250.44,5,2023-09-19,Houston,3.2
+10406.0,C-1160,EMMA WATSON,Books,231.31,1,2023-09-19,New York,2.0
+10502.0,C-1040,James Taylor,Books,98.06,7,2023-09-19,Los Angeles,2.0
+10032.0,C-1115,Bob Johnson,Books,168.79,2,2023-11-27,Chicago,1.3
+10779.0,C-1007,Emily Anderson,Books,441.86,7,2023-11-27,New York,4.4
+10839.0,C-1156,Bob Johnson,Clothing,63.51,1,2023-11-27,Chicago,2.4
+10200.0,C-1200,bob johnson,Electrnics,96.08,6,2023-11-14,New York,1.6
+10134.0,C-1138,Sophia Davis,Books,154.07,5,2023-11-14,New York,1.8
+10027.0,C-1167,Olivia Wilson,Clothing,446.57,3,2023-11-14,Houston,2.1
+10933.0,C-1049,Olivia Wilson,Books,423.65,9,2023-11-14,New York,4.7
+10230.0,C-1156,emma watson,Home & Kitchen,317.66,10,2023-11-14,Los Angeles,1.5
+10489.0,C-1011,John Doe,Books,248.51,6,2023-11-14,Los Angeles,1.8
+10772.0,C-1104,Emily Anderson,Clothing,234.47,1,2023-10-15,Houston,3.7
+10378.0,C-1153,ALICE SMITH,Clothing,270.15,9,2023-10-15,Houston,2.5
+10288.0,C-1091,Sophia Davis,Books,384.91,9,2023-12-22,New York,1.8
+10418.0,C-1095,Alice Smith,Books,228.11,3,2023-12-22,New York,2.9
+10674.0,C-1179,Bob Johnson,Electronics,125.31,3,2023-12-22,Los Angeles,4.1
+10592.0,C-1105,Michael Brown,Clothing,418.06,6,2023-04-19,New York,1.6
+10498.0,C-1144,James Taylor,Home & Kitchen,260.72,7,2023-04-19,Houston,2.8
+10062.0,C-1076,Emma Watson,Electrnics,379.79,5,2023-04-19,Houston,2.9
+10471.0,C-1110,John Doe,Books,89.45,10,2023-04-19,Los Angeles,1.8
+10647.0,C-1063,Alice Smith,Home & Kitchen,166.78,4,2023-04-19,New York,3.0
+10128.0,C-1037,Bob Johnson,Home & Kitchen,423.78,8,2023-05-24,Houston,3.0
+10134.0,C-1138,Sophia Davis,Books,99.99,5,2023-05-24,New York,1.8
+10520.0,C-1010,emily anderson,Home & Kitchen,77.31,9,2023-06-05,Houston,2.8
+10838.0,C-1156,Michael Brown,Home & Kitchen,148.79,1,2023-06-05,Los Angeles,4.9
+10064.0,C-1159,James Taylor,Books,337.71,4,2023-06-13,New York,3.2
+10812.0,C-1058,MICHAEL BROWN,Home & Kitchen,48.41,10,2023-06-13,New York,4.8
+10014.0,C-1152,EMILY ANDERSON,Home & Kitchen,365.0,1,2023-06-13,Los Angeles,4.4
+10156.0,C-1017,James Taylor,Clothing,151.73,2,2023-01-27,Chicago,2.7
+10040.0,C-1088,emily anderson,Electronics,250.44,3,2023-09-25,Chicago,3.7
+10492.0,C-1175,James Taylor,Electronics,399.4,2,2023-07-12,New York,2.0
+10379.0,C-1011,Olivia Wilson,Electrnics,135.36,10,2023-07-12,Los Angeles,1.1
+10763.0,C-1057,SOPHIA DAVIS,Books,126.63,2,2023-07-12,Los Angeles,2.1
+10921.0,C-1125,Sophia Davis,Clothing,50.99,9,2023-06-09,Houston,2.1
+10791.0,C-1013,EMMA WATSON,Electronics,432.02,10,2023-06-09,New York,4.9
+10052.0,C-1155,Emily Anderson,Books,6.09,7,2023-04-03,Chicago,2.9
+10878.0,C-1088,Emma Watson,Electrnics,23.51,8,2023-04-03,Los Angeles,3.1
+10337.0,C-1117,David Miller,Clothing,412.51,5,2023-04-03,Los Angeles,3.0
+10748.0,C-1098,Alice Smith,Home & Kitchen,475.35,2,2023-04-03,Chicago,1.4
+10719.0,C-1086,James Taylor,Electronics,292.61,7,2023-04-03,Houston,3.4
+10724.0,C-1039,Sophia Davis,Home & Kitchen,386.17,3,2023-03-17,Chicago,2.6
+10295.0,C-1168,bob johnson,Books,455.12,2,2023-03-17,New York,3.2
+10701.0,C-1067,Olivia Wilson,Books,155.94,7,2023-03-17,Houston,3.4
+10251.0,C-1087,Olivia Wilson,Clothing,197.11,4,2023-03-17,New York,3.6
+10726.0,C-1099,Bob Johnson,Electronics,38.57,3,2023-03-17,Houston,4.4
+10461.0,C-1086,Emma Watson,Electronics,201.54,10,2023-03-17,Houston,2.7
+10455.0,C-1024,JOHN DOE,Books,375.21,4,2023-03-17,New York,4.2
+10815.0,C-1200,bob johnson,Books,332.16,1,2023-03-17,Chicago,2.3
+10862.0,C-1179,Emily Anderson,Electronics,279.81,9,2023-03-17,Los Angeles,1.7
+10269.0,C-1061,John Doe,Home & Kitchen,303.0,1,2023-03-17,Houston,2.6
+10201.0,C-1136,David Miller,Clothing,130.11,8,2023-03-17,Chicago,1.8
+10161.0,C-1136,JAMES TAYLOR,Home & Kitchen,315.33,6,2023-03-17,Los Angeles,4.1
+10555.0,C-1089,bob johnson,Clothing,363.58,7,2023-03-17,Los Angeles,1.5
+10729.0,C-1181,Bob Johnson,Home & Kitchen,19.59,2,2023-03-17,Los Angeles,4.1
+10702.0,C-1193,Sophia Davis,Books,373.47,1,2023-03-17,New York,2.5
+10821.0,C-1052,Michael Brown,Clothing,411.03,8,2023-03-17,Chicago,1.5
+10105.0,C-1143,OLIVIA WILSON,Electronics,182.55,3,2023-03-17,Houston,3.0
+10565.0,C-1066,james taylor,Books,389.08,7,2023-03-17,Chicago,4.4
+10389.0,C-1053,Michael Brown,Home & Kitchen,418.99,8,2023-03-17,Chicago,1.7
+10001.0,C-1029,Michael Brown,Clothing,189.45,5,2023-03-17,Chicago,1.7
+10994.0,C-1073,SOPHIA DAVIS,Books,195.43,8,2023-03-17,New York,2.5
+10479.0,C-1010,John Doe,Electronics,99.99,5,2023-03-17,Houston,2.9
+10561.0,C-1030,David Miller,Electronics,301.35,4,2023-03-17,Houston,1.0
+10931.0,C-1003,OLIVIA WILSON,Home & Kitchen,37.36,8,2023-03-17,New York,2.3
+10205.0,C-1126,bob johnson,Clothing,495.09,2,2023-06-05,New York,1.1
+10034.0,C-1072,Michael Brown,Clothing,192.43,8,2023-06-05,Chicago,2.1
+10775.0,C-1120,olivia wilson,Electronics,447.69,9,2023-06-05,Houston,1.9
+10508.0,C-1046,Olivia Wilson,Clothing,80.31,3,2023-04-04,Los Angeles,1.1
+10427.0,C-1136,EMILY ANDERSON,Books,317.17,9,2023-04-04,Houston,4.1
+10454.0,C-1014,Emily Anderson,Books,391.58,4,2023-04-04,Los Angeles,4.9
+10366.0,C-1021,Emma Watson,Clothing,62.92,5,2023-04-04,Los Angeles,2.0
+10339.0,C-1109,John Doe,Electronics,0.0,10,2023-04-04,Los Angeles,2.3
+10897.0,C-1199,Alice Smith,Home & Kitchen,321.23,9,2023-04-04,New York,1.8
+10564.0,C-1049,Bob Johnson,Clothing,273.09,5,2023-01-07,Los Angeles,4.3
+10345.0,C-1125,emma watson,Electronics,91.76,5,2023-01-07,Chicago,4.4
+10776.0,C-1033,Emily Anderson,Home & Kitchen,199.57,7,2023-03-29,Los Angeles,1.9
+10013.0,C-1023,John Doe,Electrnics,431.98,6,2023-03-29,Chicago,4.7
+10315.0,C-1114,BOB JOHNSON,Clothing,8.52,5,2023-03-29,Chicago,2.3
+10600.0,C-1108,john doe,Clothing,384.31,4,2023-06-25,Chicago,2.9
+10387.0,C-1081,David Miller,Books,124.82,5,2023-06-25,Los Angeles,4.5
+10273.0,C-1055,MICHAEL BROWN,Home & Kitchen,242.12,6,2023-06-25,Los Angeles,2.3
+10166.0,C-1185,John Doe,Home & Kitchen,220.44,3,2023-06-25,New York,4.7
+10840.0,C-1192,EMMA WATSON,Books,399.38,4,2023-07-01,Los Angeles,3.1
+10020.0,C-1060,bob johnson,Clothing,363.27,10,2023-06-22,New York,2.2
+10818.0,C-1194,Emily Anderson,Clothing,183.29,7,2023-06-22,Los Angeles,3.7
+10264.0,C-1018,James Taylor,Home & Kitchen,99.99,5,2023-09-27,Chicago,4.0
+10831.0,C-1056,James Taylor,Books,354.87,8,2023-12-07,Chicago,2.5
+10243.0,C-1096,Bob Johnson,Clothing,74.48,9,2023-12-07,Houston,3.5
+10566.0,C-1012,John Doe,Books,368.16,2,2023-12-07,Chicago,5.0
+10875.0,C-1018,EMMA WATSON,Books,188.93,8,2023-12-07,Los Angeles,4.4
+10562.0,C-1099,Alice Smith,Clothing,84.37,9,2023-12-07,New York,2.6
+10189.0,C-1161,BOB JOHNSON,Books,152.54,2,2023-12-07,Houston,1.5
+10782.0,C-1145,Bob Johnson,Electronics,86.18,7,2023-12-07,Chicago,3.3
+10975.0,C-1185,alice smith,Home & Kitchen,20.44,4,2023-12-07,New York,3.6
+10699.0,C-1122,Bob Johnson,Books,357.67,5,2023-12-07,Los Angeles,4.0
+10475.0,C-1020,james taylor,Books,467.75,4,2023-12-07,Houston,3.9
+10681.0,C-1117,Alice Smith,Electronics,276.66,10,2023-12-07,Los Angeles,1.5
+10510.0,C-1086,john doe,Home & Kitchen,144.65,2,2023-12-07,New York,4.2
+10058.0,C-1032,Emma Watson,Electrnics,130.87,6,2023-12-07,Houston,3.0
+10474.0,C-1029,Bob Johnson,Electronics,236.26,7,2023-12-07,Houston,2.3
+10560.0,C-1131,ALICE SMITH,Books,236.86,2,2023-08-22,Houston,1.4
+10747.0,C-1148,Olivia Wilson,Books,484.56,8,2023-12-13,Houston,1.9
+10252.0,C-1006,JOHN DOE,Electronics,441.37,2,2023-03-31,New York,2.5
+10021.0,C-1130,JOHN DOE,Electronics,478.1,10,2023-03-31,Chicago,3.8
+10459.0,C-1012,Bob Johnson,Books,129.57,6,2023-03-31,Chicago,2.3
+10955.0,C-1079,olivia wilson,Books,167.07,3,2023-03-18,Chicago,2.6
+10385.0,C-1145,SOPHIA DAVIS,Home & Kitchen,465.48,9,2023-03-18,Houston,1.6
+10805.0,C-1021,JOHN DOE,Clothing,142.67,9,2023-03-18,Houston,1.2
+10769.0,C-1087,James Taylor,Clothing,146.53,1,2023-03-18,Houston,1.3
+10130.0,C-1036,david miller,Electrnics,469.06,5,2023-03-18,Houston,2.8
+10330.0,C-1103,david miller,Clothing,63.95,1,2023-03-18,New York,4.5
+10466.0,C-1042,Emma Watson,Home & Kitchen,56.44,3,2023-03-18,New York,1.1
+10860.0,C-1063,bob johnson,Books,32.73,5,2023-12-26,Houston,4.2

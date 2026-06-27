@@ -1,0 +1,110 @@
+================================================================================
+               DATA CLEANING & ANALYTICAL PIPELINE REPORT
+================================================================================
+
+1. EXECUTIVE SUMMARY
+------------------------------
+This report summarizes the data cleaning operations, preprocessing steps,
+and exploratory data analysis (EDA) executed on the raw dataset. The pipeline
+identified and handled raw data-entry defects, missing values, duplicates,
+and extreme outliers to build a high-integrity cleaned dataset for analysis.
+
+  - Raw Dataset Dimensions: 1040 rows, 9 columns
+  - Cleaned Dataset Dimensions: 804 rows, 9 columns
+  - Data Retention Rate: 77.31%
+  - Duplicate Records Removed: 27
+  - Total Missing Values Imputed: 1041
+  - Total Outliers Removed: 76
+
+2. COLUMN NAME STANDARDIZATION
+------------------------------
+All column headers were cleaned, trimmed, lowercased, and mapped to snake_case:
+  - ' Transaction ID ' -> 'transaction_id'
+  - 'Customer ID' -> 'customer_id'
+  - 'Customer Name' -> 'customer_name'
+  - 'Product Category' -> 'product_category'
+  - 'Sale Price' -> 'sale_price'
+  - 'Quantity' -> 'quantity'
+  - 'Order Date' -> 'order_date'
+  - 'Store Location' -> 'store_location'
+  - 'Customer Rating' -> 'customer_rating'
+
+3. TYPE CONVERSIONS & DATA PARSING
+------------------------------
+Parsed raw string inputs into unified numeric and temporal formats:
+  - Column 'sale_price' successfully parsed to numeric.
+    * 27 invalid string values (e.g., text) coerced to NaN.
+  - Column 'quantity' successfully parsed to numeric.
+  - Column 'customer_rating' successfully parsed to numeric.
+  - Column 'order_date' successfully parsed to datetime.
+    * 758 invalid date entries coerced to NaT.
+
+4. MISSING VALUES DIAGNOSTICS & RESOLUTION
+------------------------------
+Missing values were identified and resolved based on custom column-specific strategies:
+
+Column Name            | Nulls Before | Imputation Strategy    | Value Used / Method   
+----------------------------------------------------------------------------------------
+transaction_id         | 0            | drop                   | Dropped Rows          
+customer_id            | 0            | None (0 missing)       | -                     
+customer_name          | 0            | None (0 missing)       | -                     
+product_category       | 0            | None (0 missing)       | -                     
+sale_price             | 0            | median                 | 250.44                
+quantity               | 0            | median                 | 5.0                   
+order_date             | 0            | ffill                  | Forward Fill          
+store_location         | 0            | mode                   | New York              
+customer_rating        | 0            | mean                   | 5.0379385964912275    
+
+5. OUTLIER ANALYSIS (IQR METHOD)
+------------------------------
+Applied the Interquartile Range (IQR) technique to detect and prune extreme values:
+
+  - Column 'customer_rating':
+    * Lower Boundary Threshold: -1.20
+    * Upper Boundary Threshold: 7.60
+    * Outliers Removed: 33 records
+  - Column 'sale_price':
+    * Lower Boundary Threshold: -250.23
+    * Upper Boundary Threshold: 737.45
+    * Outliers Removed: 25 records
+  - Column 'quantity':
+    * Lower Boundary Threshold: -4.50
+    * Upper Boundary Threshold: 15.50
+    * Outliers Removed: 18 records
+
+6. EXPLORATORY DATA ANALYSIS SUMMARY
+------------------------------
+Summary Statistics for the cleaned sales transactions:
+  - Total Clean Transactions: 804
+  - Cumulative Sales Revenue: $196,626.02
+  - Average Transaction Price: $244.56
+  - Total Product Quantities Sold: 4320
+  - Average Customer Satisfaction: 2.98/5.0 stars
+
+Distribution of Product Categories:
+  - Books: 219 items (27.24%)
+  - Home & Kitchen: 200 items (24.88%)
+  - Clothing: 195 items (24.25%)
+  - Electronics: 144 items (17.91%)
+  - Electrnics: 46 items (5.72%)
+
+Distribution of Store Locations:
+  - New York: 242 transactions (30.10%)
+  - Los Angeles: 195 transactions (24.25%)
+  - Houston: 195 transactions (24.25%)
+  - Chicago: 172 transactions (21.39%)
+
+7. KEY BUSINESS INSIGHTS & STRATEGIC RECOMMENDATIONS
+------------------------------
+1. CORE PRODUCT STRATEGY: 'Books' is the highest-volume product category (representing 242 units).
+   Focus inventory allocations and marketing budgets to support demand in this segment.
+2. REVENUE FOUNDATION: Total revenue reached $196,626.02 with an average transaction value of $244.56.
+   The removal of test inputs (e.g. $99,999.00 values) provides a reliable baseline for budget planning.
+3. CUSTOMER SATISFACTION: The average customer score stands at 2.98/5.0. Targeted satisfaction
+   campaigns in categories showing rating variability should be pursued.
+4. GEOGRAPHICAL DISPERSION: Transaction densities across cities highlight top-performing regional clusters,
+   informing distribution network and advertising optimizations.
+
+================================================================================
+                           END OF SUMMARY REPORT
+================================================================================

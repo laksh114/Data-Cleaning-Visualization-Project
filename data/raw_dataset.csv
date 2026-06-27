@@ -1,0 +1,1041 @@
+ Transaction ID ,Customer ID,Customer Name,Product Category,Sale Price,Quantity,Order Date,Store Location,Customer Rating
+10136.0,C-1192,Sophia Davis,  ELECTronics  ,unknown,1.0,2023/04/18,CHICAGO,4.2
+10628.0,C-1044,Emily Anderson,Electrnics,131.84 USD,4.0,2023/12/05,Los Angeles,4.3
+10184.0,C-1129,Alice Smith,Electrnics,411.95 USD,2.0,2023/02/01,LOS ANGELES,4.7
+10031.0,C-1057,Bob Johnson,books,376.96,,2023-08-15,New York,3.2
+10677.0,C-1013,Emma Watson,electronics,403.12,7.0,2023-07-18,New York,2.6
+10936.0,C-1185,John Doe,Home & Kitchen,$358.57,3.0,2023/03/09,  NEW YORK ,99.0
+10289.0,C-1109,David Miller,Clothing,257.85,8.0,2023-09-11,Chicago,2.5
+10327.0,C-1125,Olivia Wilson,clothing,$290.94,3.0,2023-01-07,New York,3.6
+10491.0,C-1054,David Miller,Electronics,399.99,7.0,2023-06-01,Chicago,3.3
+10394.0,C-1068,Michael Brown,  ELECTronics  ,,8.0,2023-04-02,Houston,3.6
+10666.0,C-1002,Michael Brown,Clothing,$175.54,3.0,2023.10.15,  houston ,4.6
+10545.0,C-1008,  sophia davis ,Home & Kitchen,252.46,7.0,29-Oct-2023,New York,1.5
+10869.0,C-1011,Olivia Wilson,Electrnics,87.15,7.0,2023-01-27,New York,2.4
+10761.0,C-1057,John Doe,books,99999.0,2.0,2023-09-29,Chicago,1.4
+10256.0,C-1151,Alice Smith,Electronics,372.25 USD,1.0,2023/01/12,HOUSTON,2.0
+10076.0,C-1060,Michael Brown,books,441.29 USD,1.0,2023/01/10,Houston,2.0
+10773.0,C-1186,James Taylor,Electronics,49.77,5.0,2023-01-18,Los Angeles,3.0
+10850.0,C-1148,  james taylor ,  Books  ,201.04,8.0,27-May-2023,Los Angeles,3.5
+10331.0,C-1016,Emily Anderson,Clothes,392.64,8.0,2023-04-18,Chicago,4.7
+10629.0,C-1169,Emily Anderson,HOME & KITCHEN,287.39,3.0,2023-11-23,New York,2.8
+10968.0,C-1180,John Doe,Books,257.66 USD,1.0,2023/10/28,CHICAGO,99.0
+10811.0,C-1090,David Miller,CLOTHing,303.63,2.0,2023-07-28,New York,3.0
+10377.0,C-1149,Sophia Davis,Clothing,209.15,5.0,2023-12-30,Chicago,1.6
+10722.0,C-1021,James Taylor,  ELECTronics  ,449.83,9.0,2023-01-05,Chicago,2.4
+10622.0,C-1114,Olivia Wilson,  Books  ,412.06,9.0,,Los Angeles,
+10429.0,C-1171,David Miller,Books,$129.23,2.0,2023-07-20,Houston,2.8
+10916.0,C-1087,James Taylor,electronics,225.69 USD,3.0,2023/03/06,Chicago,2.0
+10086.0,C-1054,Emma Watson,Books,108.81,2.0,2023-10-12,New York,4.5
+10318.0,C-1013,Sophia Davis,CLOTHing,$207.38,5.0,2023.05.09,  chicago ,4.9
+10590.0,C-1080,  sophia davis ,home & kitchen,33.86,7.0,15-Sep-2023,Los Angeles,
+10174.0,C-1088,Alice Smith,Bks,$228.31,,2023.01.13,  los angeles ,1.7
+10208.0,C-1093,David Miller,home & kitchen,129.09 USD,6.0,2023/03/06,,2.9
+10519.0,C-1098,Sophia Davis,Bks,Free,5.0,2023-04-01,Houston,2.7
+10970.0,C-1070,  sophia davis ,Home & Kitchen,unknown,10.0,09-Apr-2023,Los Angeles,4.3
+10953.0,C-1178,David Miller,Clothes,301.14,-3.0,2023-04-19,Los Angeles,4.7
+10113.0,C-1009,Michael Brown,Clothing,344.15,2.0,2023-01-05,New York,1.7
+10439.0,C-1142,Olivia Wilson,Bks,304.76,3.0,2023-07-19,New York,2.3
+10554.0,C-1112,Sophia Davis,Bks,15.57,7.0,2023-08-06,New York,1.5
+10539.0,C-1165,JAMES TAYLOR,electronics,,1.0,2023-04-08,New York,3.2
+10059.0,C-1097,Michael Brown,Clothes,64.77,7.0,2023-07-28,Los Angeles,3.7
+10548.0,C-1046,David Miller,Clothes,unknown,4.0,2023/10/17,Chicago,4.0
+10694.0,C-1110,Michael Brown,Home & Kitchen,490.0,4.0,2023-11-20,Houston,2.1
+10689.0,C-1194,Emily Anderson,electronics,37.97,2.0,2023-12-26,New York,2.2
+10199.0,C-1139,James Taylor,Clothes,426.47,4.0,2023-08-08,Los Angeles,4.7
+10778.0,C-1137,Sophia Davis,Bks,448.83,4.0,,Chicago,1.1
+10734.0,C-1085,Bob Johnson,electronics,98.03,5.0,2023-03-02,Los Angeles,4.4
+10442.0,C-1073,Alice Smith,  Books  ,165.92,7.0,,Chicago,2.2
+10516.0,C-1041,Olivia Wilson,clothing,$251.71,9.0,2023/02/10,  new york ,1.4
+10947.0,C-1115,Michael Brown,Clothes,370.99,8.0,2023-05-18,New York,3.4
+10280.0,C-1063,  BOB JOHNSON ,Clothing,260.74 USD,4.0,2023/09/08,LOS ANGELES,
+10321.0,C-1004,David Miller,clothing,$270.37,2.0,2023-03-12,Los Angeles,5.0
+10049.0,C-1025,EMILY ANDERSON,clothing,301.98,9.0,2023-07-25,Houston,2.3
+10887.0,C-1182,David Miller,Books,106.57,2.0,2023-04-06,Houston,3.4
+10109.0,C-1197,John Doe,  ELECTronics  ,257.91,10.0,2023-06-18,Chicago,3.3
+10980.0,C-1138,  JAMES TAYLOR ,HOME & KITCHEN,-25.5,2.5,2023/03/02,New York,4.7
+10899.0,C-1120,Alice Smith,CLOTHing,268.48,6.0,2023-08-13,Chicago,4.5
+10678.0,C-1143,James Taylor,Books,$238.24,7.0,2023.06.13,  los angeles ,4.3
+10961.0,C-1136,John Doe,electronics,309.71,9.0,2023-07-05,Chicago,3.1
+10010.0,C-1174,  bob johnson ,  ELECTronics  ,243.92,2.0,06-Sep-2023,Chicago,3.5
+10501.0,C-1192,Olivia Wilson,CLOTHing,$268.31,10.0,2023-04-28,Los Angeles,3.7
+10523.0,C-1052,Bob Johnson,clothing,128.79,6.0,2023-09-04,Houston,2.4
+10661.0,C-1103,John Doe,electronics,124.95,6.0,2023-06-20,,1.6
+10070.0,C-1012,  EMILY ANDERSON ,Electrnics,294.63,,16-Sep-2023,Los Angeles,1.4
+10849.0,C-1080,Alice Smith,Home,$99.99,8.0,2023-01-30,Houston,4.8
+,C-1122,Michael Brown,CLOTHing,82.27,10.0,2023-11-13,Chicago,3.3
+10261.0,C-1162,David Miller,Clothes,$486.47,2.0,2023-04-18,Los Angeles,3.1
+10361.0,C-1129,Alice Smith,Home & Kitchen,481.71,5.0,2023-12-12,New York,4.7
+10398.0,C-1166,Alice Smith,books,289.39,5.0,2023-12-24,Los Angeles,3.1
+10342.0,C-1143,Emily Anderson,clothing,$203.32,1.0,2023.01.05,  houston ,
+10436.0,C-1030,Sophia Davis,Home & Kitchen,280.96 USD,5.0,2023/11/22,Los Angeles,3.2
+10530.0,C-1169,  emily anderson ,  ELECTronics  ,108.18,2.0,12-Feb-2023,Los Angeles,1.9
+10332.0,C-1043,Sophia Davis,home & kitchen,54.64 USD,8.0,2023/09/22,Los Angeles,2.3
+10139.0,C-1150,Bob Johnson,electronics,83.89,1.0,2023-05-23,New York,1.4
+10881.0,C-1126,Olivia Wilson,Clothes,81.27,6.0,2023-01-19,Houston,2.3
+10759.0,C-1140,Olivia Wilson,Clothes,$353.54,6.0,,Houston,3.2
+10312.0,C-1119,Olivia Wilson,electronics,$46.49,5.0,2023/11/26,  CHICAGO ,4.3
+10924.0,C-1067,SOPHIA DAVIS,Home & Kitchen,$323.99,4.0,2023/08/08,  los angeles ,4.3
+10141.0,C-1093,David Miller,Books,$442.28,9.0,2023-04-10,New York,1.1
+10809.0,C-1139,Alice Smith,Electrnics,$99.99,,2023-05-19,New York,3.3
+10174.0,C-1088,Alice Smith,Bks,$228.31,,2023.01.13,  los angeles ,1.7
+10717.0,C-1061,Bob Johnson,electronics,$304.66,1.0,2023-12-02,Chicago,3.1
+10948.0,C-1005,Emma Watson,Books,$419.19,9.0,2023/06/29,  los angeles ,
+10088.0,C-1069,Michael Brown,Clothes,70.67 USD,6.0,2023/11/14,LOS ANGELES,4.4
+10842.0,C-1030,Olivia Wilson,Books,210.24,3.0,2023-08-08,Houston,4.9
+10305.0,C-1049,  bob johnson ,CLOTHing,350.33,9.0,08-Jul-2023,New York,3.4
+10101.0,C-1098,David Miller,Books,393.84,2.5,2023-05-24,Houston,
+10310.0,C-1047,  michael brown ,  Books  ,215.62,10.0,12-Feb-2023,Chicago,2.6
+10859.0,C-1161,Bob Johnson,home & kitchen,408.01,10.0,2023-01-04,New York,4.8
+10451.0,C-1130,Olivia Wilson,Home & Kitchen,160.17,2.0,2023-02-19,Chicago,4.1
+10096.0,C-1137,Michael Brown,clothing,$214.08,3.0,2023/03/24,  CHICAGO ,3.8
+10814.0,C-1018,Emily Anderson,Home,84.86,2.0,2023-05-20,New York,3.2
+10792.0,C-1067,Olivia Wilson,Home & Kitchen,$76.58,7.0,2023/03/07,,3.2
+10030.0,C-1108,  john doe ,books,$250.44,5.0,24-Jan-2023,  new york ,2.6
+10158.0,C-1098,David Miller,CLOTHing,Free,4.0,2023-07-28,New York,2.5
+10688.0,C-1082,Sophia Davis,Books,235.16 USD,3.0,2023/03/16,LOS ANGELES,2.9
+10054.0,C-1012,John Doe,Home,$276.11,8.0,2023.05.12,  houston ,4.5
+10023.0,C-1007,Olivia Wilson,Clothing,311.03,10.0,2023-03-12,Chicago,
+10611.0,C-1001,Bob Johnson,Clothing,124.16,1.0,2023-11-06,New York,99.0
+10739.0,C-1053,Emily Anderson,home & kitchen,119.3,8.0,2023-12-10,Los Angeles,5.0
+10644.0,C-1038,MICHAEL BROWN,Bks,317.94 USD,7.0,2023/02/14,Houston,2.2
+10633.0,C-1170,Bob Johnson,books,$450.02,6.0,2023-06-16,New York,2.3
+10601.0,C-1171,Emily Anderson,CLOTHing,338.87,2.0,,Los Angeles,1.5
+10178.0,C-1041,Bob Johnson,Clothing,36.3,4.0,2023-06-24,Chicago,1.8
+10003.0,C-1190,James Taylor,home & kitchen,$230.99,2.5,2023-07-09,Chicago,3.2
+10277.0,C-1147,Alice Smith,Home & Kitchen,71.69,6.0,2023-01-28,Chicago,3.4
+10593.0,C-1084,Emily Anderson,Bks,unknown,4.0,2023-01-31,Los Angeles,
+10292.0,C-1187,James Taylor,CLOTHing,unknown,-3.0,2023/04/17,Los Angeles,1.7
+10298.0,C-1016,Alice Smith,home & kitchen,301.91,1.0,2023-02-13,New York,4.4
+10816.0,C-1167,Sophia Davis,electronics,$288.28,2.5,2023/02/20,  HOUSTON ,4.5
+10873.0,C-1170,Emma Watson,home & kitchen,$356.37,,2023-10-04,Chicago,4.7
+10231.0,C-1109,EMILY ANDERSON,CLOTHing,$291.56,4.0,2023-06-19,Chicago,2.5
+10210.0,C-1062,  JAMES TAYLOR ,Electrnics,$181.78,2.0,04-Sep-2023,  houston ,1.4
+10458.0,C-1071,Emma Watson,electronics,-25.5,5.0,2023-07-22,New York,2.2
+10923.0,C-1091,John Doe,  Books  ,Free,7.0,2023-05-25,Chicago,2.1
+10932.0,C-1133,Bob Johnson,Books,99999.0,1.0,2023/09/15,Los Angeles,2.0
+10319.0,C-1167,Emily Anderson,Home & Kitchen,99999.0,3.0,2023-12-16,Houston,3.5
+10405.0,C-1118,  emily anderson ,Home,$430.9,3.0,30-Jul-2023,Houston,1.2
+10063.0,C-1161,BOB JOHNSON,  ELECTronics  ,,7.0,invalid_date,Los Angeles,3.9
+10319.0,C-1167,Emily Anderson,Home & Kitchen,99999.0,3.0,2023-12-16,Houston,3.5
+10468.0,C-1114,Sophia Davis,  Books  ,$197.97,,invalid_date,  chicago ,2.2
+10440.0,C-1040,  emma watson ,Clothes,326.68 USD,5.0,2023/08/16,HOUSTON,2.9
+10100.0,C-1119,  michael brown ,CLOTHing,unknown,5.0,2023/03/13,Houston,3.7
+10336.0,C-1068,JOHN DOE,CLOTHing,$319.76,5.0,2023/04/07,  NEW YORK ,4.2
+10450.0,C-1068,  alice smith ,  Books  ,unknown,2.5,23-Apr-2023,  chicago ,1.6
+10408.0,C-1026,Olivia Wilson,Home,$161.25,6.0,2023/02/23,  HOUSTON ,3.6
+10107.0,C-1176,Alice Smith,Home & Kitchen,283.13,7.0,2023-06-14,Los Angeles,1.0
+10168.0,C-1175,MICHAEL BROWN,electronics,$16.76,4.0,2023/04/26,  NEW YORK ,1.8
+10039.0,C-1109,David Miller,CLOTHing,$373.89,3.0,2023-01-28,Houston,4.2
+10198.0,C-1042,Olivia Wilson,Home,$109.81,1000.0,,  new york ,3.4
+10237.0,C-1052,Olivia Wilson,Clothing,$296.85,4.0,2023-01-02,Houston,3.5
+10575.0,C-1189,  john doe ,Home,26.67,2.0,30-Jul-2023,New York,1.2
+10192.0,C-1130,James Taylor,CLOTHing,$10.52,4.0,2023/10/14,  NEW YORK ,2.6
+10704.0,C-1164,David Miller,  ELECTronics  ,180.91 USD,8.0,2023/12/04,LOS ANGELES,4.9
+10723.0,C-1036,Emma Watson,Home & Kitchen,$217.88,,2023-10-22,Houston,4.6
+10066.0,C-1148,Bob Johnson,Home,$231.41,9.0,2023.03.03,  chicago ,1.7
+10067.0,C-1050,John Doe,  ELECTronics  ,254.58,3.0,invalid_date,Los Angeles,1.0
+10920.0,C-1047,  alice smith ,Home & Kitchen,383.39 USD,8.0,2023/06/25,HOUSTON,4.5
+10497.0,C-1200,SOPHIA DAVIS,Books,44.21,6.0,2023-06-12,Los Angeles,4.4
+10213.0,C-1146,Michael Brown,Bks,$245.5,7.0,2023-01-31,Los Angeles,3.3
+10830.0,C-1145,  bob johnson ,HOME & KITCHEN,304.37,2.5,07-Mar-2023,Chicago,3.3
+10834.0,C-1066,James Taylor,books,$463.92,5.0,2023.05.17,  los angeles ,1.4
+10649.0,C-1157,David Miller,home & kitchen,498.7,,2023-05-04,New York,1.8
+10350.0,C-1015,  EMILY ANDERSON ,Clothes,309.52,5.0,13-Mar-2023,Los Angeles,1.1
+10861.0,C-1027,BOB JOHNSON,books,$284.65,,2023-06-26,New York,2.2
+10602.0,C-1098,MICHAEL BROWN,Electrnics,216.4,1.0,2023-09-06,,2.5
+10558.0,C-1112,Alice Smith,home & kitchen,$247.6,7.0,,  chicago ,4.9
+10877.0,C-1166,Olivia Wilson,Bks,91.63,6.0,,Los Angeles,3.7
+10787.0,C-1110,Alice Smith,Electronics,307.98,2.0,2023-01-23,Chicago,4.6
+10973.0,C-1060,DAVID MILLER,home & kitchen,489.45,10.0,2023-06-04,Houston,1.3
+10745.0,C-1006,  sophia davis ,Clothing,239.55,,04-Mar-2023,,2.3
+10308.0,C-1036,MICHAEL BROWN,Books,403.29 USD,9.0,2023/04/30,New York,4.8
+10706.0,C-1197,Emma Watson,  ELECTronics  ,141.56,8.0,2023-10-08,Houston,2.1
+10404.0,C-1003,Sophia Davis,Clothing,21.12 USD,1000.0,2023/04/22,Los Angeles,4.5
+10002.0,C-1007,John Doe,CLOTHing,61.35,6.0,2023-03-22,Los Angeles,2.9
+10430.0,C-1142,  alice smith ,CLOTHing,28.62,2.5,10-Dec-2023,New York,
+10544.0,C-1085,David Miller,Electronics,386.54 USD,6.0,2023/06/07,HOUSTON,1.9
+10770.0,C-1172,  DAVID MILLER ,Bks,150.74,8.0,07-Mar-2023,New York,2.8
+10344.0,C-1184,Michael Brown,clothing,33.44 USD,2.5,2023/06/23,CHICAGO,4.5
+10979.0,C-1191,James Taylor,Home,90.84,4.0,2023-07-07,,5.0
+,C-1190,Olivia Wilson,Books,76.28,1000.0,2023-05-29,Houston,
+10784.0,C-1007,OLIVIA WILSON,Electrnics,318.87 USD,8.0,2023/06/30,HOUSTON,4.0
+10483.0,C-1038,EMMA WATSON,Bks,Free,10.0,2023-11-24,Los Angeles,4.7
+10915.0,C-1098,  david miller ,Clothing,$316.59,6.0,25-Feb-2023,Houston,
+10357.0,C-1015,JOHN DOE,Electrnics,$459.99,6.0,2023-09-01,Los Angeles,2.0
+10557.0,C-1081,Alice Smith,electronics,281.72,6.0,2023-12-13,,2.3
+10585.0,C-1170,  olivia wilson ,clothing,$329.6,1.0,26-Sep-2023,Houston,2.1
+10721.0,C-1139,JAMES TAYLOR,Clothes,-25.5,3.0,2023-04-11,New York,1.5
+10964.0,C-1191,Emma Watson,electronics,341.38 USD,9.0,2023/05/22,Chicago,2.6
+10880.0,C-1108,  emily anderson ,Electrnics,400.52 USD,7.0,2023/11/26,HOUSTON,3.2
+10218.0,C-1018,Bob Johnson,Home,393.9,8.0,2023-03-17,New York,3.4
+10359.0,C-1150,Sophia Davis,Home,293.55,6.0,2023-11-24,New York,99.0
+10753.0,C-1193,Emily Anderson,  Books  ,$434.05,5.0,2023-12-26,Los Angeles,4.2
+10547.0,C-1067,David Miller,Home,380.98,1.0,2023-03-05,New York,2.5
+10247.0,C-1031,Alice Smith,Books,25.01,4.0,2023-05-29,New York,3.9
+10767.0,C-1008,Emily Anderson,Electrnics,98.98,5.0,2023-11-03,New York,4.3
+10902.0,C-1152,Bob Johnson,Home & Kitchen,99999.0,9.0,2023-01-03,Houston,4.6
+10306.0,C-1138,Emma Watson,Books,$469.52,7.0,2023.06.12,  new york ,2.5
+10106.0,C-1057,Olivia Wilson,books,309.97,1.0,2023-05-06,Los Angeles,4.0
+10987.0,C-1124,JOHN DOE,HOME & KITCHEN,$330.67,8.0,,New York,1.6
+10055.0,C-1187,  emily anderson ,books,57.63,6.0,20-Feb-2023,New York,4.8
+10120.0,C-1184,  michael brown ,Home,$102.25,6.0,2023/12/10,  NEW YORK ,1.8
+10800.0,C-1098,  michael brown ,  Books  ,305.95 USD,-3.0,2023/05/18,HOUSTON,3.3
+10025.0,C-1051,  alice smith ,Electronics,333.54,10.0,08-Dec-2023,Chicago,3.2
+10072.0,C-1059,Michael Brown,Electronics,$347.45,2.5,2023/06/12,,3.4
+10209.0,C-1079,Sophia Davis,  ELECTronics  ,292.39,6.0,2023-05-12,Chicago,
+10044.0,C-1196,James Taylor,Home,445.6 USD,6.0,2023/01/10,,1.6
+10314.0,C-1020,James Taylor,Home,7.71,1.0,2023-02-20,Chicago,2.2
+10866.0,C-1154,David Miller,  Books  ,unknown,7.0,2023-09-26,Houston,4.7
+10653.0,C-1107,Olivia Wilson,electronics,171.4,6.0,2023-01-15,Houston,1.6
+10328.0,C-1124,Alice Smith,Clothes,202.07 USD,9.0,2023/09/20,HOUSTON,4.5
+10925.0,C-1088,  alice smith ,Bks,237.92,9.0,20-Mar-2023,Houston,3.4
+10351.0,C-1149,Michael Brown,Bks,$183.07,2.0,2023-06-19,Los Angeles,3.9
+10956.0,C-1170,Alice Smith,HOME & KITCHEN,35.43 USD,9.0,2023/05/10,Chicago,2.2
+10635.0,C-1159,  john doe ,Home & Kitchen,Free,7.0,24-Jul-2023,Los Angeles,2.9
+10714.0,C-1020,SOPHIA DAVIS,  Books  ,$436.99,4.0,2023.10.25,  houston ,1.4
+10370.0,C-1018,  james taylor ,electronics,244.4,3.0,29-Mar-2023,Chicago,1.6
+10685.0,C-1136,  john doe ,Clothes,131.45,,01-Jun-2023,Chicago,
+10810.0,C-1014,  james taylor ,CLOTHing,,2.5,26-Feb-2023,  los angeles ,3.9
+10538.0,C-1090,Alice Smith,home & kitchen,219.91,5.0,2023-08-29,New York,4.4
+10614.0,C-1054,Alice Smith,Bks,228.94,2.0,2023-05-03,Los Angeles,3.7
+10464.0,C-1164,Emma Watson,home & kitchen,unknown,1.0,2023/08/23,LOS ANGELES,2.4
+10998.0,C-1059,Sophia Davis,  ELECTronics  ,138.28,3.0,2023-09-20,Houston,4.5
+10362.0,C-1136,Michael Brown,Home & Kitchen,204.96,9.0,2023-01-17,Houston,1.8
+10543.0,C-1138,Emma Watson,Home & Kitchen,$345.76,,2023-07-11,New York,2.1
+10617.0,C-1156,Alice Smith,Clothing,13.07,2.0,invalid_date,Los Angeles,-1.5
+10060.0,C-1021,  alice smith ,Books,$111.72,5.0,2023/01/31,  los angeles ,2.7
+10841.0,C-1184,Sophia Davis,Clothes,107.63,4.0,2023-09-15,Houston,
+10811.0,C-1090,David Miller,CLOTHing,303.63,2.0,2023-07-28,New York,3.0
+10092.0,C-1019,Bob Johnson,Home,283.33 USD,5.0,2023/05/09,Los Angeles,4.9
+10634.0,C-1163,Emily Anderson,Clothing,410.66,2.0,2023-04-30,New York,2.0
+10381.0,C-1021,Bob Johnson,Home & Kitchen,$174.29,7.0,2023-08-23,Houston,2.0
+,C-1106,James Taylor,Electrnics,229.12,2.0,2023-04-24,Los Angeles,1.2
+10693.0,C-1130,DAVID MILLER,Home,$442.28,2.5,2023-12-28,Houston,4.6
+10874.0,C-1095,James Taylor,Electrnics,47.96,4.0,2023-03-02,,4.6
+10853.0,C-1102,John Doe,books,461.53,10.0,2023-08-06,Chicago,3.4
+10972.0,C-1065,Emily Anderson,Bks,,4.0,2023/10/07,  houston ,3.5
+10631.0,C-1073,John Doe,  ELECTronics  ,unknown,5.0,,New York,1.5
+10244.0,C-1113,James Taylor,Bks,285.35 USD,,2023/01/04,Houston,2.1
+10346.0,C-1040,Emily Anderson,Clothing,10.3,4.0,2023-07-26,Chicago,
+10352.0,C-1189,Bob Johnson,HOME & KITCHEN,487.94 USD,8.0,2023/11/05,NEW YORK,2.6
+10275.0,C-1034,  alice smith ,CLOTHing,125.62,9.0,02-Oct-2023,Houston,1.3
+10265.0,C-1009,  david miller ,books,,10.0,16-Nov-2023,New York,4.0
+10307.0,C-1115,Olivia Wilson,HOME & KITCHEN,385.49,6.0,2023-01-13,Houston,99.0
+10918.0,C-1127,Emma Watson,home & kitchen,$380.41,7.0,,  new york ,3.3
+10528.0,C-1058,Sophia Davis,Electronics,$368.98,3.0,2023/09/04,  HOUSTON ,1.1
+10514.0,C-1064,Alice Smith,  ELECTronics  ,,10.0,2023-03-30,Chicago,4.1
+10110.0,C-1199,  david miller ,clothing,349.58,,,New York,3.3
+10736.0,C-1120,Bob Johnson,Electrnics,,6.0,2023/11/02,LOS ANGELES,4.9
+10578.0,C-1094,Michael Brown,books,99999.0,2.0,2023-06-26,Chicago,1.6
+10534.0,C-1072,James Taylor,  ELECTronics  ,$65.46,3.0,2023.08.26,  chicago ,4.5
+10695.0,C-1141,  alice smith ,Clothes,356.3,5.0,11-Sep-2023,Houston,2.5
+10533.0,C-1085,Olivia Wilson,Electronics,373.64,8.0,2023-03-31,Houston,3.3
+10448.0,C-1176,MICHAEL BROWN,home & kitchen,308.09 USD,9.0,,NEW YORK,1.4
+10294.0,C-1173,EMILY ANDERSON,electronics,,2.0,2023.05.01,  los angeles ,1.1
+10299.0,C-1104,Emily Anderson,home & kitchen,268.06,9.0,2023-02-13,Chicago,
+10824.0,C-1040,Emily Anderson,  Books  ,65.4 USD,3.0,2023/11/08,CHICAGO,2.0
+10758.0,C-1189,Michael Brown,Electronics,270.4,8.0,2023-12-25,Houston,3.2
+10995.0,C-1026,  emma watson ,books,215.26,7.0,02-Jan-2023,New York,2.6
+10749.0,C-1123,OLIVIA WILSON,Clothes,337.31,3.0,2023-10-21,Los Angeles,3.6
+10664.0,C-1168,Emma Watson,HOME & KITCHEN,99999.0,1.0,invalid_date,CHICAGO,4.8
+10570.0,C-1134,  sophia davis ,Home,$410.43,7.0,26-Mar-2023,  los angeles ,3.6
+10290.0,C-1106,  bob johnson ,  ELECTronics  ,344.37,2.0,25-Oct-2023,Chicago,2.3
+10774.0,C-1043,John Doe,home & kitchen,$93.99,1.0,2023.03.05,  chicago ,4.9
+10137.0,C-1150,Sophia Davis,home & kitchen,265.07,,,New York,3.8
+10409.0,C-1019,Michael Brown,Electrnics,,,2023-06-16,Houston,3.8
+10420.0,C-1041,  JAMES TAYLOR ,Home,$408.02,6.0,2023/06/17,  houston ,3.5
+10741.0,C-1100,Olivia Wilson,CLOTHing,unknown,4.0,2023-11-29,New York,4.1
+10796.0,C-1117,Emily Anderson,HOME & KITCHEN,449.78 USD,8.0,2023/07/24,Chicago,4.2
+10286.0,C-1169,Michael Brown,CLOTHing,113.59,9.0,2023-08-26,New York,4.9
+10591.0,C-1171,Alice Smith,Electronics,$266.87,1.0,2023-08-19,Houston,3.4
+10847.0,C-1149,ALICE SMITH,electronics,unknown,1.0,2023-02-09,Chicago,1.1
+10029.0,C-1140,Emily Anderson,Clothes,255.26,10.0,2023-07-22,Chicago,2.2
+10260.0,C-1182,  emily anderson ,Clothing,unknown,1.0,2023/02/26,Chicago,2.0
+10078.0,C-1098,Alice Smith,HOME & KITCHEN,$127.88,2.0,2023.05.07,  new york ,4.5
+10215.0,C-1022,  emily anderson ,Home & Kitchen,80.44,8.0,30-Nov-2023,Los Angeles,4.8
+10788.0,C-1035,James Taylor,Clothing,277.42 USD,9.0,2023/04/07,New York,2.3
+10165.0,C-1175,  olivia wilson ,Home & Kitchen,$439.93,3.0,03-Jan-2023,Houston,
+10248.0,C-1064,Olivia Wilson,Electrnics,119.72 USD,-3.0,2023/11/20,CHICAGO,2.8
+10785.0,C-1022,  alice smith ,CLOTHing,Free,5.0,19-Sep-2023,New York,4.9
+10521.0,C-1121,Bob Johnson,home & kitchen,199.25,1.0,2023-08-18,Chicago,4.0
+10911.0,C-1119,Sophia Davis,CLOTHing,$99.99,3.0,2023-12-16,Houston,4.3
+10334.0,C-1001,Michael Brown,CLOTHing,308.94,,2023-08-25,Houston,2.8
+10597.0,C-1142,Emily Anderson,HOME & KITCHEN,$330.15,7.0,2023-11-22,Los Angeles,3.1
+10926.0,C-1072,Sophia Davis,HOME & KITCHEN,76.14,4.0,2023-04-06,Los Angeles,2.6
+10065.0,C-1093,  alice smith ,Clothes,-25.5,10.0,15-Jun-2023,,4.8
+10365.0,C-1131,  bob johnson ,Books,254.07,7.0,17-Jul-2023,,3.0
+,C-1081,Sophia Davis,  Books  ,357.33,10.0,2023-10-09,Chicago,4.0
+10254.0,C-1142,David Miller,Books,56.1,3.0,2023-06-23,Los Angeles,4.0
+10708.0,C-1134,Emily Anderson,Books,$196.65,6.0,2023/06/28,  houston ,3.0
+10819.0,C-1008,BOB JOHNSON,Electrnics,,,2023-03-05,New York,1.0
+10221.0,C-1197,Olivia Wilson,Books,169.12,5.0,2023-09-23,New York,3.1
+10235.0,C-1187,  john doe ,  Books  ,328.68,8.0,21-Aug-2023,New York,1.7
+10494.0,C-1171,Alice Smith,books,221.37,10.0,2023-11-03,Chicago,
+10522.0,C-1057,Alice Smith,  Books  ,$94.89,2.0,2023.04.14,  chicago ,1.3
+10296.0,C-1166,Bob Johnson,HOME & KITCHEN,414.12 USD,3.0,2023/07/13,NEW YORK,1.9
+10580.0,C-1018,  alice smith ,home & kitchen,197.36 USD,5.0,2023/07/23,Los Angeles,4.0
+10958.0,C-1095,Olivia Wilson,  ELECTronics  ,378.72,5.0,2023-02-27,New York,1.8
+10249.0,C-1058,Alice Smith,home & kitchen,$120.84,7.0,2023-07-04,New York,
+10599.0,C-1050,James Taylor,Home,281.28,5.0,2023-03-05,Houston,3.5
+10447.0,C-1053,David Miller,HOME & KITCHEN,$464.64,2.5,,Los Angeles,2.3
+10071.0,C-1170,Olivia Wilson,HOME & KITCHEN,391.64,-3.0,2023-02-28,New York,2.0
+10094.0,C-1163,Emily Anderson,Books,338.75,2.0,2023-11-20,New York,
+10033.0,C-1151,Emily Anderson,books,$255.93,10.0,2023-03-26,Los Angeles,3.9
+10259.0,C-1019,SOPHIA DAVIS,books,449.62,6.0,2023-03-12,Chicago,99.0
+10204.0,C-1083,James Taylor,Electronics,unknown,1.0,2023/02/25,  new york ,2.5
+10813.0,C-1167,Michael Brown,Bks,99999.0,6.0,2023-07-05,Los Angeles,1.9
+10798.0,C-1087,SOPHIA DAVIS,CLOTHing,$11.04,9.0,2023.12.22,  new york ,3.6
+10355.0,C-1192,  michael brown ,CLOTHing,205.7,6.0,20-Jul-2023,New York,3.6
+10077.0,C-1026,OLIVIA WILSON,Electrnics,306.45,4.0,2023-10-28,Houston,4.9
+10084.0,C-1095,ALICE SMITH,HOME & KITCHEN,$160.39,3.0,2023/03/28,  new york ,
+10333.0,C-1098,Emily Anderson,books,$394.11,3.0,2023-10-10,Los Angeles,4.6
+,C-1094,Emma Watson,books,443.79,10.0,2023-11-22,Houston,4.2
+10433.0,C-1027,David Miller,Electrnics,420.29,3.0,2023-04-21,New York,3.1
+10657.0,C-1184,Emma Watson,Electronics,$382.21,7.0,2023-12-10,Los Angeles,2.5
+10457.0,C-1109,Sophia Davis,home & kitchen,427.83,,2023-04-17,Houston,2.9
+10513.0,C-1189,David Miller,Home,Free,6.0,2023-04-15,New York,3.3
+10613.0,C-1074,David Miller,Bks,373.57,1.0,2023-06-25,New York,2.3
+10478.0,C-1140,Alice Smith,Books,230.99,8.0,2023-12-19,Chicago,3.8
+10323.0,C-1193,Olivia Wilson,CLOTHing,201.74,3.0,2023-01-05,Chicago,2.3
+10005.0,C-1063,  michael brown ,books,213.76,9.0,29-Jul-2023,,2.2
+10462.0,C-1198,ALICE SMITH,Electrnics,Free,10.0,,  los angeles ,2.7
+10104.0,C-1177,James Taylor,Home & Kitchen,105.98 USD,1.0,2023/06/25,CHICAGO,2.1
+10097.0,C-1187,Olivia Wilson,clothing,,2.0,2023-10-16,New York,3.3
+10309.0,C-1109,Olivia Wilson,Home,$419.41,8.0,2023-02-08,New York,2.3
+10424.0,C-1078,Sophia Davis,HOME & KITCHEN,239.13 USD,4.0,2023/08/13,NEW YORK,2.9
+10411.0,C-1055,Alice Smith,Clothing,99999.0,3.0,2023-09-17,Chicago,3.2
+10939.0,C-1143,Michael Brown,electronics,$233.18,1.0,2023-11-12,Los Angeles,3.2
+10281.0,C-1122,Michael Brown,Bks,484.78,4.0,2023-02-11,New York,2.4
+10266.0,C-1085,SOPHIA DAVIS,Electronics,222.75,4.0,2023-12-31,Houston,2.1
+10481.0,C-1150,John Doe,clothing,454.92,-3.0,,,1.4
+10679.0,C-1064,JAMES TAYLOR,Home & Kitchen,371.31,10.0,2023-12-14,New York,
+10595.0,C-1179,  DAVID MILLER ,electronics,99999.0,7.0,29-Jul-2023,Los Angeles,1.4
+10989.0,C-1186,Sophia Davis,  Books  ,-25.5,9.0,2023-07-23,New York,1.9
+10929.0,C-1071,John Doe,Books,168.51,9.0,2023-08-08,Houston,1.5
+10848.0,C-1007,Michael Brown,Books,277.25 USD,2.5,2023/02/17,CHICAGO,3.3
+10118.0,C-1055,Emily Anderson,home & kitchen,356.22,5.0,2023-10-03,New York,2.0
+10712.0,C-1071,David Miller,Home,72.94 USD,2.0,2023/10/08,NEW YORK,2.0
+10250.0,C-1017,  james taylor ,CLOTHing,261.35,3.0,,Los Angeles,1.6
+10668.0,C-1198,Sophia Davis,Bks,178.11 USD,5.0,2023/04/25,,1.0
+10552.0,C-1028,Sophia Davis,Home,$324.1,1.0,2023/07/08,  HOUSTON ,1.4
+10380.0,C-1159,  alice smith ,electronics,202.47 USD,3.0,2023/09/15,New York,2.2
+10009.0,C-1027,Michael Brown,Books,$56.34,-3.0,2023-07-11,Los Angeles,3.1
+10371.0,C-1173,JAMES TAYLOR,HOME & KITCHEN,173.13,8.0,2023-07-30,New York,1.9
+10196.0,C-1096,OLIVIA WILSON,Clothes,47.14 USD,3.0,2023/11/03,Los Angeles,4.1
+10643.0,C-1051,David Miller,clothing,464.68,4.0,,Los Angeles,2.2
+10081.0,C-1163,Emily Anderson,CLOTHing,-25.5,7.0,2023-08-17,New York,4.5
+10432.0,C-1170,Emily Anderson,clothing,$111.66,5.0,2023/08/14,  HOUSTON ,1.7
+10527.0,C-1059,James Taylor,  ELECTronics  ,497.3,3.0,2023-08-10,Houston,1.0
+10756.0,C-1138,JAMES TAYLOR,Home & Kitchen,$361.5,10.0,invalid_date,  chicago ,99.0
+10239.0,C-1080,David Miller,Electrnics,49.82,10.0,2023-11-16,Los Angeles,
+,C-1064,Alice Smith,  ELECTronics  ,,5.0,2023-07-20,Chicago,3.7
+10211.0,C-1015,Michael Brown,Clothing,121.09,2.0,2023-08-16,,4.2
+10762.0,C-1125,John Doe,home & kitchen,$439.49,10.0,2023.09.23,  los angeles ,4.5
+10413.0,C-1068,JOHN DOE,Home,135.11,9.0,,Houston,4.3
+10513.0,C-1189,David Miller,Home,Free,6.0,2023-04-15,New York,3.3
+10227.0,C-1043,Olivia Wilson,Books,102.23,4.0,2023-04-14,Houston,4.3
+10909.0,C-1063,Emma Watson,CLOTHing,$272.59,3.0,2023-05-17,Los Angeles,4.7
+10425.0,C-1157,  james taylor ,Electrnics,,9.0,23-May-2023,Chicago,3.3
+10844.0,C-1042,Emma Watson,Electronics,403.99 USD,9.0,2023/02/14,Los Angeles,1.7
+10177.0,C-1112,Emma Watson,Clothes,,8.0,2023-08-31,Chicago,1.3
+10992.0,C-1135,Sophia Davis,Books,313.51 USD,10.0,2023/09/18,LOS ANGELES,2.7
+10449.0,C-1163,Emma Watson,Home & Kitchen,454.0,8.0,2023-12-15,Houston,3.4
+10525.0,C-1090,  EMILY ANDERSON ,Clothes,$358.77,1.0,27-Mar-2023,New York,2.7
+10526.0,C-1079,Emily Anderson,home & kitchen,487.61,5.0,2023-08-05,Los Angeles,
+10536.0,C-1198,David Miller,Books,30.78 USD,10.0,2023/11/07,CHICAGO,1.8
+10423.0,C-1181,Olivia Wilson,clothing,$401.02,2.5,2023-12-03,Chicago,3.2
+10007.0,C-1036,JOHN DOE,Home,-25.5,2.0,2023-01-21,Los Angeles,3.5
+10155.0,C-1153,  john doe ,Clothes,256.82,2.0,11-Dec-2023,Houston,2.8
+10576.0,C-1172,Michael Brown,Books,$93.43,9.0,2023/02/15,  LOS ANGELES ,4.5
+10884.0,C-1093,David Miller,Books,385.89 USD,2.0,2023/11/12,Los Angeles,1.3
+10329.0,C-1055,EMMA WATSON,Home & Kitchen,-25.5,9.0,2023-03-18,Houston,1.6
+10531.0,C-1050,James Taylor,HOME & KITCHEN,$480.8,8.0,2023-06-03,Los Angeles,2.3
+10822.0,C-1006,David Miller,books,$422.44,8.0,2023.06.28,  new york ,3.5
+10825.0,C-1062,  alice smith ,Clothing,$167.96,2.0,25-Jan-2023,New York,4.0
+10603.0,C-1174,John Doe,home & kitchen,99999.0,5.0,2023-02-21,Los Angeles,3.9
+10828.0,C-1172,David Miller,CLOTHing,$489.78,1.0,2023/09/30,  chicago ,99.0
+10615.0,C-1111,  bob johnson ,Clothes,$5.1,5.0,07-Dec-2023,Houston,3.3
+10991.0,C-1195,John Doe,Books,349.22,7.0,2023-02-08,Los Angeles,4.8
+10604.0,C-1192,Bob Johnson,Home & Kitchen,277.23 USD,9.0,,New York,4.0
+10477.0,C-1039,Bob Johnson,Books,$271.95,2.0,2023-03-31,Houston,
+10808.0,C-1192,Sophia Davis,Books,unknown,1000.0,2023/11/06,NEW YORK,
+10620.0,C-1120,  david miller ,  Books  ,111.34 USD,2.0,2023/12/24,Chicago,
+10752.0,C-1077,Michael Brown,HOME & KITCHEN,310.44 USD,3.0,2023/09/05,,3.8
+10904.0,C-1083,Olivia Wilson,CLOTHing,99999.0,8.0,2023/04/08,CHICAGO,4.6
+10163.0,C-1142,Emily Anderson,electronics,344.28,10.0,,Los Angeles,4.1
+10228.0,C-1068,Sophia Davis,books,$315.18,10.0,2023/06/24,  los angeles ,2.8
+10864.0,C-1078,Olivia Wilson,  Books  ,$169.2,8.0,2023/01/22,  LOS ANGELES ,3.4
+10978.0,C-1031,Alice Smith,clothing,$220.42,7.0,2023.10.14,  new york ,3.5
+10212.0,C-1062,John Doe,  Books  ,39.56 USD,7.0,2023/03/12,Houston,
+10079.0,C-1072,Emma Watson,  Books  ,174.72,2.0,2023-11-30,Los Angeles,5.0
+10148.0,C-1013,Alice Smith,Electrnics,459.71 USD,,2023/05/21,Houston,3.5
+10302.0,C-1028,Emma Watson,Home,5.59,1.0,,New York,4.1
+10388.0,C-1067,John Doe,books,118.46 USD,,2023/01/21,Houston,1.7
+10518.0,C-1028,ALICE SMITH,Books,,8.0,2023-04-12,Houston,4.0
+10541.0,C-1103,David Miller,  Books  ,125.33,6.0,2023-07-11,New York,1.9
+10889.0,C-1112,EMMA WATSON,clothing,433.08,4.0,2023-09-09,Chicago,4.1
+10043.0,C-1056,Emma Watson,books,481.77,3.0,2023-09-30,Los Angeles,
+10390.0,C-1172,  james taylor ,clothing,$390.57,5.0,22-Aug-2023,  chicago ,1.1
+10133.0,C-1144,OLIVIA WILSON,Books,314.56,2.0,2023-09-10,Los Angeles,2.5
+10715.0,C-1183,  emma watson ,Clothes,211.58,6.0,28-Jan-2023,Los Angeles,3.8
+10311.0,C-1072,John Doe,Books,384.1,5.0,2023-09-14,New York,3.0
+10490.0,C-1092,  BOB JOHNSON ,CLOTHing,153.31,8.0,12-Mar-2023,Houston,
+10999.0,C-1093,Bob Johnson,Home,$290.29,9.0,2023-12-29,Houston,3.5
+10696.0,C-1115,David Miller,  ELECTronics  ,$244.91,8.0,2023/07/12,  LOS ANGELES ,1.5
+10836.0,C-1095,John Doe,Clothes,251.38 USD,7.0,2023/07/09,Houston,3.0
+10000.0,C-1164,  BOB JOHNSON ,  ELECTronics  ,$137.81,,2023/03/02,  CHICAGO ,1.2
+10493.0,C-1064,Alice Smith,electronics,98.34,2.5,2023-01-20,Houston,2.2
+10382.0,C-1108,Emma Watson,Electrnics,93.35,8.0,2023-01-04,,4.0
+10316.0,C-1141,Alice Smith,Books,262.28 USD,3.0,,Houston,1.7
+10765.0,C-1112,  alice smith ,clothing,,,17-Apr-2023,Houston,4.7
+10583.0,C-1160,Emma Watson,CLOTHing,360.33,10.0,,Houston,3.0
+10865.0,C-1176,  john doe ,books,398.91,1.0,28-Mar-2023,Houston,4.7
+10567.0,C-1182,EMILY ANDERSON,Home & Kitchen,$311.77,9.0,2023-10-28,Chicago,
+10990.0,C-1151,  michael brown ,Bks,$430.78,9.0,30-Sep-2023,  chicago ,4.4
+10428.0,C-1003,Bob Johnson,Home & Kitchen,161.28 USD,2.0,2023/05/31,Los Angeles,4.2
+10172.0,C-1197,Olivia Wilson,clothing,unknown,,2023/11/17,New York,2.2
+10125.0,C-1102,  james taylor ,Clothes,99999.0,5.0,05-Mar-2023,Chicago,1.8
+10453.0,C-1065,Emma Watson,CLOTHing,$200.75,2.0,2023-03-27,New York,1.6
+10482.0,C-1142,Sophia Davis,Electronics,117.43,7.0,2023-08-18,New York,2.1
+10588.0,C-1077,SOPHIA DAVIS,CLOTHing,$373.02,8.0,2023/04/06,  los angeles ,
+10136.0,C-1192,Sophia Davis,  ELECTronics  ,unknown,1.0,2023/04/18,CHICAGO,4.2
+10090.0,C-1175,  alice smith ,Electronics,$273.53,1.0,,  new york ,1.2
+10996.0,C-1050,Alice Smith,home & kitchen,,3.0,2023/04/22,  chicago ,1.8
+10181.0,C-1185,John Doe,  Books  ,148.47,3.0,2023-11-04,Houston,2.5
+10363.0,C-1041,Sophia Davis,electronics,,-3.0,2023-11-05,Chicago,
+10274.0,C-1139,Emma Watson,Home & Kitchen,325.39,9.0,2023-10-28,New York,1.1
+10949.0,C-1024,Michael Brown,Clothing,99999.0,10.0,2023-05-07,Chicago,4.1
+10069.0,C-1018,Olivia Wilson,Books,$278.85,2.0,2023-09-10,Houston,
+10291.0,C-1120,Emma Watson,books,$300.28,8.0,2023-10-26,New York,1.1
+10131.0,C-1064,Olivia Wilson,Clothing,,,2023-11-17,Los Angeles,4.3
+10300.0,C-1187,  david miller ,electronics,$51.13,8.0,2023/09/23,  los angeles ,5.0
+10507.0,C-1007,Michael Brown,Home,$248.54,8.0,2023-07-15,Chicago,4.7
+10326.0,C-1105,David Miller,Home & Kitchen,244.46,6.0,2023-10-24,Los Angeles,4.0
+10144.0,C-1131,David Miller,Home,$240.05,2.0,2023/02/03,  LOS ANGELES ,-1.5
+10485.0,C-1033,  sophia davis ,  ELECTronics  ,10.23,7.0,07-Jan-2023,Chicago,-1.5
+10843.0,C-1200,Emma Watson,Clothes,,7.0,2023-04-28,New York,
+10849.0,C-1080,Alice Smith,Home,$61.35,8.0,2023-01-30,Houston,4.8
+10135.0,C-1068,  david miller ,  Books  ,$277.33,8.0,27-Dec-2023,Chicago,2.4
+10467.0,C-1190,Emma Watson,CLOTHing,46.73,9.0,2023-01-23,Houston,1.8
+10164.0,C-1003,Olivia Wilson,HOME & KITCHEN,106.76 USD,2.0,2023/09/30,Houston,2.6
+10028.0,C-1180,ALICE SMITH,  ELECTronics  ,10.76 USD,5.0,2023/07/29,Chicago,4.5
+10598.0,C-1033,Emily Anderson,Books,474.01,5.0,2023-05-31,New York,-1.5
+10193.0,C-1156,Michael Brown,home & kitchen,74.98,4.0,invalid_date,Houston,
+10445.0,C-1184,  sophia davis ,clothing,234.56,7.0,13-Apr-2023,Los Angeles,4.1
+10678.0,C-1143,James Taylor,Books,$238.24,7.0,2023.06.13,  los angeles ,4.3
+10584.0,C-1081,Bob Johnson,home & kitchen,,9.0,invalid_date,LOS ANGELES,3.5
+10169.0,C-1138,James Taylor,Electrnics,23.75,1.0,2023-08-05,Houston,4.0
+10535.0,C-1018,  emily anderson ,Electrnics,152.91,7.0,26-May-2023,Houston,1.6
+10140.0,C-1103,  SOPHIA DAVIS ,books,204.69 USD,4.0,2023/09/10,Chicago,2.0
+10173.0,C-1165,Olivia Wilson,Home,455.94,1.0,2023-01-15,Chicago,4.2
+10006.0,C-1058,John Doe,Home,$87.56,5.0,2023.07.09,  los angeles ,3.7
+10682.0,C-1035,David Miller,HOME & KITCHEN,496.19,2.0,2023-02-24,Los Angeles,4.8
+10529.0,C-1007,David Miller,books,Free,7.0,,Chicago,2.7
+10692.0,C-1185,David Miller,books,99999.0,8.0,2023/03/05,Houston,
+10073.0,C-1198,John Doe,Home,408.55,4.0,2023-07-28,New York,
+10898.0,C-1124,James Taylor,Clothes,104.27,5.0,2023-05-18,Los Angeles,1.2
+10280.0,C-1063,  BOB JOHNSON ,Clothing,260.74 USD,4.0,2023/09/08,LOS ANGELES,
+10238.0,C-1183,DAVID MILLER,  ELECTronics  ,71.27,7.0,2023-12-21,Los Angeles,2.4
+10145.0,C-1127,  james taylor ,HOME & KITCHEN,377.31,,03-Feb-2023,Houston,2.5
+10905.0,C-1063,  james taylor ,Bks,276.94,2.0,10-Mar-2023,New York,1.3
+10234.0,C-1194,David Miller,clothing,$447.52,4.0,2023.06.18,  los angeles ,4.3
+10220.0,C-1137,  james taylor ,Bks,182.95 USD,4.0,2023/07/08,Houston,2.9
+10214.0,C-1021,Michael Brown,home & kitchen,331.41,2.0,2023-10-27,Los Angeles,2.8
+10962.0,C-1089,James Taylor,Home & Kitchen,106.8,4.0,2023-10-29,Los Angeles,1.6
+,C-1191,Alice Smith,Books,$300.46,4.0,2023/04/24,  new york ,
+10564.0,C-1049,Bob Johnson,CLOTHing,$99.99,5.0,2023/01/07,  los angeles ,4.3
+10616.0,C-1149,JOHN DOE,CLOTHing,,7.0,2023/11/09,CHICAGO,4.0
+10845.0,C-1080,  bob johnson ,Home & Kitchen,322.11,5.0,28-Jul-2023,Houston,3.1
+10422.0,C-1140,David Miller,Books,428.87,3.0,2023-02-04,Houston,
+10185.0,C-1196,  emma watson ,  ELECTronics  ,,5.0,13-Jul-2023,Los Angeles,4.3
+10041.0,C-1072,Emily Anderson,  Books  ,22.74,7.0,2023-09-01,Los Angeles,1.7
+10650.0,C-1197,  alice smith ,Home & Kitchen,377.66,5.0,29-Mar-2023,Houston,1.9
+10108.0,C-1084,Emily Anderson,Bks,$325.32,6.0,2023/08/24,  new york ,2.4
+10716.0,C-1074,Sophia Davis,Electronics,216.1 USD,10.0,2023/12/30,Chicago,4.3
+10056.0,C-1118,ALICE SMITH,CLOTHing,248.75 USD,1.0,2023/05/27,HOUSTON,4.3
+10707.0,C-1200,DAVID MILLER,Bks,unknown,-3.0,2023-08-05,Houston,2.1
+10660.0,C-1127,  john doe ,Home,$498.55,5.0,2023/02/16,  new york ,4.4
+10993.0,C-1153,Alice Smith,Books,$214.94,7.0,2023-07-19,Los Angeles,2.8
+10913.0,C-1157,David Miller,electronics,47.63,8.0,2023-07-24,Chicago,4.3
+10435.0,C-1068,  john doe ,clothing,$133.59,6.0,15-Aug-2023,Houston,2.0
+10024.0,C-1144,Alice Smith,Clothes,$364.69,1000.0,2023/08/24,  NEW YORK ,1.6
+10479.0,C-1010,John Doe,Electronics,439.26,5.0,2023-12-08,Houston,2.9
+10582.0,C-1085,James Taylor,Home & Kitchen,$29.3,7.0,2023.09.09,  los angeles ,1.4
+10626.0,C-1122,Michael Brown,CLOTHing,82.27,10.0,2023-11-13,Chicago,3.3
+,C-1200,  john doe ,  ELECTronics  ,223.03,2.5,15-Feb-2023,New York,4.7
+10891.0,C-1188,Bob Johnson,Books,$26.79,5.0,2023-03-20,Los Angeles,
+10983.0,C-1048,James Taylor,Electronics,437.0,3.0,2023-09-15,New York,1.7
+10338.0,C-1074,Michael Brown,CLOTHing,302.12,10.0,2023-08-13,Los Angeles,99.0
+10051.0,C-1089,Michael Brown,CLOTHing,$53.23,3.0,2023-01-12,Houston,2.5
+10383.0,C-1169,David Miller,Home & Kitchen,113.19,,2023-08-17,Chicago,2.6
+10549.0,C-1149,Alice Smith,clothing,$81.19,5.0,2023-08-12,Houston,2.5
+10938.0,C-1126,JOHN DOE,Clothes,40.11,3.0,2023-03-16,Chicago,4.5
+10673.0,C-1046,Bob Johnson,Electrnics,47.48,6.0,2023-03-07,New York,1.6
+10981.0,C-1196,James Taylor,CLOTHing,$422.45,4.0,2023-02-04,Chicago,3.1
+10264.0,C-1018,James Taylor,home & kitchen,$444.15,5.0,2023/09/27,  CHICAGO ,4.0
+10572.0,C-1176,David Miller,Home & Kitchen,81.3 USD,2.0,2023/09/14,Houston,3.3
+10755.0,C-1108,  sophia davis ,CLOTHing,305.93,1.0,16-Jun-2023,New York,2.3
+10950.0,C-1076,  alice smith ,  Books  ,166.06,6.0,25-Jan-2023,Houston,1.8
+10444.0,C-1054,James Taylor,  ELECTronics  ,$43.81,1000.0,2023/07/11,  houston ,3.2
+10395.0,C-1102,  emily anderson ,Clothing,479.21,2.0,10-Aug-2023,Chicago,2.8
+10551.0,C-1010,David Miller,Clothes,161.79,2.0,2023-09-08,,2.5
+10176.0,C-1076,Emily Anderson,books,63.56 USD,7.0,2023/05/09,HOUSTON,4.5
+10018.0,C-1024,Olivia Wilson,  Books  ,$11.12,5.0,2023.08.02,  los angeles ,1.6
+10760.0,C-1155,  olivia wilson ,Home & Kitchen,,,2023/10/02,CHICAGO,3.8
+10532.0,C-1103,MICHAEL BROWN,home & kitchen,83.51 USD,9.0,2023/03/20,Houston,3.7
+10605.0,C-1045,  michael brown ,Electronics,330.48,7.0,04-Jan-2023,New York,1.8
+10618.0,C-1168,James Taylor,Clothes,-25.5,3.0,2023.06.19,  los angeles ,3.6
+10367.0,C-1048,Bob Johnson,  Books  ,132.56,7.0,2023-09-26,New York,2.8
+10083.0,C-1042,David Miller,Electrnics,422.32,3.0,2023-03-14,Houston,
+10061.0,C-1142,Bob Johnson,Clothing,99.34,5.0,2023-06-16,Los Angeles,1.1
+10499.0,C-1105,Emily Anderson,Home,308.54,7.0,2023-08-01,New York,1.7
+10272.0,C-1125,Emma Watson,  Books  ,99999.0,8.0,2023/11/22,HOUSTON,3.4
+10285.0,C-1025,  john doe ,CLOTHing,$238.35,8.0,11-Jul-2023,Chicago,1.1
+10360.0,C-1123,  bob johnson ,  ELECTronics  ,$408.68,,2023/02/17,  HOUSTON ,2.7
+10354.0,C-1016,John Doe,Clothing,$202.72,7.0,2023.07.15,  houston ,3.9
+10938.0,C-1126,JOHN DOE,Clothes,40.11,3.0,2023-03-16,Chicago,4.5
+10278.0,C-1148,Alice Smith,books,445.94,2.0,2023-05-24,Houston,2.3
+10012.0,C-1140,Alice Smith,Home & Kitchen,$390.69,5.0,2023/10/29,  los angeles ,2.9
+10182.0,C-1185,JAMES TAYLOR,clothing,305.25,1.0,2023-02-18,Houston,2.4
+10368.0,C-1018,James Taylor,electronics,397.73 USD,7.0,invalid_date,CHICAGO,3.8
+10636.0,C-1086,Alice Smith,HOME & KITCHEN,$23.5,4.0,2023/02/11,  chicago ,3.7
+10655.0,C-1148,  michael brown ,electronics,134.97,5.0,24-May-2023,Chicago,2.5
+10223.0,C-1033,Sophia Davis,clothing,246.05,,2023-05-02,Chicago,3.1
+10740.0,C-1108,  emily anderson ,  ELECTronics  ,,1000.0,2023/08/26,Chicago,4.2
+10743.0,C-1150,Emily Anderson,Clothes,237.04,8.0,2023-07-08,Chicago,2.4
+10720.0,C-1082,  alice smith ,Home,$105.14,7.0,2023/03/16,  LOS ANGELES ,4.8
+10581.0,C-1171,EMILY ANDERSON,Books,313.87,9.0,2023-01-04,Houston,1.7
+10486.0,C-1011,John Doe,home & kitchen,$380.36,7.0,2023.11.12,  new york ,2.3
+10542.0,C-1174,Olivia Wilson,HOME & KITCHEN,292.63,10.0,2023-08-01,Houston,2.2
+10465.0,C-1068,  emily anderson ,home & kitchen,$264.37,4.0,03-Dec-2023,New York,4.9
+10621.0,C-1114,David Miller,Electrnics,$386.9,10.0,2023-03-13,Los Angeles,2.5
+10495.0,C-1027,  olivia wilson ,Electronics,$358.89,3.0,16-Aug-2023,New York,1.3
+10820.0,C-1064,  sophia davis ,  Books  ,164.8 USD,5.0,2023/06/06,Los Angeles,3.8
+10667.0,C-1193,Michael Brown,Electrnics,385.99,,2023-08-12,New York,1.5
+,C-1163,John Doe,Home & Kitchen,$227.89,6.0,2023/11/17,  CHICAGO ,2.1
+10393.0,C-1062,Sophia Davis,Clothing,$248.87,,2023-03-31,Houston,4.1
+10675.0,C-1133,  david miller ,Clothes,$78.1,10.0,01-Jan-2023,Los Angeles,4.8
+10713.0,C-1113,Michael Brown,HOME & KITCHEN,262.76,1.0,2023-03-09,Houston,3.4
+10375.0,C-1146,  olivia wilson ,HOME & KITCHEN,$395.38,2.0,16-Apr-2023,,2.8
+10412.0,C-1130,Bob Johnson,Home,431.61 USD,10.0,,,
+10074.0,C-1075,Emma Watson,clothing,99999.0,5.0,invalid_date,Houston,2.9
+10934.0,C-1022,Olivia Wilson,Bks,177.56,2.0,2023-10-30,Los Angeles,3.1
+10500.0,C-1159,  alice smith ,Books,139.57 USD,5.0,2023/05/28,New York,2.8
+10596.0,C-1076,James Taylor,Home & Kitchen,195.74 USD,2.0,2023/11/16,New York,4.9
+10114.0,C-1081,John Doe,Clothing,$31.63,1.0,2023.07.31,  chicago ,4.9
+10417.0,C-1063,Alice Smith,electronics,$185.71,-3.0,2023-07-23,Los Angeles,3.3
+10089.0,C-1180,Bob Johnson,Home & Kitchen,487.71,2.0,2023-03-27,Los Angeles,
+10976.0,C-1050,James Taylor,Home & Kitchen,297.13 USD,5.0,,LOS ANGELES,3.5
+10919.0,C-1084,David Miller,home & kitchen,43.88,1.0,2023-01-27,,3.5
+10846.0,C-1028,Bob Johnson,Home,$130.94,3.0,2023.02.16,  houston ,
+10731.0,C-1017,Emma Watson,clothing,155.16,5.0,2023-10-31,Houston,1.1
+10011.0,C-1190,Olivia Wilson,CLOTHing,221.89,9.0,,New York,3.1
+10396.0,C-1034,David Miller,Clothing,$188.74,6.0,2023/12/04,  new york ,4.6
+10568.0,C-1112,James Taylor,CLOTHing,312.0 USD,5.0,2023/02/11,CHICAGO,2.6
+10042.0,C-1040,EMILY ANDERSON,Electronics,$413.82,4.0,2023.01.10,  houston ,5.0
+10167.0,C-1030,Emma Watson,clothing,40.7,9.0,2023-10-20,New York,4.9
+10416.0,C-1018,Olivia Wilson,clothing,212.45 USD,6.0,2023/07/24,NEW YORK,
+10803.0,C-1108,Sophia Davis,home & kitchen,302.6,3.0,2023-12-03,Chicago,4.8
+10426.0,C-1168,David Miller,Clothes,$71.56,9.0,2023.03.29,  chicago ,1.4
+10935.0,C-1062,  emily anderson ,Electrnics,256.44,7.0,18-Mar-2023,New York,3.3
+10549.0,C-1149,Alice Smith,clothing,$81.19,5.0,2023-08-12,Houston,2.5
+10728.0,C-1040,ALICE SMITH,home & kitchen,420.56 USD,7.0,2023/08/31,NEW YORK,4.3
+10652.0,C-1117,Emily Anderson,home & kitchen,394.25 USD,3.0,2023/02/24,Los Angeles,2.4
+10257.0,C-1057,Olivia Wilson,Home & Kitchen,287.23,8.0,2023-05-15,Houston,4.5
+10335.0,C-1100,  michael brown ,  Books  ,30.77,9.0,13-Feb-2023,New York,3.4
+10015.0,C-1109,  michael brown ,Electrnics,$244.12,9.0,08-Sep-2023,Chicago,-1.5
+10684.0,C-1171,David Miller,HOME & KITCHEN,$453.49,3.0,2023/06/11,  los angeles ,4.0
+10324.0,C-1061,Michael Brown,Bks,$278.29,6.0,2023/05/25,  houston ,3.3
+10173.0,C-1165,Olivia Wilson,Home,$99.99,1.0,2023-01-15,Chicago,4.2
+10222.0,C-1033,Sophia Davis,  Books  ,$225.45,3.0,2023.12.14,  houston ,4.1
+10179.0,C-1117,Michael Brown,Books,27.53,5.0,2023-06-20,Houston,
+10099.0,C-1042,Olivia Wilson,home & kitchen,$31.27,2.0,2023-12-24,Los Angeles,2.6
+10521.0,C-1121,Bob Johnson,home & kitchen,199.25,1.0,2023-08-18,Chicago,4.0
+10022.0,C-1155,Michael Brown,HOME & KITCHEN,261.95,8.0,2023-11-07,Chicago,2.3
+10356.0,C-1081,Olivia Wilson,home & kitchen,12.61 USD,9.0,invalid_date,New York,1.5
+10750.0,C-1002,  olivia wilson ,books,$106.26,2.0,22-Dec-2023,,3.0
+10914.0,C-1172,John Doe,Electrnics,353.82,2.0,2023-07-19,New York,4.4
+10527.0,C-1059,James Taylor,  ELECTronics  ,497.3,3.0,2023-08-10,Houston,1.0
+10340.0,C-1179,  emily anderson ,Bks,188.56 USD,8.0,,Los Angeles,1.6
+10431.0,C-1077,Olivia Wilson,Clothes,Free,1.0,2023-12-13,Chicago,3.4
+10587.0,C-1185,Alice Smith,  Books  ,321.26,10.0,2023-03-29,Houston,4.6
+10885.0,C-1163,  james taylor ,clothing,Free,3.0,02-Jun-2023,New York,
+10203.0,C-1154,EMILY ANDERSON,  Books  ,285.81,9.0,2023-06-18,Los Angeles,2.7
+10780.0,C-1101,  olivia wilson ,  ELECTronics  ,Free,-3.0,2023/05/31,  new york ,3.2
+10093.0,C-1156,Michael Brown,Bks,$471.62,5.0,2023-07-14,New York,3.5
+10594.0,C-1104,Emma Watson,Electrnics,$262.15,5.0,2023.04.09,  houston ,1.4
+10068.0,C-1181,David Miller,Home & Kitchen,7.15 USD,1.0,2023/11/02,Los Angeles,3.1
+10662.0,C-1063,Emma Watson,home & kitchen,217.88,9.0,2023-10-22,New York,3.4
+10284.0,C-1025,Sophia Davis,  ELECTronics  ,112.21 USD,2.0,2023/11/27,Los Angeles,3.7
+10852.0,C-1097,James Taylor,Electronics,$101.04,4.0,2023/01/06,  chicago ,4.5
+,C-1035,MICHAEL BROWN,clothing,Free,10.0,2023-12-12,Los Angeles,2.2
+10153.0,C-1175,David Miller,clothing,,3.0,2023-08-21,New York,1.7
+10075.0,C-1021,  michael brown ,Clothes,$305.05,1.0,,Los Angeles,
+10777.0,C-1160,EMMA WATSON,  Books  ,$17.33,-3.0,2023-12-03,New York,
+10446.0,C-1088,John Doe,Clothing,434.79,,2023-08-04,New York,1.9
+10188.0,C-1028,Alice Smith,Books,151.01 USD,2.5,2023/08/15,Houston,-1.5
+10271.0,C-1172,Alice Smith,Bks,168.46,2.0,2023-11-03,Los Angeles,1.5
+10236.0,C-1177,Sophia Davis,Books,199.29 USD,7.0,2023/01/22,New York,1.1
+10487.0,C-1079,Bob Johnson,electronics,-25.5,2.0,2023-03-05,Los Angeles,2.7
+10559.0,C-1156,Alice Smith,Bks,274.09,2.0,2023-03-17,Houston,2.4
+10117.0,C-1017,Emily Anderson,Clothing,$116.65,6.0,2023-11-29,Los Angeles,
+10867.0,C-1031,Sophia Davis,Electronics,$421.17,9.0,2023-03-31,Los Angeles,2.6
+,C-1172,David Miller,home & kitchen,9.06 USD,7.0,invalid_date,CHICAGO,3.5
+10589.0,C-1130,James Taylor,  ELECTronics  ,411.9,9.0,2023-04-12,,4.7
+10630.0,C-1022,  ALICE SMITH ,home & kitchen,$112.63,5.0,14-Jun-2023,  new york ,3.5
+10126.0,C-1165,OLIVIA WILSON,clothing,,2.0,2023.04.09,  chicago ,1.7
+10116.0,C-1069,Emma Watson,Home,430.92 USD,9.0,2023/07/21,Houston,2.5
+10473.0,C-1003,Bob Johnson,Bks,458.06,6.0,2023-02-18,,1.4
+10737.0,C-1107,Olivia Wilson,Electronics,310.39,8.0,2023-12-01,Chicago,2.8
+10057.0,C-1138,Emma Watson,Bks,$372.54,-3.0,2023-05-11,Los Angeles,4.4
+10718.0,C-1070,Alice Smith,Clothes,70.23,,2023-03-12,New York,2.5
+10966.0,C-1085,MICHAEL BROWN,CLOTHing,$457.98,1000.0,2023.02.24,  los angeles ,4.7
+10369.0,C-1153,Sophia Davis,Home & Kitchen,$224.17,10.0,invalid_date,Chicago,3.4
+10268.0,C-1132,James Taylor,electronics,79.37 USD,6.0,2023/03/08,Los Angeles,3.7
+10046.0,C-1027,Olivia Wilson,CLOTHing,173.72,2.0,2023-12-28,Los Angeles,4.6
+10349.0,C-1056,Emma Watson,books,257.72,10.0,2023-10-18,Houston,3.6
+10195.0,C-1040,  olivia wilson ,Clothing,$200.07,8.0,30-Jul-2023,New York,1.9
+10102.0,C-1070,Michael Brown,HOME & KITCHEN,$343.28,1000.0,2023.04.18,  los angeles ,3.0
+10886.0,C-1118,James Taylor,  Books  ,260.49,3.0,2023-01-03,Chicago,99.0
+10789.0,C-1119,Bob Johnson,  Books  ,,8.0,2023-04-21,New York,4.8
+10783.0,C-1170,John Doe,clothing,$50.14,3.0,2023-09-25,Los Angeles,4.6
+10263.0,C-1059,Sophia Davis,Home,175.79,5.0,2023-07-10,Los Angeles,2.5
+10443.0,C-1155,Sophia Davis,Clothes,388.5,2.0,2023-04-14,Houston,2.8
+10945.0,C-1183,  DAVID MILLER ,  Books  ,$174.39,9.0,invalid_date,Houston,2.0
+10304.0,C-1050,Emily Anderson,books,213.24 USD,,2023/08/28,CHICAGO,4.0
+10341.0,C-1188,John Doe,  Books  ,363.62,2.0,2023-03-07,Chicago,4.8
+10638.0,C-1193,Olivia Wilson,home & kitchen,461.33,6.0,2023-12-25,Los Angeles,1.3
+10313.0,C-1064,Michael Brown,home & kitchen,274.15,6.0,2023-05-22,New York,4.7
+10149.0,C-1029,Sophia Davis,Home,24.74,3.0,2023-12-14,Los Angeles,1.0
+10124.0,C-1128,Olivia Wilson,Electronics,368.86 USD,7.0,2023/12/23,Los Angeles,2.3
+10833.0,C-1180,DAVID MILLER,HOME & KITCHEN,289.7,10.0,2023-03-15,Chicago,-1.5
+10872.0,C-1110,Olivia Wilson,clothing,157.6 USD,7.0,2023/12/14,CHICAGO,2.4
+10050.0,C-1092,  david miller ,clothing,184.83,7.0,09-Sep-2023,Los Angeles,1.5
+10353.0,C-1139,Alice Smith,Home,Free,2.0,2023-10-21,Los Angeles,4.1
+10984.0,C-1050,John Doe,Clothing,-25.5,7.0,2023/03/27,  HOUSTON ,5.0
+10142.0,C-1057,Olivia Wilson,Clothing,168.88,9.0,2023-10-17,New York,99.0
+10470.0,C-1181,  emily anderson ,HOME & KITCHEN,67.57,8.0,13-Sep-2023,Los Angeles,2.3
+10399.0,C-1077,EMMA WATSON,Home,$95.52,8.0,2023-05-03,New York,1.8
+10665.0,C-1177,  BOB JOHNSON ,Books,185.81,3.0,15-Jul-2023,Chicago,4.6
+10320.0,C-1139,  michael brown ,Books,294.76 USD,3.0,2023/04/08,CHICAGO,1.6
+10019.0,C-1056,Sophia Davis,Books,264.78,1.0,2023-06-08,New York,
+,C-1177,David Miller,Clothes,$448.48,8.0,2023.01.08,  new york ,
+10837.0,C-1043,Sophia Davis,  Books  ,$442.41,2.0,2023-05-08,New York,2.6
+10876.0,C-1130,Michael Brown,clothing,$154.8,4.0,2023/04/20,  new york ,
+10407.0,C-1145,Alice Smith,clothing,-25.5,7.0,2023-07-08,Los Angeles,4.0
+10537.0,C-1072,Alice Smith,  ELECTronics  ,$486.77,10.0,2023-06-20,New York,1.1
+10660.0,C-1127,  john doe ,Home,$498.55,5.0,2023/02/16,  new york ,4.4
+10038.0,C-1179,James Taylor,CLOTHing,161.45,6.0,2023-11-13,New York,3.4
+10175.0,C-1029,  JOHN DOE ,Electronics,161.62,10.0,17-Nov-2023,Los Angeles,
+10245.0,C-1133,  EMILY ANDERSON ,Clothes,436.74,8.0,07-Feb-2023,Chicago,3.8
+10879.0,C-1004,Sophia Davis,Electrnics,$50.84,5.0,2023-06-06,Chicago,3.1
+10711.0,C-1062,Alice Smith,  ELECTronics  ,$174.18,10.0,2023-04-10,Chicago,99.0
+10801.0,C-1072,David Miller,home & kitchen,$112.35,2.0,2023-12-23,New York,
+10911.0,C-1119,Sophia Davis,CLOTHing,,3.0,2023-12-16,Houston,4.3
+10154.0,C-1109,JAMES TAYLOR,Home & Kitchen,386.39,2.0,,Chicago,
+10287.0,C-1111,SOPHIA DAVIS,Electronics,75.64,8.0,2023-12-31,New York,3.2
+10625.0,C-1131,  sophia davis ,Clothing,Free,6.0,08-May-2023,New York,1.6
+10888.0,C-1040,Bob Johnson,HOME & KITCHEN,,8.0,2023/01/05,  LOS ANGELES ,5.0
+10569.0,C-1001,James Taylor,books,36.35,,2023-04-07,Houston,4.8
+10790.0,C-1047,  john doe ,  Books  ,170.92,8.0,05-Nov-2023,,-1.5
+10017.0,C-1008,Olivia Wilson,clothing,36.35,7.0,2023-02-04,Los Angeles,
+10127.0,C-1118,Michael Brown,Bks,135.8,6.0,2023-04-24,Los Angeles,3.8
+10322.0,C-1024,MICHAEL BROWN,Clothes,307.88,,2023-10-06,New York,3.9
+10255.0,C-1059,  bob johnson ,clothing,$318.62,10.0,06-May-2023,,1.1
+10700.0,C-1116,  EMILY ANDERSON ,  Books  ,,4.0,2023/04/26,Chicago,1.4
+10210.0,C-1062,  JAMES TAYLOR ,Electrnics,$181.78,2.0,04-Sep-2023,  houston ,1.4
+10190.0,C-1077,  olivia wilson ,Books,482.86,9.0,10-Aug-2023,Los Angeles,4.6
+10115.0,C-1103,  alice smith ,home & kitchen,105.53,8.0,23-Dec-2023,New York,4.2
+10656.0,C-1050,John Doe,electronics,220.07 USD,8.0,2023/05/12,HOUSTON,4.8
+10606.0,C-1158,Michael Brown,books,$301.96,1.0,2023.01.22,  new york ,1.5
+10180.0,C-1001,  james taylor ,HOME & KITCHEN,$182.06,7.0,2023/05/02,  houston ,3.7
+10301.0,C-1087,EMILY ANDERSON,Electronics,451.48,8.0,2023-10-26,Los Angeles,1.7
+10806.0,C-1121,Sophia Davis,  Books  ,410.96,10.0,2023-06-11,New York,4.5
+10757.0,C-1192,Alice Smith,  ELECTronics  ,469.87,2.0,2023-10-03,New York,4.6
+10822.0,C-1006,David Miller,books,$99.99,8.0,2023.06.28,  new york ,3.5
+10781.0,C-1152,James Taylor,Electrnics,326.05,3.0,2023-08-16,Houston,2.6
+10705.0,C-1071,  alice smith ,HOME & KITCHEN,$498.02,6.0,23-Mar-2023,Los Angeles,3.6
+10517.0,C-1180,Alice Smith,books,349.98,8.0,2023-08-28,Houston,3.4
+10372.0,C-1061,Michael Brown,Bks,$342.39,9.0,2023/02/26,  new york ,2.5
+10045.0,C-1087,  david miller ,Clothing,$329.03,1000.0,16-Apr-2023,Chicago,4.5
+10963.0,C-1109,Emily Anderson,Clothes,$153.37,5.0,2023-07-10,Los Angeles,1.2
+10157.0,C-1099,Olivia Wilson,Electrnics,163.55,10.0,2023-06-15,Chicago,4.3
+10940.0,C-1195,  emma watson ,electronics,123.09 USD,9.0,2023/01/27,New York,1.5
+10171.0,C-1069,Michael Brown,Electronics,$129.69,3.0,2023-06-18,Los Angeles,4.8
+10016.0,C-1009,Olivia Wilson,Clothing,444.36 USD,10.0,,,4.3
+10511.0,C-1106,OLIVIA WILSON,books,-25.5,1.0,2023-04-09,,3.0
+10048.0,C-1098,Michael Brown,electronics,$169.33,8.0,2023/10/01,  LOS ANGELES ,2.8
+10191.0,C-1164,Michael Brown,Home & Kitchen,325.73,8.0,invalid_date,Houston,3.9
+10892.0,C-1134,Michael Brown,electronics,436.58 USD,3.0,2023/09/07,Houston,2.2
+10515.0,C-1069,  olivia wilson ,  ELECTronics  ,213.02,2.0,15-Apr-2023,Chicago,4.2
+10946.0,C-1126,Alice Smith,electronics,90.68,3.0,2023-01-27,Houston,2.8
+10730.0,C-1055,  michael brown ,books,486.58,3.0,21-Sep-2023,Chicago,1.1
+10480.0,C-1095,  bob johnson ,books,$321.69,1.0,2023/06/21,  NEW YORK ,3.4
+10283.0,C-1049,John Doe,Bks,411.55,7.0,2023-03-27,Houston,1.8
+10937.0,C-1105,Alice Smith,HOME & KITCHEN,99999.0,7.0,2023-05-21,New York,99.0
+,C-1041,John Doe,electronics,48.57,7.0,invalid_date,Chicago,3.3
+10225.0,C-1122,  james taylor ,Electronics,$45.58,8.0,05-Aug-2023,New York,2.3
+10026.0,C-1184,David Miller,clothing,78.58,,2023-06-16,Los Angeles,3.5
+10829.0,C-1030,Sophia Davis,clothing,48.4,,2023-07-26,New York,
+10437.0,C-1028,Emma Watson,Electrnics,175.35,,2023-11-25,Los Angeles,2.8
+10859.0,C-1161,Bob Johnson,home & kitchen,408.01,10.0,2023-01-04,New York,4.8
+10364.0,C-1015,DAVID MILLER,  ELECTronics  ,255.59 USD,8.0,2023/04/06,Los Angeles,1.3
+10229.0,C-1136,Emma Watson,Home,446.59,10.0,2023-09-01,New York,
+,C-1041,Alice Smith,books,Free,9.0,2023-10-14,New York,2.3
+10669.0,C-1028,Alice Smith,  Books  ,$402.38,2.0,2023-05-29,Chicago,3.2
+10235.0,C-1187,  john doe ,  Books  ,328.68,8.0,21-Aug-2023,New York,1.7
+10374.0,C-1031,Michael Brown,  Books  ,132.62,10.0,2023-02-05,,3.5
+,C-1142,BOB JOHNSON,Electronics,370.11,4.0,2023-06-04,Chicago,2.3
+10101.0,C-1098,David Miller,Books,393.84,2.5,2023-05-24,Houston,
+10687.0,C-1153,Alice Smith,Clothes,$349.78,2.0,2023-03-17,Houston,1.4
+10903.0,C-1069,MICHAEL BROWN,  Books  ,$282.01,2.0,2023-12-30,Chicago,
+10982.0,C-1177,James Taylor,Bks,211.53,6.0,2023-09-26,Houston,1.6
+10912.0,C-1146,John Doe,electronics,$29.98,8.0,2023/06/16,  HOUSTON ,4.9
+10194.0,C-1051,David Miller,Clothing,,2.5,2023-07-25,Los Angeles,4.0
+10907.0,C-1072,David Miller,Bks,289.17,2.0,2023-03-24,Chicago,1.1
+10917.0,C-1008,SOPHIA DAVIS,home & kitchen,169.5,4.0,2023-09-14,Chicago,4.5
+10503.0,C-1061,Emma Watson,  Books  ,unknown,10.0,2023-04-16,Houston,1.1
+10986.0,C-1190,Olivia Wilson,Books,76.28,1000.0,2023-05-29,Houston,
+10882.0,C-1028,OLIVIA WILSON,Home,$244.32,3.0,2023.11.13,  los angeles ,1.8
+10579.0,C-1111,Sophia Davis,Bks,$20.75,5.0,2023-05-18,Chicago,4.7
+10160.0,C-1120,  emma watson ,clothing,387.79 USD,10.0,2023/09/11,LOS ANGELES,4.9
+10680.0,C-1032,  sophia davis ,Electronics,275.48 USD,1.0,2023/03/06,CHICAGO,2.1
+10162.0,C-1065,Sophia Davis,Clothing,$316.61,4.0,2023.04.25,  chicago ,3.0
+10746.0,C-1196,Bob Johnson,books,117.01,9.0,2023-12-09,Los Angeles,4.0
+10152.0,C-1041,Alice Smith,Home & Kitchen,363.37 USD,2.0,2023/05/10,CHICAGO,2.2
+10893.0,C-1167,John Doe,clothing,445.15,9.0,,New York,4.6
+10826.0,C-1033,MICHAEL BROWN,Bks,108.87,10.0,2023-07-19,New York,1.7
+10802.0,C-1193,David Miller,electronics,229.6,8.0,2024-01-01,Houston,3.0
+10111.0,C-1015,Sophia Davis,Clothes,$28.26,8.0,2023-11-27,New York,1.5
+10226.0,C-1141,David Miller,electronics,414.09,3.0,2023-04-13,New York,3.4
+10732.0,C-1107,Bob Johnson,books,$411.74,7.0,2023/03/18,  los angeles ,1.4
+10103.0,C-1164,James Taylor,  ELECTronics  ,35.71,5.0,2023-06-12,Chicago,1.3
+10421.0,C-1113,Bob Johnson,home & kitchen,403.02,7.0,2023-08-26,Los Angeles,1.5
+10419.0,C-1073,Emma Watson,  ELECTronics  ,489.74,,2023-12-30,Houston,4.1
+10997.0,C-1076,Emily Anderson,  ELECTronics  ,366.8,8.0,2023-01-05,Chicago,1.8
+10586.0,C-1032,Emma Watson,Electrnics,416.88,9.0,2023-05-28,New York,4.1
+10827.0,C-1122,James Taylor,home & kitchen,33.8,2.0,2023-12-14,New York,3.0
+10672.0,C-1057,DAVID MILLER,Books,$82.22,7.0,2023/03/01,  NEW YORK ,
+10119.0,C-1146,JOHN DOE,electronics,296.25,2.0,,Los Angeles,3.6
+10053.0,C-1068,Emily Anderson,Bks,318.66,,2023-09-28,Los Angeles,3.1
+10151.0,C-1161,Sophia Davis,Home & Kitchen,61.12,5.0,2023-12-14,Chicago,1.4
+10403.0,C-1019,James Taylor,Electronics,214.47,10.0,2023-12-24,Houston,3.1
+10740.0,C-1108,  emily anderson ,  ELECTronics  ,,1000.0,2023/08/26,Chicago,4.2
+10207.0,C-1029,Michael Brown,home & kitchen,unknown,8.0,2023-04-10,Chicago,3.7
+10658.0,C-1179,DAVID MILLER,Bks,103.06,6.0,2023-03-11,Los Angeles,99.0
+10896.0,C-1138,JAMES TAYLOR,electronics,,10.0,2023/07/06,,
+10809.0,C-1139,Alice Smith,Electrnics,76.96,,2023-05-19,New York,3.3
+10008.0,C-1189,James Taylor,Electronics,490.88 USD,10.0,2023/03/02,NEW YORK,3.6
+10928.0,C-1180,Bob Johnson,Books,95.76 USD,7.0,2023/12/25,HOUSTON,1.9
+10036.0,C-1195,Emma Watson,  Books  ,$288.65,4.0,2023/11/27,  chicago ,3.3
+10452.0,C-1126,Alice Smith,Bks,356.66 USD,1.0,2023/12/07,Los Angeles,4.4
+10651.0,C-1019,MICHAEL BROWN,Bks,$49.59,4.0,2023-12-04,New York,
+10253.0,C-1151,Bob Johnson,Books,,,2023-05-15,Los Angeles,1.3
+10303.0,C-1064,Olivia Wilson,Electronics,$340.89,2.0,2023-06-22,Los Angeles,2.6
+10793.0,C-1098,Olivia Wilson,Home,30.4,10.0,2023-08-05,Chicago,-1.5
+10571.0,C-1138,Alice Smith,books,343.2,10.0,2023-05-10,New York,1.6
+10623.0,C-1173,SOPHIA DAVIS,clothing,258.08,2.0,2023-09-29,Houston,1.7
+10754.0,C-1100,John Doe,electronics,216.64,10.0,2023-10-20,Los Angeles,4.0
+10764.0,C-1070,Michael Brown,clothing,492.0 USD,3.0,2023/11/30,New York,3.1
+10262.0,C-1016,Alice Smith,CLOTHing,205.89,6.0,2023-05-03,Houston,2.0
+10610.0,C-1141,  bob johnson ,Home,413.95,3.0,31-Aug-2023,New York,4.5
+10297.0,C-1026,Bob Johnson,Bks,$92.82,4.0,2023-07-11,Los Angeles,1.5
+10414.0,C-1034,John Doe,books,$479.47,6.0,2023.12.12,  houston ,
+10150.0,C-1040,  michael brown ,clothing,$193.78,,,  chicago ,2.3
+10835.0,C-1197,  sophia davis ,CLOTHing,250.72,10.0,invalid_date,Los Angeles,3.8
+10640.0,C-1173,  olivia wilson ,Home,465.47 USD,10.0,2023/04/10,NEW YORK,1.5
+10943.0,C-1122,Emily Anderson,Clothes,348.56,6.0,2023-04-24,Los Angeles,4.3
+10550.0,C-1068,  sophia davis ,Home,58.16,2.0,28-Jun-2023,Los Angeles,2.6
+10855.0,C-1051,  emily anderson ,home & kitchen,,1000.0,21-Sep-2023,Chicago,4.5
+10488.0,C-1094,Michael Brown,  ELECTronics  ,269.87 USD,8.0,2023/08/08,HOUSTON,1.6
+10710.0,C-1161,  james taylor ,electronics,474.81,7.0,25-May-2023,Chicago,1.3
+10147.0,C-1194,OLIVIA WILSON,electronics,$123.97,10.0,2023-09-25,Los Angeles,
+10146.0,C-1024,John Doe,books,61.79,1.0,2023-10-19,Chicago,3.4
+10965.0,C-1141,  bob johnson ,Home,468.65,2.5,16-Jul-2023,New York,3.5
+10988.0,C-1071,David Miller,HOME & KITCHEN,72.21 USD,2.0,2023/12/22,New York,3.8
+10786.0,C-1165,Sophia Davis,Bks,$364.8,10.0,2023.02.20,  new york ,2.1
+10659.0,C-1099,Emily Anderson,Home & Kitchen,287.81,2.0,2023-11-21,Chicago,3.5
+10348.0,C-1076,Emma Watson,Clothing,$101.4,10.0,2023/06/16,,1.5
+10463.0,C-1034,James Taylor,  ELECTronics  ,239.23,1000.0,2023-01-07,,2.6
+10325.0,C-1043,  emma watson ,Home & Kitchen,93.47,9.0,26-Jul-2023,New York,1.4
+10186.0,C-1046,Alice Smith,home & kitchen,$113.83,1.0,2023.12.22,  houston ,4.1
+10123.0,C-1168,Bob Johnson,  Books  ,unknown,3.0,2023-07-03,Houston,1.7
+10906.0,C-1023,Bob Johnson,  ELECTronics  ,$471.92,10.0,2023.06.19,  new york ,1.8
+10608.0,C-1078,Sophia Davis,HOME & KITCHEN,498.44 USD,5.0,2023/07/12,NEW YORK,
+,C-1036,Michael Brown,home & kitchen,475.4,10.0,2023-11-05,Los Angeles,1.7
+10751.0,C-1091,Michael Brown,Bks,477.58,5.0,2023-10-31,Houston,2.5
+10761.0,C-1057,John Doe,books,99999.0,2.0,2023-09-29,Chicago,1.4
+10197.0,C-1196,Emma Watson,  Books  ,372.01,1.0,2023-11-16,Chicago,2.4
+10609.0,C-1104,JOHN DOE,Books,$209.11,5.0,2023-05-17,Los Angeles,
+10279.0,C-1122,Olivia Wilson,clothing,$87.34,10.0,2023-09-18,Houston,4.7
+10293.0,C-1014,David Miller,HOME & KITCHEN,70.45,3.0,2023-04-14,Chicago,2.7
+10883.0,C-1111,Michael Brown,Home & Kitchen,158.63,5.0,2023-01-30,Houston,2.7
+10400.0,C-1118,  olivia wilson ,books,258.01 USD,2.0,2023/03/22,LOS ANGELES,2.6
+10122.0,C-1055,John Doe,Home & Kitchen,491.81,5.0,2023-07-12,,
+10183.0,C-1068,David Miller,Bks,$463.71,8.0,2023-10-24,Chicago,3.7
+10202.0,C-1001,Emma Watson,home & kitchen,99999.0,,2023-01-14,Houston,2.4
+10438.0,C-1191,Olivia Wilson,  ELECTronics  ,$178.79,4.0,2023.12.04,  chicago ,4.8
+10246.0,C-1116,Sophia Davis,  ELECTronics  ,$367.34,2.0,2023.10.12,  houston ,4.3
+10415.0,C-1090,  michael brown ,  Books  ,96.04,5.0,15-Jul-2023,New York,3.1
+10823.0,C-1160,Bob Johnson,clothing,unknown,5.0,2023-05-25,New York,3.9
+10930.0,C-1143,  michael brown ,Electronics,$165.76,6.0,28-Dec-2023,,3.0
+10960.0,C-1142,  james taylor ,CLOTHing,$229.22,,2023/03/08,  HOUSTON ,1.3
+10954.0,C-1063,Emily Anderson,clothing,$300.22,7.0,2023.05.24,  chicago ,1.8
+10941.0,C-1062,Bob Johnson,Home & Kitchen,83.72,7.0,2023-09-26,New York,2.9
+10129.0,C-1068,Emily Anderson,electronics,,3.0,2023-12-30,New York,2.4
+10637.0,C-1024,MICHAEL BROWN,Clothes,193.87,3.0,2023-09-01,Chicago,2.4
+10402.0,C-1193,Emily Anderson,HOME & KITCHEN,-25.5,,2023.12.08,  chicago ,1.3
+,C-1055,Alice Smith,Clothing,99999.0,3.0,2023-09-17,Chicago,3.2
+10817.0,C-1011,Alice Smith,HOME & KITCHEN,483.32,3.0,2023-04-24,Los Angeles,1.6
+10735.0,C-1139,  ALICE SMITH ,Clothing,-25.5,7.0,08-Sep-2023,New York,4.3
+10967.0,C-1091,David Miller,home & kitchen,293.45,9.0,2023-11-05,Los Angeles,1.6
+10219.0,C-1195,Olivia Wilson,Home & Kitchen,$322.22,6.0,2023-11-05,Los Angeles,2.8
+10641.0,C-1080,Emily Anderson,Bks,-25.5,,2023-09-24,Houston,2.8
+10969.0,C-1117,Emily Anderson,Books,$426.99,2.0,2023-12-02,Houston,2.5
+10799.0,C-1195,Sophia Davis,CLOTHing,251.83,9.0,2023-04-15,Chicago,4.9
+10854.0,C-1184,SOPHIA DAVIS,books,239.88,7.0,2023-03-11,New York,4.6
+10974.0,C-1031,Bob Johnson,Books,99999.0,9.0,2023-04-14,Chicago,4.6
+10624.0,C-1055,Bob Johnson,Home,$287.95,2.0,2023/12/25,  CHICAGO ,1.1
+10890.0,C-1046,  emily anderson ,Electronics,99999.0,1.0,28-Sep-2023,New York,3.1
+10807.0,C-1005,Alice Smith,clothing,$96.5,,2023-08-11,,3.7
+10386.0,C-1134,Alice Smith,Electronics,369.87,4.0,2023-10-19,Houston,2.3
+10947.0,C-1115,Michael Brown,Clothes,370.99,8.0,2023-05-18,New York,3.4
+10509.0,C-1189,John Doe,electronics,15.95,,2023-01-04,Los Angeles,1.1
+10267.0,C-1019,Olivia Wilson,Electrnics,$259.7,2.0,invalid_date,Los Angeles,3.4
+,C-1145,EMMA WATSON,Clothing,190.74 USD,1000.0,2023/03/10,Houston,1.5
+10441.0,C-1070,SOPHIA DAVIS,HOME & KITCHEN,$489.79,3.0,invalid_date,New York,1.3
+10496.0,C-1091,Olivia Wilson,CLOTHing,415.07 USD,1000.0,2023/06/18,HOUSTON,3.8
+10112.0,C-1059,EMILY ANDERSON,Electronics,211.2 USD,7.0,2023/11/08,NEW YORK,
+10691.0,C-1157,Emily Anderson,Bks,183.31,8.0,2023-09-15,Chicago,2.8
+10232.0,C-1055,David Miller,electronics,110.32 USD,-3.0,2023/10/17,LOS ANGELES,3.7
+10922.0,C-1055,Emma Watson,Books,350.81,5.0,2023-08-11,Los Angeles,2.7
+10607.0,C-1146,Sophia Davis,home & kitchen,451.73,5.0,2023-09-25,Houston,1.9
+10671.0,C-1109,Olivia Wilson,Electrnics,120.58,3.0,2023-10-31,Los Angeles,4.8
+10373.0,C-1104,Bob Johnson,Books,431.7,2.0,2023-08-03,Los Angeles,4.8
+10663.0,C-1038,Michael Brown,  ELECTronics  ,$290.13,8.0,2023-11-04,New York,2.1
+10895.0,C-1158,  sophia davis ,  ELECTronics  ,374.05,1000.0,22-Jul-2023,Los Angeles,3.1
+10233.0,C-1139,Emma Watson,  ELECTronics  ,,8.0,2023-11-12,New York,2.3
+10832.0,C-1120,Alice Smith,clothing,424.66 USD,7.0,2023/03/21,HOUSTON,3.8
+10676.0,C-1119,James Taylor,clothing,147.4 USD,5.0,2023/10/30,Chicago,4.1
+10317.0,C-1026,Olivia Wilson,books,106.68,3.0,2023-04-11,Los Angeles,2.5
+10648.0,C-1122,Sophia Davis,Clothing,$80.83,7.0,2023/09/04,  HOUSTON ,4.8
+10410.0,C-1138,  david miller ,Clothes,192.82,2.0,26-Mar-2023,New York,1.2
+10952.0,C-1104,EMMA WATSON,Electronics,157.48 USD,5.0,invalid_date,LOS ANGELES,2.4
+10709.0,C-1125,David Miller,clothing,495.23,7.0,2023-07-20,Houston,4.3
+10358.0,C-1013,Emily Anderson,HOME & KITCHEN,364.44,7.0,2023-10-19,Chicago,4.0
+10258.0,C-1002,Michael Brown,Electronics,$192.37,7.0,2023.01.11,  houston ,2.7
+10744.0,C-1179,Sophia Davis,Electronics,$96.07,8.0,,  NEW YORK ,4.4
+10627.0,C-1189,Sophia Davis,Bks,$445.36,4.0,2023-09-01,New York,2.4
+10632.0,C-1132,Bob Johnson,Clothing,243.85 USD,1.0,2023/01/24,HOUSTON,4.1
+10282.0,C-1105,John Doe,Clothing,$439.86,5.0,2023.12.06,  chicago ,2.8
+10376.0,C-1064,Michael Brown,clothing,352.08 USD,,2023/04/16,HOUSTON,4.0
+10384.0,C-1150,James Taylor,books,$95.48,10.0,invalid_date,  CHICAGO ,1.7
+10224.0,C-1169,JAMES TAYLOR,Books,99999.0,5.0,2023/10/14,NEW YORK,3.7
+10636.0,C-1086,Alice Smith,HOME & KITCHEN,$23.5,4.0,2023/02/11,  chicago ,3.7
+10894.0,C-1070,Olivia Wilson,  Books  ,99999.0,,2023.05.09,  new york ,3.6
+10472.0,C-1144,Michael Brown,electronics,,2.0,2023/10/19,CHICAGO,3.0
+10347.0,C-1049,Sophia Davis,electronics,465.73,2.0,2023-12-20,Houston,2.0
+10505.0,C-1046,  john doe ,books,99999.0,3.0,18-Dec-2023,Houston,2.6
+10639.0,C-1061,David Miller,Books,$440.5,1.0,2023-07-17,New York,3.6
+10587.0,C-1185,Alice Smith,  Books  ,$99.99,10.0,2023-03-29,Houston,4.6
+10797.0,C-1084,Bob Johnson,CLOTHing,6.75,3.0,2023-05-11,Houston,3.9
+10985.0,C-1056,  david miller ,electronics,,-3.0,23-Dec-2023,Los Angeles,2.5
+10959.0,C-1122,EMILY ANDERSON,Home,379.75,3.0,2023-01-07,Los Angeles,2.8
+10619.0,C-1083,Emma Watson,books,8.25,10.0,2023-01-02,Los Angeles,4.7
+10908.0,C-1116,Alice Smith,books,159.13 USD,1.0,2023/09/03,Houston,1.8
+10851.0,C-1174,James Taylor,Clothes,480.26,,2023-09-10,New York,1.9
+10645.0,C-1007,  emma watson ,  Books  ,unknown,6.0,11-Dec-2023,New York,4.9
+10899.0,C-1120,Alice Smith,CLOTHing,268.48,6.0,2023-08-13,Chicago,4.5
+10556.0,C-1187,Olivia Wilson,Clothes,24.55 USD,8.0,2023/07/05,Houston,3.4
+10883.0,C-1111,Michael Brown,Home & Kitchen,158.63,5.0,2023-01-30,Houston,2.7
+10577.0,C-1051,Emily Anderson,Electrnics,,4.0,2023-10-21,Chicago,2.5
+10795.0,C-1055,  james taylor ,HOME & KITCHEN,$147.95,-3.0,29-Nov-2023,Chicago,2.9
+10085.0,C-1091,  james taylor ,Clothing,279.02,8.0,03-Oct-2023,New York,1.6
+10242.0,C-1167,John Doe,CLOTHing,343.66,1.0,2023-07-12,Chicago,
+10698.0,C-1191,Sophia Davis,Electronics,483.56,10.0,2023-03-20,Los Angeles,3.8
+10927.0,C-1153,Bob Johnson,Home & Kitchen,$132.74,7.0,2023-02-28,Chicago,2.8
+10159.0,C-1153,John Doe,home & kitchen,Free,7.0,2023-12-15,New York,3.7
+10524.0,C-1118,Michael Brown,Home & Kitchen,11.24 USD,8.0,2023/07/04,Chicago,3.8
+10035.0,C-1002,  ALICE SMITH ,HOME & KITCHEN,44.02,3.0,29-Dec-2023,Los Angeles,99.0
+10540.0,C-1131,  emma watson ,Books,$294.42,3.0,,  new york ,2.3
+10170.0,C-1193,  bob johnson ,  ELECTronics  ,unknown,10.0,08-May-2023,,-1.5
+10654.0,C-1162,James Taylor,electronics,$373.93,7.0,2023.06.17,  houston ,3.1
+10944.0,C-1166,James Taylor,Home & Kitchen,490.2 USD,1.0,2023/09/03,,4.1
+10910.0,C-1193,  OLIVIA WILSON ,Electrnics,unknown,4.0,08-Sep-2023,Los Angeles,
+10900.0,C-1112,  michael brown ,clothing,$337.21,9.0,2023/08/13,  new york ,3.1
+10737.0,C-1107,Olivia Wilson,Electronics,310.39,8.0,2023-12-01,Chicago,2.8
+10733.0,C-1105,Emily Anderson,Home & Kitchen,370.48,5.0,2023-07-26,Chicago,4.2
+10095.0,C-1044,  emily anderson ,Electrnics,269.28,4.0,19-Sep-2023,New York,4.4
+10563.0,C-1148,Sophia Davis,Books,227.45,6.0,2023-12-06,Chicago,2.4
+10240.0,C-1103,  bob johnson ,  Books  ,$10.24,10.0,2023/09/04,  HOUSTON ,2.0
+10742.0,C-1198,EMILY ANDERSON,Bks,71.37,8.0,2023-11-20,New York,2.3
+10863.0,C-1198,Bob Johnson,Bks,,10.0,2023-09-28,New York,4.6
+10574.0,C-1190,DAVID MILLER,CLOTHing,52.65,-3.0,2023-10-28,New York,3.8
+10690.0,C-1114,  david miller ,CLOTHing,$333.18,,,  chicago ,-1.5
+10460.0,C-1001,  emily anderson ,Clothing,376.12 USD,9.0,2023/02/24,Houston,4.0
+10553.0,C-1153,MICHAEL BROWN,HOME & KITCHEN,446.44,1.0,2023-11-30,,4.7
+10857.0,C-1152,Emily Anderson,Home,233.01,7.0,2023-12-24,Los Angeles,1.1
+10973.0,C-1060,DAVID MILLER,home & kitchen,489.45,10.0,2023-06-04,Houston,1.3
+10206.0,C-1005,Alice Smith,Books,324.11,1000.0,2023-10-31,Chicago,2.7
+10392.0,C-1081,OLIVIA WILSON,  ELECTronics  ,unknown,4.0,2023/07/20,NEW YORK,1.9
+10794.0,C-1084,James Taylor,Books,366.43,7.0,2023-05-11,Chicago,4.1
+10870.0,C-1089,  emily anderson ,  ELECTronics  ,$97.75,2.0,14-Jul-2023,  chicago ,2.0
+10397.0,C-1172,Sophia Davis,Books,449.57,10.0,2023-10-19,New York,4.4
+10766.0,C-1125,Alice Smith,  ELECTronics  ,383.75,8.0,2023-03-02,Houston,99.0
+10901.0,C-1188,Alice Smith,Books,82.96,3.0,2023-07-01,Houston,2.5
+10217.0,C-1125,OLIVIA WILSON,Clothing,88.48,4.0,2023-10-05,Los Angeles,2.0
+10004.0,C-1071,Bob Johnson,  Books  ,346.5 USD,2.0,2023/03/02,Chicago,2.2
+10768.0,C-1100,Emily Anderson,Electronics,$442.78,1.0,2023/01/03,  CHICAGO ,2.2
+,C-1058,Olivia Wilson,Clothes,$375.1,1.0,2023.09.16,  chicago ,99.0
+10951.0,C-1057,John Doe,Books,Free,7.0,2023-01-01,Los Angeles,3.3
+10612.0,C-1078,Emily Anderson,CLOTHing,$190.66,8.0,2023/07/09,  houston ,1.7
+10738.0,C-1016,Olivia Wilson,  Books  ,$308.12,3.0,2023.12.21,  chicago ,
+10546.0,C-1030,OLIVIA WILSON,Clothes,$172.52,6.0,2023.01.20,  houston ,2.8
+10725.0,C-1060,  sophia davis ,Books,284.6,6.0,07-Aug-2023,Chicago,2.4
+10971.0,C-1079,Emma Watson,Books,484.11,8.0,2023-02-20,New York,1.5
+10683.0,C-1119,John Doe,Home,335.79,4.0,2023-10-03,New York,2.8
+10098.0,C-1063,ALICE SMITH,  Books  ,99999.0,7.0,invalid_date,Los Angeles,3.1
+10804.0,C-1065,Emily Anderson,Books,,5.0,2023/09/19,  houston ,3.2
+10727.0,C-1178,Emma Watson,Clothes,361.12,-3.0,2023-02-19,New York,3.1
+10573.0,C-1185,Sophia Davis,Home & Kitchen,$207.85,10.0,2023-12-04,New York,-1.5
+10406.0,C-1160,EMMA WATSON,Books,231.31,1.0,2023-10-11,New York,2.0
+10502.0,C-1040,James Taylor,  Books  ,98.06,7.0,2023-06-19,Los Angeles,2.0
+10047.0,C-1024,Olivia Wilson,electronics,409.21,1000.0,2023-10-24,Houston,
+10032.0,C-1115,Bob Johnson,books,168.79 USD,2.5,2023/11/27,CHICAGO,1.3
+10779.0,C-1007,Emily Anderson,Bks,441.86,7.0,2023-09-23,New York,4.4
+10839.0,C-1156,Bob Johnson,CLOTHing,63.51,1.0,2023-04-04,Chicago,2.4
+10200.0,C-1200,  bob johnson ,Electrnics,96.08 USD,6.0,2023/11/14,NEW YORK,1.6
+10134.0,C-1138,Sophia Davis,  Books  ,154.07,5.0,2023-01-19,New York,1.8
+10027.0,C-1167,Olivia Wilson,clothing,$446.57,3.0,2023-11-16,Houston,2.1
+10933.0,C-1049,Olivia Wilson,Bks,$423.65,9.0,2023-04-07,New York,4.7
+10230.0,C-1156,  emma watson ,HOME & KITCHEN,317.66,10.0,28-Aug-2023,Los Angeles,1.5
+10489.0,C-1011,John Doe,books,$248.51,6.0,2023-11-14,Los Angeles,1.8
+10772.0,C-1104,Emily Anderson,clothing,234.47 USD,1.0,2023/10/15,Houston,3.7
+10378.0,C-1153,ALICE SMITH,Clothes,$270.15,9.0,2023.03.23,  houston ,2.5
+10288.0,C-1091,Sophia Davis,Bks,$384.91,9.0,2023/12/22,  NEW YORK ,1.8
+10418.0,C-1095,Alice Smith,  Books  ,228.11,3.0,,,2.9
+10674.0,C-1179,Bob Johnson,Electronics,125.31,3.0,2023-07-14,Los Angeles,4.1
+10391.0,C-1184,Alice Smith,Electrnics,99999.0,8.0,2023-12-31,Chicago,2.4
+10592.0,C-1105,Michael Brown,Clothing,418.06 USD,6.0,2023/04/19,,1.6
+10498.0,C-1144,James Taylor,HOME & KITCHEN,$260.72,7.0,2023.01.21,  houston ,2.8
+10138.0,C-1110,Alice Smith,Clothes,$262.7,1000.0,2023.11.23,,4.3
+10062.0,C-1076,Emma Watson,Electrnics,379.79,5.0,2024-01-01,Houston,2.9
+10471.0,C-1110,John Doe,books,$89.45,10.0,2023-02-22,Los Angeles,1.8
+10647.0,C-1063,Alice Smith,Home,166.78,4.0,2023-08-17,New York,3.0
+10128.0,C-1037,Bob Johnson,Home & Kitchen,423.78 USD,8.0,2023/05/24,HOUSTON,3.0
+10134.0,C-1138,Sophia Davis,  Books  ,$99.99,5.0,2023-01-19,New York,1.8
+10520.0,C-1010,  emily anderson ,Home & Kitchen,77.31 USD,9.0,2023/06/05,HOUSTON,2.8
+10838.0,C-1156,Michael Brown,HOME & KITCHEN,148.79,1.0,2023-08-03,Los Angeles,4.9
+10371.0,C-1173,JAMES TAYLOR,HOME & KITCHEN,173.13,8.0,2023-07-30,New York,1.9
+10064.0,C-1159,James Taylor,  Books  ,337.71 USD,4.0,2023/06/13,,3.2
+10812.0,C-1058,MICHAEL BROWN,Home,48.41 USD,10.0,invalid_date,New York,4.8
+10014.0,C-1152,EMILY ANDERSON,home & kitchen,365.0,1.0,2023-04-21,Los Angeles,4.4
+10156.0,C-1017,James Taylor,CLOTHing,$151.73,2.5,2023/01/27,  chicago ,2.7
+10040.0,C-1088,  emily anderson ,  ELECTronics  ,,3.0,2023/09/25,CHICAGO,3.7
+10492.0,C-1175,James Taylor,Electronics,$399.4,2.0,2023/07/12,  new york ,2.0
+10379.0,C-1011,Olivia Wilson,Electrnics,135.36,10.0,2023-06-08,Los Angeles,1.1
+10187.0,C-1130,Olivia Wilson,Bks,399.4,4.0,invalid_date,Houston,
+10763.0,C-1057,SOPHIA DAVIS,books,126.63,2.0,2023-10-03,Los Angeles,2.1
+10216.0,C-1188,Emily Anderson,clothing,$404.81,1000.0,2023/06/09,,4.1
+10921.0,C-1125,Sophia Davis,clothing,$50.99,9.0,2023-11-02,Houston,2.1
+10791.0,C-1013,EMMA WATSON,  ELECTronics  ,432.02,10.0,2023-10-30,New York,4.9
+10052.0,C-1155,Emily Anderson,books,6.09 USD,7.0,2023/04/03,Chicago,2.9
+10878.0,C-1088,Emma Watson,Electrnics,23.51,8.0,2023-07-21,Los Angeles,3.1
+10337.0,C-1117,David Miller,Clothes,412.51,5.0,2023-12-24,Los Angeles,3.0
+10748.0,C-1098,Alice Smith,Home,475.35 USD,2.5,,Chicago,1.4
+10719.0,C-1086,James Taylor,electronics,292.61,7.0,2023-09-05,Houston,3.4
+10724.0,C-1039,Sophia Davis,home & kitchen,386.17 USD,3.0,2023/03/17,Chicago,2.6
+10295.0,C-1168,  bob johnson ,Bks,455.12,2.5,06-Jun-2023,New York,3.2
+10701.0,C-1067,Olivia Wilson,  Books  ,155.94,7.0,2023-01-27,Houston,3.4
+10251.0,C-1087,Olivia Wilson,clothing,197.11,4.0,,New York,3.6
+10726.0,C-1099,Bob Johnson,  ELECTronics  ,$38.57,3.0,2023.03.28,  houston ,4.4
+10461.0,C-1086,Emma Watson,electronics,201.54,10.0,2023-03-30,Houston,2.7
+10455.0,C-1024,  JOHN DOE ,books,375.21,4.0,17-Jun-2023,New York,4.2
+,C-1072,  emily anderson ,clothing,$332.25,6.0,22-Dec-2023,  new york ,
+10815.0,C-1200,  bob johnson ,Books,332.16,1.0,26-Apr-2023,Chicago,2.3
+10862.0,C-1179,Emily Anderson,Electronics,279.81,9.0,2023-12-05,Los Angeles,1.7
+10269.0,C-1061,John Doe,HOME & KITCHEN,303.0,1.0,2023-04-09,Houston,2.6
+10201.0,C-1136,David Miller,Clothing,$130.11,8.0,2023-11-30,Chicago,1.8
+10161.0,C-1136,JAMES TAYLOR,HOME & KITCHEN,315.33,6.0,2023-01-23,Los Angeles,4.1
+10555.0,C-1089,  bob johnson ,Clothing,$363.58,7.0,05-May-2023,Los Angeles,1.5
+10729.0,C-1181,Bob Johnson,Home & Kitchen,$19.59,2.0,2023-01-27,Los Angeles,4.1
+10401.0,C-1081,John Doe,Clothing,376.33,10.0,2023-11-18,New York,
+10702.0,C-1193,Sophia Davis,Books,$373.47,1.0,2023.04.02,  new york ,2.5
+,C-1177,MICHAEL BROWN,Home,71.88 USD,6.0,2023/12/22,Los Angeles,4.9
+10821.0,C-1052,Michael Brown,CLOTHing,411.03,8.0,2023-09-08,Chicago,1.5
+10771.0,C-1174,Olivia Wilson,clothing,$346.53,10.0,2023-12-01,New York,
+10105.0,C-1143,  OLIVIA WILSON ,  ELECTronics  ,$182.55,3.0,29-Dec-2023,Houston,3.0
+10565.0,C-1066,  james taylor ,  Books  ,389.08,7.0,17-Feb-2023,Chicago,4.4
+10389.0,C-1053,Michael Brown,home & kitchen,418.99,8.0,2023-05-28,Chicago,1.7
+10001.0,C-1029,Michael Brown,Clothing,189.45,,2023-08-22,Chicago,1.7
+10994.0,C-1073,SOPHIA DAVIS,Books,195.43,8.0,2023-05-20,New York,2.5
+10479.0,C-1010,John Doe,Electronics,$99.99,5.0,2023-12-08,Houston,2.9
+10561.0,C-1030,David Miller,Electronics,$301.35,4.0,2023-03-17,Houston,1.0
+10931.0,C-1003,OLIVIA WILSON,Home & Kitchen,37.36,8.0,2023-02-22,New York,2.3
+10080.0,C-1117,  michael brown ,CLOTHing,403.37 USD,-3.0,2023/06/05,NEW YORK,3.0
+10205.0,C-1126,  bob johnson ,CLOTHing,495.09,2.0,01-Nov-2023,New York,1.1
+10034.0,C-1072,Michael Brown,Clothing,192.43,8.0,2023-10-20,Chicago,2.1
+10942.0,C-1177,James Taylor,CLOTHing,$37.7,9.0,2023.11.21,  chicago ,99.0
+10775.0,C-1120,  olivia wilson ,  ELECTronics  ,447.69,9.0,06-Jul-2023,Houston,1.9
+10508.0,C-1046,Olivia Wilson,CLOTHing,80.31 USD,3.0,2023/04/04,Los Angeles,1.1
+10427.0,C-1136,EMILY ANDERSON,Bks,317.17,9.0,2023-11-07,Houston,4.1
+10454.0,C-1014,Emily Anderson,books,391.58,4.0,,Los Angeles,4.9
+10902.0,C-1152,Bob Johnson,Home & Kitchen,99999.0,9.0,2023-01-03,Houston,4.6
+10366.0,C-1021,Emma Watson,clothing,$62.92,5.0,2023.04.30,  los angeles ,2.0
+10091.0,C-1166,JOHN DOE,electronics,356.62,6.0,2023-09-04,Chicago,
+10339.0,C-1109,John Doe,  ELECTronics  ,Free,10.0,2023-10-13,Los Angeles,2.3
+10897.0,C-1199,Alice Smith,Home & Kitchen,$321.23,9.0,2023-04-04,,1.8
+10564.0,C-1049,Bob Johnson,CLOTHing,$273.09,5.0,2023/01/07,  los angeles ,4.3
+10345.0,C-1125,  emma watson ,electronics,$91.76,,06-Aug-2023,Chicago,4.4
+10776.0,C-1033,Emily Anderson,HOME & KITCHEN,199.57 USD,7.0,2023/03/29,LOS ANGELES,1.9
+10241.0,C-1172,Olivia Wilson,Home & Kitchen,482.18,7.0,2023-06-19,Los Angeles,
+10013.0,C-1023,John Doe,Electrnics,431.98,6.0,2023-06-06,Chicago,4.7
+10315.0,C-1114,  BOB JOHNSON ,Clothes,$8.52,5.0,04-Jul-2023,Chicago,2.3
+10600.0,C-1108,  john doe ,Clothing,$384.31,4.0,2023/06/25,  CHICAGO ,2.9
+10387.0,C-1081,David Miller,Books,$124.82,,2023-08-24,Los Angeles,4.5
+10273.0,C-1055,MICHAEL BROWN,HOME & KITCHEN,$242.12,6.0,2023-01-24,Los Angeles,2.3
+10166.0,C-1185,John Doe,HOME & KITCHEN,220.44,3.0,2023-06-21,,4.7
+10840.0,C-1192,  EMMA WATSON ,  Books  ,$399.38,4.0,2023/07/01,  LOS ANGELES ,3.1
+10020.0,C-1060,  bob johnson ,Clothes,363.27 USD,10.0,2023/06/22,New York,2.2
+10646.0,C-1012,James Taylor,Books,163.06,2.0,2023-08-28,Houston,
+10818.0,C-1194,Emily Anderson,clothing,183.29,7.0,2023-02-23,Los Angeles,3.7
+10484.0,C-1111,Emily Anderson,Clothing,209.04 USD,8.0,2023/09/15,Chicago,99.0
+10264.0,C-1018,James Taylor,home & kitchen,$99.99,5.0,2023/09/27,  CHICAGO ,4.0
+10504.0,C-1042,EMILY ANDERSON,books,-25.5,8.0,2023/12/07,  LOS ANGELES ,99.0
+10831.0,C-1056,James Taylor,Books,$354.87,8.0,2023-12-18,Chicago,2.5
+10243.0,C-1096,Bob Johnson,Clothing,$74.48,9.0,2023-04-05,Houston,3.5
+10566.0,C-1012,John Doe,Books,368.16,2.0,2023-07-16,Chicago,5.0
+10875.0,C-1018,  EMMA WATSON ,Books,188.93,8.0,05-Sep-2023,Los Angeles,4.4
+10562.0,C-1099,Alice Smith,CLOTHing,84.37,9.0,2023-11-05,New York,2.6
+10076.0,C-1060,Michael Brown,books,441.29 USD,1.0,2023/01/10,Houston,2.0
+10686.0,C-1144,OLIVIA WILSON,Clothes,unknown,10.0,2023-09-13,,99.0
+10957.0,C-1149,Alice Smith,clothing,$73.76,2.0,2023-07-06,New York,
+10189.0,C-1161,BOB JOHNSON,Books,$152.54,2.0,invalid_date,Houston,1.5
+10782.0,C-1145,Bob Johnson,  ELECTronics  ,86.18,7.0,2023-09-09,Chicago,3.3
+10975.0,C-1185,  alice smith ,Home & Kitchen,$20.44,4.0,20-Mar-2023,New York,3.6
+10699.0,C-1122,Bob Johnson,Bks,$357.67,5.0,2023-04-18,Los Angeles,4.0
+10475.0,C-1020,  james taylor ,books,467.75,4.0,14-Dec-2023,Houston,3.9
+10681.0,C-1117,Alice Smith,  ELECTronics  ,$276.66,10.0,2023-11-05,Los Angeles,1.5
+10510.0,C-1086,  john doe ,HOME & KITCHEN,$144.65,2.0,invalid_date,  new york ,4.2
+10058.0,C-1032,Emma Watson,Electrnics,130.87,6.0,2023-03-20,Houston,3.0
+10474.0,C-1029,Bob Johnson,  ELECTronics  ,$236.26,7.0,2023.11.20,  houston ,2.3
+10560.0,C-1131,  ALICE SMITH ,Books,236.86 USD,2.0,2023/08/22,HOUSTON,1.4
+10856.0,C-1020,Bob Johnson,CLOTHing,-25.5,,2023/12/13,LOS ANGELES,1.6
+10747.0,C-1148,Olivia Wilson,  Books  ,$484.56,8.0,2023-04-26,Houston,1.9
+10252.0,C-1006,JOHN DOE,  ELECTronics  ,$441.37,2.0,2023/03/31,  new york ,2.5
+10021.0,C-1130,JOHN DOE,  ELECTronics  ,$478.1,10.0,2023-09-01,Chicago,3.8
+10459.0,C-1012,Bob Johnson,  Books  ,$129.57,6.0,2023-03-03,Chicago,2.3
+10276.0,C-1186,David Miller,Clothing,-25.5,4.0,2023/03/18,  houston ,3.8
+10955.0,C-1079,  olivia wilson ,books,167.07,3.0,21-Feb-2023,Chicago,2.6
+10385.0,C-1145,  SOPHIA DAVIS ,Home & Kitchen,465.48,9.0,07-May-2023,Houston,1.6
+10805.0,C-1021,  JOHN DOE ,Clothes,142.67,9.0,03-Aug-2023,Houston,1.2
+10343.0,C-1170,OLIVIA WILSON,Home & Kitchen,146.8,9.0,2023-12-04,Los Angeles,
+10769.0,C-1087,James Taylor,Clothing,146.53,1.0,2023-06-10,Houston,1.3
+10130.0,C-1036,  david miller ,Electrnics,469.06,,16-Feb-2023,Houston,2.8
+10871.0,C-1137,Michael Brown,home & kitchen,99999.0,6.0,2023-02-27,Los Angeles,1.8
+10087.0,C-1172,Bob Johnson,Clothing,$344.87,5.0,2023-01-01,New York,-1.5
+10330.0,C-1103,  david miller ,Clothing,$63.95,1.0,27-Apr-2023,  new york ,4.5
+10466.0,C-1042,Emma Watson,home & kitchen,56.44,3.0,2023-11-29,New York,1.1
+10121.0,C-1081,Emily Anderson,Home & Kitchen,100.78,-3.0,2023-03-05,Los Angeles,1.5
+10860.0,C-1063,  bob johnson ,  Books  ,32.73 USD,5.0,2023/12/26,Houston,4.2
