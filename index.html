@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Cleaning & Visualization Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0B0F19;
+            --bg-card: #161C2A;
+            --primary: #4F46E5;
+            --primary-hover: #4338CA;
+            --accent: #10B981;
+            --text-main: #F3F4F6;
+            --text-muted: #9CA3AF;
+            --border: #2D3748;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        header h1 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #818CF8, #34D399);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            font-weight: 400;
+        }
+
+        .section-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin: 2.5rem 0 1.5rem 0;
+            position: relative;
+            padding-left: 1rem;
+            border-left: 4px solid var(--primary);
+        }
+
+        /* Dashboard Showcase Card */
+        .dashboard-showcase {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+
+        .dashboard-img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease;
+        }
+
+        .dashboard-img:hover {
+            transform: scale(1.01);
+        }
+
+        /* Charts Grid */
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .chart-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .chart-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+            box-shadow: 0 8px 20px rgba(79, 70, 229, 0.15);
+        }
+
+        .chart-img-container {
+            width: 100%;
+            height: 250px;
+            background-color: #1e2638;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .chart-img-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            transition: transform 0.3s ease;
+        }
+
+        .chart-card:hover .chart-img-container img {
+            transform: scale(1.05);
+        }
+
+        .chart-info {
+            padding: 1rem;
+        }
+
+        .chart-info h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+        }
+
+        .chart-info p {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        /* Report Section */
+        .report-card {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 2rem;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+            margin-bottom: 3rem;
+        }
+
+        .report-text {
+            background-color: #0d111a;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1.5rem;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.95rem;
+            color: #34D399;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+
+        footer {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        footer a:hover {
+            color: var(--text-main);
+        }
+
+        /* Responsive changes */
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem;
+            }
+            header h1 {
+                font-size: 2rem;
+            }
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Data Cleaning & Visualization Project</h1>
+            <p>Work on a raw dataset to clean, process, and visualize insights.</p>
+        </header>
+
+        <section>
+            <h2 class="section-title">Executive Infographic Dashboard</h2>
+            <div class="dashboard-showcase">
+                <img src="output/dashboard.png" class="dashboard-img" alt="Executive Dashboard Preview">
+            </div>
+        </section>
+
+        <section>
+            <h2 class="section-title">Exploratory Data Analysis (EDA) Charts</h2>
+            <div class="charts-grid">
+                <!-- Chart 1 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/missing_values.png" alt="Missing Values Chart">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Missing Values Profile</h3>
+                        <p>Visualizes missing record shares in the raw dataset before treatment.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 2 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/price_distribution.png" alt="Price Distribution">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Sale Price Distribution</h3>
+                        <p>Probability density of standard sale prices after filtering extreme outliers.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 3 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/sales_trend.png" alt="Sales Trend">
+                    </div>
+                    <div class="chart-info">
+                        <h3>7-Day Rolling Revenue Trend</h3>
+                        <p>Moving average timeline showcasing business revenue performance.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 4 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/category_distribution.png" alt="Category Distribution">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Product Category Breakdown</h3>
+                        <p>Frequency shares of item categories in sales volume.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 5 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/avg_price_by_category.png" alt="Avg Price by Category">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Mean Category Pricing</h3>
+                        <p>Bar comparisons of average unit pricing across sectors.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 6 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/transactions_by_location.png" alt="Transactions by Location">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Regional Density Shares</h3>
+                        <p>Number of logged transactions across physical store locations.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 7 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/price_vs_rating.png" alt="Price vs Rating">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Price vs. Customer Rating</h3>
+                        <p>Scatter plot exploring consumer ratings relative to spending thresholds.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 8 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/rating_violin_plot.png" alt="Rating Violin Plot">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Customer Rating Violin Plot</h3>
+                        <p>Density width and box plots of ratings across product types.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 9 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/correlation_heatmap.png" alt="Correlation Heatmap">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Correlation Heatmap</h3>
+                        <p>Pearson coefficients between price, quantity, and rating.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 10 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/price_box_plot.png" alt="Price Box Plot">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Price Box Plot by Category</h3>
+                        <p>IQR spread highlighting category pricing quartiles.</p>
+                    </div>
+                </div>
+
+                <!-- Chart 11 -->
+                <div class="chart-card">
+                    <div class="chart-img-container">
+                        <img src="output/charts/pair_plot.png" alt="Pair Plot">
+                    </div>
+                    <div class="chart-info">
+                        <h3>Cleaned Dataset Pair Plot</h3>
+                        <p>Pairwise scatter-hist matrices highlighting numerical distributions.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="section-title">Analytical Summary Report</h2>
+            <div class="report-card">
+                <pre class="report-text" id="report-text">Loading summary report contents...</pre>
+            </div>
+        </section>
+
+        <footer>
+            <p>Data Science Project Submissions | Built by <a href="https://github.com/laksh114" target="_blank">laksh114</a></p>
+        </footer>
+    </div>
+
+    <script>
+        // Load report content dynamically
+        fetch('output/summary_report.txt')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network error loading report');
+                }
+                return response.text();
+            })
+            .then(text => {
+                document.getElementById('report-text').textContent = text;
+            })
+            .catch(err => {
+                document.getElementById('report-text').textContent = 'Unable to display the detailed report. Ensure output/summary_report.txt exists on your server.';
+                console.error(err);
+            });
+    </script>
+</body>
+</html>
